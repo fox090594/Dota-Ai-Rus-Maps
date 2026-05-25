@@ -1,0 +1,18 @@
+char[4]: "HM3W"
+int: unknown
+string: map name
+int: map flags
+0x0001: if 1=hide minimap in preview screens
+0x0002: if 1=modify ally priorities
+0x0004: if 1=melee map
+0x0008: if 1=playable map size was large and has never been reduced to medium
+0x0010: if 1=masked area are partially visible
+0x0020: if 1=fixed player setting for custom forces
+0x0040: if 1=use custom forces
+0x0080: if 1=use custom techtree
+0x0100: if 1=use custom abilities
+0x0200: if 1=use custom upgrades
+0x0400: if 1=map properties menu opened at least once since map creation
+0x0800: if 1=show water waves on cliff shores
+0x1000: if 1=show water waves on rolling shores
+int: max number of players
