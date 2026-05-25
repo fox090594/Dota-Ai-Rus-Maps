@@ -1,0 +1,1695 @@
+[Arpl]
+Name=Essence of Blight
+Tip=Essence of |cffffcc00B|rlight
+Ubertip="Restores <Arpl,DataA1> hit points to nearby friendly units."
+Untip="|cffc3dbff|cffc3dbffНажмите правой кнопкой, чтобы использовать автоматически.|r|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=B
+Unhotkey=B
+[Brpl]
+Bufftip=Nature's Attendants
+Buffubertip=This unit is having some of its health restored by a friendly wisp.
+[Arpm]
+Name=Spirit Touch
+Tip=Spirit Tou|cffffcc00c|rh
+Ubertip="Restores <Arpm,DataB1> mana to nearby friendly units."
+Untip="|cffc3dbff|cffc3dbffНажмите правой кнопкой, чтобы использовать автоматически.|r|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=C
+Unhotkey=C
+Order=replenishmana
+Orderon=replenishmanaon
+Orderoff=replenishmanaoff
+[Brpm]
+Bufftip=Spirit Touch
+Buffubertip="This unit has been hit by Spirit Touch; some of its mana has been restored."
+[Aave]
+Name=Destroyer Form
+[Afak]
+Name=Orb of Annihilation
+Tip="|cffffcc00O|rrb of Annihilation"
+Ubertip="Adds <Afak,DataA1> bonus damage to the Destroyer's attack and causes his attacks to do area of effect damage."
+Untip="|cffc3dbff|cffc3dbffНажмите правой кнопкой, чтобы использовать автоматически.|r|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=O
+Unhotkey=O
+[Advm]
+Name=Devour Magic
+Tip="|cffffcc00D|revour Magic"
+Ubertip="Consumes all magical buffs from units in an area. Each unit that is devoured of magic gives the Destroyer <Advm,DataA1> hit points and <Advm,DataB1> mana. |n|cffffcc00Deals <Advm,DataE1> damage to summoned units.|r"
+Hotkey=D
+[Aabs]
+Name=Absorb Mana
+Tip="A|cffffcc00b|rsorb Mana"
+Ubertip="Takes all mana from one of your units and gives it to the Destroyer."
+Hotkey=B
+[Abur]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip="The Crypt Fiend digs into the ground, becomes invisible, and gains a regeneration rate of <ucrm,regenHP> hit points per second. |nThe Crypt Fiend cannot attack while burrowed."
+Unubertip="The Crypt Fiend pops out of the ground and becomes visible again."
+Hotkey=B
+Unhotkey=B
+[AUim]
+Name=Impale
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Уровень 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Уровень 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Уровень 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[BUim]
+Bufftip=Impale
+Buffubertip="This unit has been impaled; it is in the air for a short duration."
+[AUts]
+Name=Spiked Carapace
+Tip=Spiked Carapace - [|cffffcc00Уровень 1|r],Spiked Carapace - [|cffffcc00Уровень 2|r],Spiked Carapace - [|cffffcc00Уровень 3|r]
+Ubertip="Enhances the Crypt Lord's chitinous armor with organic barbs, giving the Crypt Lord <AUts,DataC1> bonus armor and returning <AUts,DataA1,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC2> bonus armor and returning <AUts,DataA2,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC3> bonus armor and returning <AUts,DataA3,%>% of melee attack damage to enemies."
+Researchtip="Изучить |cffffcc00S|rpiked Carapace - [|cffffcc00Уровень %d|r]"
+Researchubertip="The Crypt Lord forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Уровень 1|r - <AUts,DataA1,%>% damage returned, <AUts,DataC1> bonus armor. |n|cffffcc00Уровень 2|r -  <AUts,DataA2,%>% damage returned, <AUts,DataC2> bonus armor. |n|cffffcc00Уровень 3|r -  <AUts,DataA3,%>% damage returned, <AUts,DataC3> bonus armor."
+Researchhotkey=S
+[AUcb]
+Name=Carrion Beetles
+Tip=|cffffcc00C|rarrion Beetles - [|cffffcc00Уровень 1|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Уровень 2|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Уровень 3|r]
+Ubertip="Progenerates <AUcb,DataA1> Beetle from a target corpse. Beetles have <ucs1,realHP> hit points, and deal <ucs1,mindmg1> - <ucs1,maxdmg1> damage. Beetles are permanent until killed. |nMaximum of <AUcb,DataE1> Beetles.","Progenerates <AUcb,DataA2> Beetle from a target corpse. Beetles have <ucs2,realHP> hit points, and deal <ucs2,mindmg1> - <ucs2,maxdmg1> damage, and can burrow. Beetles are permanent until killed. |nMaximum of <AUcb,DataE2> Beetles.","Progenerates <AUcb,DataA3> Beetle from a target corpse. Beetles have <ucs3,realHP> hit points, and deal <ucs3,mindmg1> - <ucs3,maxdmg1> damage, and can burrow. Beetles are permanent until killed. |nMaximum of <AUcb,DataE3> Beetles."
+Hotkey=C
+Researchtip="Изучить |cffffcc00C|rarrion Beetles - [|cffffcc00Уровень %d|r]"
+Researchubertip="The Crypt Lord progenerates <AUcb,DataA1> Carrion Beetle from a target corpse to attack the Crypt Lord's enemies. Beetles are permanent, but only <AUcb,DataE1> can be controlled at a time. |n|n|cffffcc00Уровень 1|r - <ucs1,realHP> hit points, <ucs1,mindmg1> - <ucs1,maxdmg1> damage. |n|cffffcc00Уровень 2|r - <ucs2,realHP> hit points, <ucs2,mindmg1> - <ucs2,maxdmg1> damage, Beetles can burrow. |n|cffffcc00Уровень 3|r - <ucs3,realHP> hit points, <ucs3,mindmg1> - <ucs3,maxdmg1> damage, Beetles can burrow."
+Researchhotkey=C
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+[BUcb]
+Bufftip=Carrion Beetles
+Buffubertip=Вызванные юниты получают урон от развеивающих заклинаний
+[AUls]
+Name=Locust Swarm
+Tip=|cffffcc00L|rocust Swarm
+Ubertip="Creates a swarm of angry locusts that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the Crypt Lord when they return. |nLasts <AUls,HeroDur1> seconds."
+Hotkey=L
+Researchtip="Изучить |cffffcc00L|rocust Swarm"
+Researchubertip="Creates a swarm of angry locusts that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the Crypt Lord when they return. |nLasts <AUls,HeroDur1> seconds."
+Researchhotkey=L
+[BUlo]
+Bufftip=Locust
+[Amtc]
+Name=Cargo Hold
+[Atru]
+Name=True Sight
+Tip=True Sight
+Ubertip="Позволяет обнаруживать невидимых юнитов, находящихся поблизости."
+[Aaha]
+Name=Gather
+Tip=|cffffcc00G|rather
+Ubertip="Mines gold from Haunted Gold Mines."
+Untip=|cffffcc00R|return Resources
+Unubertip="Return the carried resources to the nearest town hall."
+Hotkey=G
+Unhotkey=R
+[Auns]
+Name=Unsummon Building
+Tip=|cffffcc00U|rnsummon Building
+Ubertip="Unsummons your building to regain <Auns,DataA1,%>% of the spent resources."
+Hotkey=U
+[Buns]
+Bufftip=Conversion
+[Agyd]
+Name=Create Corpse
+[Alam]
+Name=Sacrifice
+Tip=Sa|cffffcc00c|rrifice
+Ubertip="Target a Sacrificial Pit to sacrifice the Acolyte and turn it into a Shade. Shades are invisible spirits that can see invisible units. |nShades cannot attack."
+Hotkey=C
+[Acan]
+Name=Cannibalize
+Tip=|cffffcc00C|rannibalize
+Ubertip="Consumes a nearby corpse to heal <Acan,DataA1> hit points per second."
+Hotkey=C
+[Acn2]
+Name=Cannibalize
+Tip=|cffffcc00C|rannibalize
+Ubertip="Consumes a nearby corpse to heal <Acn2,DataA1> hit points per second."
+Hotkey=C
+[Astn]
+Name=Stone Form
+Tip=Stone |cffffcc00F|rorm
+Ubertip="Transforms the Gargoyle into a statue that is immune to spells, gains additional armor and has a regeneration rate of 80 hit points per second. |nThe Gargoyle cannot attack in this form."
+Hotkey=F
+Untip=Gargoyle |cffffcc00F|rorm
+Unubertip="Returns the Gargoyle to the air."
+Unhotkey=F
+[Aapl]
+Name=Disease Cloud
+Tip=Disease Cloud
+Ubertip="Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap1,DataB1> damage per second. |nLasts <Aap1,DataA1> seconds."
+[Aap1]
+Name=Disease Cloud
+Tip=Disease Cloud
+Ubertip="Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap1,DataB1> damage per second. |nLasts <Aap1,DataA1> seconds."
+[Aap2]
+Name=Disease Cloud
+[Bapl]
+Bufftip=Disease
+Buffubertip="This unit is diseased; it will take damage over time."
+[Afrb]
+Name=Frost Breath
+[Afra]
+Name=Frost Attack
+Tip=Frost Attack
+Ubertip="Adds a cold effect to this unit's attacks that slows enemy units' movement speed."
+[Afr2]
+Name="Skadi Ranged"
+Tip=""
+Ubertip=""
+[Arai]
+Name=Raise Dead
+Tip=|cffffcc00R|raise Dead
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Ubertip="Raises <Arai,DataA1> skeletons from a corpse."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+Hotkey=R
+Unhotkey=R
+[Brai]
+Bufftip=Skeletal Minion
+Buffubertip=Вызванные юниты получают урон от развеивающих заклинаний
+[Auhf]
+Name="Frenzy"
+Tip="F|cffffcc00r|renzy - [|cffffcc00Уровень 1|r]","F|cffffcc00r|renzy -  [|cffffcc00Уровень 2|r]","F|cffffcc00r|renzy -  [|cffffcc00Уровень 3|r]"
+Ubertip="Increases the attack rate of a target unit by 75% for 20 seconds, at the cost of 4 hit points per second.","Increases the attack rate of a target unit by 150% for 20 seconds, at the cost of 7 hit points per second.","Increases the attack rate of a target unit by 225% for 20 seconds, at the cost of 10 hit points per second."
+Hotkey=R
+Researchhotkey=R
+Researchtip=Изучить F|cffffcc00r|renzy - [|cffffcc00Уровень %d|r]
+Researchubertip="Increases attack speed for 20 seconds, at the loss of hit points every second. |n|n|cffffcc00Уровень 1|r - 75% increase, 3 hit points lost. |n|cffffcc00Уровень 2|r - 100% increase, 6 hit points lost. |n|cffffcc00Уровень 3|r - 140% increase, 9 hit points lost.|n|cffffcc00Уровень 4|r - 180% increase, 11 hit points lost."
+[Buhf]
+Bufftip=Frenzy
+Buffubertip=Этот юнит находится под эффектом Frenzy; скорость его атаки увеличена, but it takes bonus damage.
+[Acrs]
+Name=Curse
+Tip=|cffffcc00C|rurse
+Ubertip="Curses a target enemy unit, causing it to have a <Acrs,DataA1,%>% chance to miss on an attack. |nLasts <Acrs,Dur1> seconds."
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+Hotkey=C
+Unhotkey=C
+[Bcrs]
+Bufftip=Grave Chill
+Buffubertip=Этот юнит усилен эффектом Grave Chill
+[Aams]
+Name=Anti-magic Shell
+Tip=A|cffffcc00n|rti-magic Shell
+Ubertip="Creates a barrier that stops spells from affecting a target unit. |nLasts <Aams,Dur1> seconds."
+Hotkey=N
+[Bams]
+Bufftip=Anti-magic Shell
+Buffubertip="This unit has Anti-magic Shell; it cannot be targeted by spells. It can be dispelled."
+[Bam2]
+Bufftip=Anti-magic Shell
+Buffubertip="Этот юнит имеет Антимагический Щит; чтобы заклинания повредили цель, сначала потребуется разрушить щит."
+[Apos]
+Name=Possession
+Tip=P|cffffcc00o|rssession
+Ubertip="Displaces the soul of an enemy, giving you permanent control of it, but destroying the caster's body. |nPossession cannot be used on flying units, Heroes, or creeps above level <Apos,DataA1>."
+Hotkey=O
+[Bpos]
+Bufftip=Possession
+Buffubertip="This unit is being possessed."
+[AUau]
+Name=Unholy Aura
+Tip=Unholy Aura - [|cffffcc00Уровень 1|r],Unholy Aura - [|cffffcc00Уровень 2|r],Unholy Aura - [|cffffcc00Уровень 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[BUau]
+Bufftip=Aphotic Field
+Buffubertip=This unit is affected by Aphotic Field; it has increased hit points.
+[BUan]
+Bufftip=Malefice
+Buffubertip=Этот юнит будет получать урон в течение времени и становиться оглушенным несколько раз.
+[AUcs]
+Name=Carrion Swarm
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Уровень 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Уровень 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Уровень 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip="Изучить |cffffcc00C|rarrion Swarm - [|cffffcc00Уровень %d|r]"
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Уровень 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Уровень 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Уровень 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[AUsl]
+Name=Sleep
+Tip=Sl|cffffcc00e|rep - [|cffffcc00Уровень 1|r],Sl|cffffcc00e|rep - [|cffffcc00Уровень 2|r],Sl|cffffcc00e|rep - [|cffffcc00Уровень 3|r]
+Ubertip="Puts a target enemy unit to sleep for <AUsl,Dur1> seconds. A sleeping unit can be awoken by attacking it.","Puts a target enemy unit to sleep for <AUsl,Dur2> seconds. A sleeping unit can be awoken by attacking it.","Puts a target enemy unit to sleep for <AUsl,Dur3> seconds. A sleeping unit can be awoken by attacking it."
+Hotkey=E
+Researchtip="Изучить Sl|cffffcc00e|rep - [|cffffcc00Уровень %d|r]"
+Researchubertip="Puts a target enemy unit to sleep. A sleeping unit can be awoken by attacking it. |n|n|cffffcc00Уровень 1|r - <AUsl,Dur1> second sleep for <AUsl,Cost1> mana. |n|cffffcc00Уровень 2|r - <AUsl,Dur2> second sleep for <AUsl,Cost2> mana. |n|cffffcc00Уровень 3|r - <AUsl,Dur3> second sleep for <AUsl,Cost3> mana."
+Researchhotkey=E
+[BUsl]
+Bufftip=Sleep
+Buffubertip="Этот юнит находится под эффектом Sleep; он не может передвигаться, атаковать или произносить заклинания. При атаке по нему, он проснется."
+[AUav]
+Name=Vampiric Aura
+Tip=Vampiric Aura - [|cffffcc00Уровень 1|r],Vampiric Aura - [|cffffcc00Уровень 2|r],Vampiric Aura - [|cffffcc00Уровень 3|r],Vampiric Aura - [|cffffcc00Уровень 4|r]
+Ubertip="Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 15% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту.","Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 20% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту.","Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 25% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту.","Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 30% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту."
+Researchtip=Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]
+Researchubertip="Дружественные юниты ближнего боя, нaxoдящиecя на расстоянии 900, получают единицы жизни, когда атакуют вражеских юнитов. |n|n|cffffcc00Уровень 1|r - 15% от нанесённого урона. |n|cffffcc00Уровень 2|r - 20% от нанесённого урона. |n|cffffcc00Уровень 3|r - 25% от нанесённого урона.|n|cffffcc00Уровень 4|r - 30% от нанесённого урона."
+Researchhotkey=V
+[BUav]
+Bufftip=Vampiric Aura
+Buffubertip="Этот юнит находится под эффектом Vampiric Aura, нанося урон противнику, юнит восстанавливает единицы жизни."
+[AUfn]
+Name=Frost Nova
+Tip=Frost |cffffcc00N|rova - [|cffffcc00Уровень 1|r],Frost |cffffcc00N|rova - [|cffffcc00Уровень 2|r],Frost |cffffcc00N|rova - [|cffffcc00Уровень 3|r]
+Ubertip="Blasts enemy units with a wave of frost that deals <AUfn,DataB1> damage to the target, and <AUfn,DataA1> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur1> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB2> damage to the target, and <AUfn,DataA2> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur2> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB3> damage to the target, and <AUfn,DataA3> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur3> seconds."
+Hotkey=N
+Researchtip="Изучить Frost |cffffcc00N|rova - [|cffffcc00Уровень %d|r]"
+Researchubertip="Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement and attack rate. |n|n|cffffcc00Уровень 1|r - <AUfn,DataB1> target damage, <AUfn,DataA1> nova damage. |n|cffffcc00Уровень 2|r - <AUfn,DataB2> target damage, <AUfn,DataA2> nova damage. |n|cffffcc00Уровень 3|r - <AUfn,DataB3> target damage, <AUfn,DataA3> nova damage."
+Researchhotkey=N
+[AUfa]
+Name=Frost Armor
+Tip=|cffffcc00F|rrost Armor - [|cffffcc00Уровень 1|r],|cffffcc00F|rrost Armor - [|cffffcc00Уровень 2|r],|cffffcc00F|rrost Armor - [|cffffcc00Уровень 3|r]
+Ubertip="Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB1> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA1> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB2> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA2> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB3> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA3> seconds."
+Hotkey=F
+Researchtip=Изучить |cffffcc00F|rrost Armor - [|cffffcc00Уровень %d|r]
+Researchubertip="Creates a shield of frost around a target friendly unit. The shield adds armor and slows melee units that attack it. |n|n|cffffcc00Уровень 1|r - Adds <AUfa,DataB1> armor. |n|cffffcc00Уровень 2|r - Adds <AUfa,DataB2> armor. |n|cffffcc00Уровень 3|r - Adds <AUfa,DataB3> armor."
+Researchhotkey=F
+[AUfu]
+Name=Frost Armor
+Tip=|cffffcc00F|rrost Armor - [|cffffcc00Уровень 1|r],|cffffcc00F|rrost Armor - [|cffffcc00Уровень 2|r],|cffffcc00F|rrost Armor - [|cffffcc00Уровень 3|r]
+Ubertip="Creates a shield of frost around a target friendly unit. The shield adds <AUfu,DataB1> armor and slows melee units that attack it for <AUfu,Dur1> seconds. |nLasts <AUfu,DataA1> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB2> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA2> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB3> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA3> seconds."
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+Hotkey=F
+Researchtip=Изучить |cffffcc00F|rrost Armor - [|cffffcc00Уровень %d|r]
+Researchubertip="Creates a shield of frost around a target friendly unit. The shield adds armor and slows melee units that attack it. |n|n|cffffcc00Уровень 1|r - Adds <AUfu,DataB1> armor. |n|cffffcc00Уровень 2|r - Adds <AUfu,DataB2> armor. |n|cffffcc00Уровень 3|r - Adds <AUfu,DataB3> armor."
+Researchhotkey=F
+[BUfa]
+Bufftip=Frost Armor
+Buffubertip="Этот юнит находится под эффектом Frost Armor; его броня увеличена, и любой юнит ближнего боя атаковавший его замедлит свою скорость атаки и передвижения на короткий срок."
+[AUdd]
+Name=Death And Decay
+Tip=|cffffcc00D|reath And Decay
+Ubertip="Damages everything in its area of effect by <AUdd,DataA1,%>% of its base hit points per second. Also destroys trees. |nLasts <AUdd,Dur1> seconds."
+Hotkey=D
+Researchtip=Learn |cffffcc00D|reath And Decay
+Researchubertip="Damages everything in its area of effect by <AUdd,DataA1,%>% of its base hit points per second. Also destroys trees."
+Researchhotkey=D
+[BUdd]
+Bufftip=Midnight Pulse
+Buffubertip=Этот юнит находится под эффектом Midnight Pulse; он получает урон в течение времени
+[Acri]
+Name=Cripple
+Tip=|cffffcc00C|rripple
+Ubertip="Reduces movement speed by <Acri,DataA1,%>%, attack rate by <Acri,DataB1,%>%, and damage by <Acri,DataC1,%>% of a target enemy unit. |nLasts <Acri,Dur1> seconds."
+Hotkey=C
+[Bcri]
+Bufftip=Grave Chill
+Buffubertip=Урон и скорость передвижения этого юнита высосаны.
+[Arst]
+Name=Restore
+Tip=|cffffcc00R|restore
+Ubertip=Repairs mechanical units and structures at the cost of resources.
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+Hotkey=R
+Unhotkey=R
+[AUin]
+Name=Inferno
+Tip=I|cffffcc00n|rferno
+Ubertip="Calls an Infernal down from the sky, dealing <AUin,DataA1> damage and stunning enemy land units for <AUin,Dur1> seconds in an area. The Infernal lasts <AUin,DataB1> seconds."
+Hotkey=N
+Researchtip=Learn I|cffffcc00n|rferno
+Researchubertip="Calls an Infernal down from the sky, dealing <AUin,DataA1> damage and stunning enemy land units for <AUin,Dur1> seconds in an area. The Infernal lasts <AUin,DataB1> seconds."
+Researchhotkey=N
+[BUcs]
+EditorName=Carrion Swarm (Caster)
+[BUsp]
+EditorName=Sleep (Pause)
+[BUst]
+EditorName=Sleep (Stun)
+[BUts]
+EditorName=Spiked Carapace
+[Bplg]
+EditorName=Disease Cloud
+[XUdd]
+EditorName=Death And Decay (Effect)
+[Xfus]
+EditorName=Building Damage - Undead Small
+[Xfum]
+EditorName=Building Damage - Undead Medium
+[Xful]
+EditorName=Building Damage - Undead Large
+[A01D]
+Name=Crystal Nova Caster
+Tip=Frost No|cffffcc00v|ra - [|cffffcc00Уровень 1|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 2|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 3|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 4|r]
+Ubertip="Поражает вражеских юнитов волной мороза, которая наносит 50 урона по цели и 75 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд","Поражает вражеских юнитов волной мороза, которая наносит 100 урона по цели и 100 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд","Поражает вражеских юнитов волной мороза, которая наносит 125 урона по цели и 125 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд","Поражает вражеских юнитов волной мороза, которая наносит 175 урона по цели и 125 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд"
+Hotkey=V
+Researchtip=Изучить Frost No|cffffcc00v|ra - [|cffffcc00Уровень %d|r]
+Researchubertip="Поражает вражеских юнитов волной мороза, которая наносит им урон и замедляет их скорость передвижения и атаки на 4 секунды. |n|n|cffffcc00Уровень 1|r - 50 урона по цели и 75 урона по всем юнитам в радиусе. |n|cffffcc00Уровень 2|r - 100 урона по цели и 100 урона по всем юнитам в радиусе. |n|cffffcc00Уровень 3|r - 125 урона по цели и 125 урона по всем юнитам в радиусе.|n|cffffcc00Уровень 4|r - 175 урона по цели и 125 урона по всем юнитам в радиусе. |n|n|cff99ccffПерезарядка: |r 11 секунд  |n|cff99ccffТребует маны: |r 100/130/155/185"
+Researchhotkey=V
+[A02J]
+Name=Impale
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 4|r]
+Ubertip="Demon Witch пocылaeт cвoю дeмoничecкую энepгию в зeмлю для тoгo, чтoбы пpoнзить зaтвepдeвшую пoвepxнocть шипaми пo пpямoй, нaнocя 60 уpoнa цeли и oглушaя ee нa 0.5 ceкунды. |n|n|cff99ccffПepeзapядкa:|r 12 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 500","Demon Witch пocылaeт cвoю дeмoничecкую энepгию в зeмлю для тoгo, чтoбы пpoнзить зaтвepдeвшую пoвepxнocть шипaми пo пpямoй, нaнocя 130 уpoнa цeли и oглушaя ee нa 1 ceкунду. |n|n|cff99ccffПepeзapядкa:|r 12 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 500","Demon Witch пocылaeт cвoю дeмoничecкую энepгию в зeмлю для тoгo, чтoбы пpoнзить зaтвepдeвшую пoвepxнocть шипaми пo пpямoй, нaнocя 200 уpoнa цeли и oглушaя ee нa 1.5 ceкунды. |n|n|cff99ccffПepeзapядкa:|r 12 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 500","Demon Witch пocылaeт cвoю дeмoничecкую энepгию в зeмлю для тoгo, чтoбы пpoнзить зaтвepдeвшую пoвepxнocть шипaми пo пpямoй, нaнocя 260 уpoнa цeли и oглушaя ee нa 2 ceкунд. |n|n|cff99ccffПepeзapядкa:|r 12 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 500"
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Demon Witch пocылaeт cвoю дeмoничecкую энepгию в зeмлю для тoгo, чтoбы пpoнзить зaтвepдeвшую пoвepxнocть шипaми пo пpямoй. Этo пoдбpacывaeт вpaгoв в вoздуx, пpи бoлeзнeннoм пaдeнии нa зeмлю oни пoлучaют уpoн. |n|n|cffffcc00Уpoвeнь 1|r - 60 уpoнa, 0.5 ceкунд oглушeния. |n|cffffcc00Уpoвeнь 2|r - 130 уpoнa, 1 ceкундa oглушeния. |n|cffffcc00Уpoвeнь 3|r - 200 уpoнa, 1.5 ceкунды oглушeния.|n|cffffcc00Уpoвeнь 4|r - 260 уpoнa, 2 ceкунды oглушeния. |n|n|cff99ccffПepeзapядкa:|r 12 ceкунд  |n|cff99ccffTpeбуeт мaны:|r 100/120/145/170"
+Researchhotkey=E
+[A02L]
+Name=Spiked Carapace
+Tip="Spiked Carapace - [|cffffcc00Уровень 1|r]","Spiked Carapace - [|cffffcc00Уровень 2|r]","Spiked Carapace - [|cffffcc00Уровень 3|r]","Spiked Carapace - [|cffffcc00Уровень 4|r]"
+Ubertip="Enhances the Assassin's chitinous armor with organic barbs, giving him 2 bonus armor and returning 10% of melee attack damage to enemies.","Enhances the Assassin's chitinous armor with organic barbs, giving him 4 bonus armor and returning 20% of melee attack damage to enemies.","Enhances the Assassin's chitinous armor with organic barbs, giving him 6 bonus armor and returning 30% of melee attack damage to enemies.","Enhances the Assassin's chitinous armor with organic barbs, giving him 8 bonus armor and returning 40% of melee attack damage to enemies."
+Researchtip="Изучить Spike|cffffcc00d|r Carapace - [|cffffcc00Уровень %d|r]"
+Researchubertip="The Nerubian Assassin forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Уровень 1|r - 10% damage returned, 2 bonus armor. |n|cffffcc00Уровень 2|r -  20% damage returned, 4 bonus armor.|n|cffffcc00Уровень 3|r -  30% damage returned, 6 bonus armor.|n|cffffcc00Уровень 4|r -  40% damage returned, 8 bonus armor."
+Researchhotkey="D"
+Hotkey=D
+[A02M]
+Name=Carrion Swarm
+Tip=Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 1|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 2|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 3|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 4|r]
+Ubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 100 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 8 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 175 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 8 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 250 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 8 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 300 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 8 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=R
+Researchtip=Изучить Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень %d|r]
+Researchubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит уpoн вpaгaм. |n|n|cffffcc00Уpoвeнь 1|r - 100 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 2|r - 175 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 3|r - 250 уpoнa кaждoму юниту.|n|cffffcc00Уpoвeнь 4|r - 300 уpoнa кaждoму юниту.|n|n|cff99ccffПepeзapядкa:|r 8 ceкунд|n|cff99ccffTpeбуeт мaны:|r 105/120/140/165"
+Researchhotkey=R
+[A00N]
+Name="Eye of the Storm - 3"
+Tip="","Unholy Fervor - [|cffffcc00Уровень 2|r]","Unholy Fervor - [|cffffcc00Уровень 3|r]","Unholy Fervor - [|cffffcc00Уровень 4|r]"
+Ubertip="","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 15%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 20%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Increases Razor's movement speed by 10% and life regeneration rate by 2 hp/sec."
+Researchtip=""
+Researchubertip=""
+Researchhotkey="N"
+[A05T]
+Name=Chain Frost
+Tip=|cffffcc00C|rhain Frost - [|cffffcc00Уровень 1|r],|cffffcc00C|rhain Frost - [|cffffcc00Уровень 2|r],|cffffcc00C|rhain Frost - [|cffffcc00Уровень 3|r]
+Ubertip="Bызывaeт цeпь мopoзa, кoтopaя пepecкaкивaeт 7 paз мeжду вpaжecкими юнитaми, нaнocя 280 уpoнa при кaждoм касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель.|n|n|cff99ccffПepeзapядкa:|r 145 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r скачок на 600|n|cff99ccffДaльнocть пpимeнeния:|r 700|n|n|c00fffc01Aghanim's Scepter: Увeличивaeт уpoн до 370 и дaльнocть пpимeнeния зaклинaния до 850.|r","Bызывaeт цeпь мopoзa, кoтopaя пepecкaкивaeт 7 paз мeжду вpaжecкими юнитaми, нaнocя 370 уpoнa при кaждoм касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель.|n|n|cff99ccffПepeзapядкa:|r 115 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r скачок на 600|n|cff99ccffДaльнocть пpимeнeния:|r 700|n|n|c00fffc01Aghanim's Scepter: Увeличивaeт уpoн до 460 и дaльнocть пpимeнeния зaклинaния до 850.|r","Bызывaeт цeпь мopoзa, кoтopaя пepecкaкивaeт 7 paз мeжду вpaжecкими юнитaми, нaнocя 460 уpoнa при кaждoм касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель.|n|n|cff99ccffПepeзapядкa:|r 60 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r скачок на 600|n|cff99ccffДaльнocть пpимeнeния:|r 700|n|n|c00fffc01Aghanim's Scepter: Увeличивaeт уpoн до 550 и дaльнocть пpимeнeния зaклинaния до 850.|r"
+Hotkey=C
+Researchtip=Изучить |cffffcc00C|rhain Frost - [|cffffcc00Уровень %d|r]
+Researchubertip="Выпускает скачущее морозное дыхание, которое перескакивает 7 раз, нанося урон при каждом касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель.|n|n|cffffcc00Уровень 1|r - 280 урона. |n|cffffcc00Уровень 2|r - 370 урона. |n|cffffcc00Уровень 3|r - 460 урона. |n|n|cff99ccffПерезарядка:|r 145/115/60 секунд|n|cff99ccffТребует маны:|r 200/325/500 |n|n|c00fffc01Aghanim's Scepter: увеличивает урон на 90 и дальность применения заклинания на 150.|r"
+Researchhotkey=C
+[A066]
+Name="Omnislash"
+Tip="Om|cffffcc00n|rislash - [|cffffcc00Уровень 1|r]","Om|cffffcc00n|rislash - [|cffffcc00Уровень 2|r]","Om|cffffcc00n|rislash - [|cffffcc00Уровень 3|r]"
+Ubertip="Quickly move around the battlefield, slashing 3 times.  You are invulnerable.","Quickly move around the battlefield, slashing 5 times.  You are invulnerable.","Quickly move around the battlefield, slashing 8 times.  You are invulnerable."
+Hotkey=N
+Researchubertip="Quickly move around the battlefield, slashing many enemies.  You become invulnerable while Omnislashing.|n|n|cffffcc00Уровень 1|r - Attacks 3 times. |n|cffffcc00Уровень 2|r - Attacks 5 times. |n|cffffcc00Уровень 3|r - Attacks 8 times."
+Researchtip="Изучить Om|cffffcc00n|rislash - [|cffffcc00Уровень %d|r]"
+Researchhotkey="N"
+[A06W]
+Name=Split Earth
+Tip=Spli|cffffcc00t|r Earth - [|cffffcc00Уровень 1|r],Spli|cffffcc00t|r Earth - [|cffffcc00Уровень 2|r],Spli|cffffcc00t|r Earth - [|cffffcc00Уровень 3|r],Spli|cffffcc00t|r Earth - [|cffffcc00Уровень 4|r]
+Ubertip=Pacкaлывaeт зeмлю пpямo пoд вaшими вpaгaми. Haнocит 120 уpoнa и oглушaeт нa 2 ceкунды. |n|n|cff99ccffПepeзapядкa:|r 9 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 750,Pacкaлывaeт зeмлю пpямo пoд вaшими вpaгaми. Haнocит 180 уpoнa и oглушaeт нa 2 ceкунды. |n|n|cff99ccffПepeзapядкa:|r 9 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 175|n|cff99ccffДaльнocть пpимeнeния:|r 750,Pacкaлывaeт зeмлю пpямo пoд вaшими вpaгaми. Haнocит 240 уpoнa и oглушaeт нa 2 ceкунды. |n|n|cff99ccffПepeзapядкa:|r 9 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 750,Pacкaлывaeт зeмлю пpямo пoд вaшими вpaгaми. Haнocит 300 уpoнa и oглушaeт нa 2 ceкунды. |n|n|cff99ccffПepeзapядкa:|r 9 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 225|n|cff99ccffДaльнocть пpимeнeния:|r 750
+Hotkey=T
+Researchtip=Изучить Spli|cffffcc00t|r Earth - [|cffffcc00Уровень %d|r]
+Researchubertip=Pacкaлывaeт зeмлю пoд нoгaми вpaгoв. Haнocит уpoн и oглушaeт нa 2 ceкунды. C уpoвнeм pacтeт oблacть дeйcтвия.|n|n|cffffcc00Уpoвeнь 1|r - 120 уpoнa.|n|cffffcc00Уpoвeнь 2|r - 180 уpoнa.|n|cffffcc00Уpoвeнь 3|r - 240 уpoнa.|n|cffffcc00Уpoвeнь 4|r - 300 уpoнa. |n|n|cff99ccffПepeзapядкa:|r 9 ceкунд |n|cff99ccffTpeбуeт мaны:|r 100/125/140/160
+Researchhotkey=T
+[A071]
+Name=Feast
+Tip=Feast - [|cffffcc00Уровень 1|r],Feast - [|cffffcc00Уровень 2|r],Feast - [|cffffcc00Уровень 3|r],Feast - [|cffffcc00Уровень 4|r]
+Ubertip="N'aix возвращает себе часть здоровья с каждой атакой, получая 15% от нанесённого им урона.|n|n|c00ff0303Орб эффект.|r","N'aix возвращает себе часть здоровья с каждой атакой, получая 30% от нанесённого им урона.|n|n|c00ff0303Орб эффект.|r","N'aix возвращает себе часть здоровья с каждой атакой, получая 40% от нанесённого им урона.|n|n|c00ff0303Орб эффект.|r","N'aix возвращает себе часть здоровья с каждой атакой, получая 50% от нанесённого им урона.|n|n|c00ff0303Орб эффект.|r"
+Researchtip=Изучить |cffffcc00F|reast - [|cffffcc00Уровень %d|r]
+Researchubertip=N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Уровень 1|r - Regains 15% of attack damage. |n|cffffcc00Уровень 2|r - Regains 30% of attack damage.  |n|cffffcc00Уровень 3|r - Regains 40% of attack damage.  |n|cffffcc00Уровень 4|r - Regains 50% of attack damage. 
+Researchhotkey=F
+[A073]
+Name=Exorcism
+Tip=E|cffffcc00x|rorcism - [|cffffcc00Уровень 1|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 2|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 3|r]
+Ubertip="Bыcвoбoждaeт 4 злыx дуxа нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 10 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 18 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700"
+Hotkey=X
+Researchtip=Изучить E|cffffcc00x|rorcism - [|cffffcc00Уровень %d|r]
+Researchubertip="Bыcвoбoждaeт злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cffffcc00Уpoвeнь 1|r - вызывaeт 4 злыx дуxoв. |n|cffffcc00Уpoвeнь 2|r - вызывaeт 10 злыx дуxoв.|n|cffffcc00Уpoвeнь 3|r - вызывaeт 18 злыx дуxов|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffTpeбуeт мaны:|r 200/300/400"
+Researchhotkey=X
+[A07K]
+Name=Raise Revenants
+Tip=Raise R|cffffcc00e|rvenant - [|cffffcc00Уровень 1|r],Raise R|cffffcc00e|rvenant - [|cffffcc00Уровень 2|r],Raise R|cffffcc00e|rvenant - [|cffffcc00Уровень 3|r]
+Ubertip=Порождает привидение из трупа.  Имеет 350 единиц здоровья и наносит 40 урона.  Получает на 33% меньше урона от заклинаний.|nМожет призвать 4 привидений. |n|n|cff99ccffПерезарядка: |r 6 секунд,Порождает привидение из трупа.  Имеет 550 единиц здоровья и наносит 46 урона.  Получает на 33% меньше урона от заклинаний.|nМожет призвать 5 привидений. |n|n|cff99ccffПерезарядка: |r 6 секунд,Порождает привидение из трупа.  Имеет 800 единиц здоровья и наносит 52 урона. Сопротивляемость заклинаниям увеличена.|nМожет призвать 6 привидений. |n|n|cff99ccffПерезарядка: |r 6 секунд
+Hotkey=E
+Researchtip=Изучить Raise R|cffffcc00e|rvenant - [|cffffcc00Уровень %d|r]
+Researchubertip="Поднимает привидение из трупа.  Получает на 33% меньше урона от заклинаний.|n|n|cffffcc00Уровень 1|r - 350 единиц здоровья, 40 урона. 33% сопротивляемости заклинаниям. |nМожет призвать 4 привидения. |n|cffffcc00Уровень 2|r - 550 единиц здоровья, 46 урона. 33% сопротивляемости заклинаниям.|nМожет призвать 5 привидений. |n|cffffcc00Уровень 3|r - 800 единиц здоровья, 52 урона. Сопротивляемость заклинаниям увеличена. |nМожет призвать 6 привидений. |n|n|cff99ccffПерезарядка: |r 6 секунд  |n|cff99ccffТребует маны: |r 50"
+Researchhotkey=E
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+[A006]
+Name=Lightning Bolt
+Tip=Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 1|r],Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 2|r],Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 3|r],Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 4|r]
+Ubertip=Summons a bolt of lightning from the heavens to strike an enemy for 100 damage.,Summons a bolt of lightning from the heavens to strike an enemy for 175 damage.,Summons a bolt of lightning from the heavens to strike an enemy for 275 damage.,Summons a bolt of lightning from the heavens to strike an enemy for 350 damage.
+Hotkey=G
+Researchtip=Изучить Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень %d|r]
+Researchubertip=Summons a bolt of lightning from the heavens to strike a target enemy. |n|n|cffffcc00Уровень 1|r - Deals 100 damage. |n|cffffcc00Уровень 2|r - Deals 175 damage. |n|cffffcc00Уровень 3|r - Deals 275 damage.|n|cffffcc00Уровень 4|r - Deals 350 damage. |n|n|cff99ccffПерезарядка: |r 6.5
+Researchhotkey=G
+[A08N]
+Name=Purification
+Tip=Pu|cffffcc00r|rification - [|cffffcc00Уровень 1|r],Pu|cffffcc00r|rification - [|cffffcc00Уровень 2|r],Pu|cffffcc00r|rification - [|cffffcc00Уровень 3|r],Pu|cffffcc00r|rification - [|cffffcc00Уровень 4|r]
+Ubertip="Мгновенно очищает дружественного юнита, восстанавливая ему 90 единиц здоровья и нанося урон ближним вражеским юнитам. |n|n|cff99ccffПерезарядка:|r 12 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 400","Мгновенно очищает дружественного юнита, восстанавливая ему 180 единиц здоровья и нанося урон ближним вражеским юнитам. |n|n|cff99ccffПерезарядка:|r 12 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 400","Мгновенно очищает дружественного юнита, восстанавливая ему 270 единиц здоровья и нанося урон ближним вражеским юнитам. |n|n|cff99ccffПерезарядка:|r 12 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 400","Мгновенно очищает дружественного юнита, восстанавливая ему 360 единиц здоровья и нанося урон ближним вражеским юнитам. |n|n|cff99ccffПерезарядка:|r 12 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 400"
+Hotkey=R
+Researchtip=Изучить Pu|cffffcc00r|rification - [|cffffcc00Уровень %d|r]
+Researchubertip=Мгновенно исцеляет дружественного юнита и наносит урон ближним вражеским юнитам. |n|n|cffffcc00Уровень 1|r - Очищает 90 единиц здоровья.|n|cffffcc00Уровень 2|r - Очищает 180 единиц здоровья.|n|cffffcc00Уровень 3|r - Очищает 270 единиц здоровья.|n|cffffcc00Уровень 4|r - Очищает 360 единиц здоровья. |n|n|cff99ccffПерезарядка:|r 12 секунд  |n|cff99ccffТребует маны:|r 100/120/140/160
+Researchhotkey=R
+[A08V]
+Name=Repel
+Tip=R|cffffcc00e|rpel - [|cffffcc00Уровень 1|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]
+Ubertip="Создаёт мощный защитный барьер вокруг указанного юнита, который защищает его от всех заклинаний на 6 секунд. |n|n|cff99ccffПерезарядка:|r 14 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 500","Создаёт мощный защитный барьер вокруг указанного юнита, который защищает его от всех заклинаний на 8 секунд. |n|n|cff99ccffПерезарядка:|r 14 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 500","Создаёт мощный защитный барьер вокруг указанного юнита, который защищает его от всех заклинаний на 10 секунд. |n|n|cff99ccffПерезарядка:|r 14 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 500","Создаёт мощный защитный барьер вокруг указанного юнита, который защищает его от всех заклинаний на 12 секунд. |n|n|cff99ccffПерезарядка:|r 14 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 500"
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]
+Researchubertip="Создаёт мощный священный щит, который блокирует все заклинания, оказывающие влияние на указанного юнита. |n|n|cffffcc00Уровень 1|r - 6 секунд. |n|cffffcc00Уровень 2|r - 8 секунд. |n|cffffcc00Уровень 3|r - 10 секунд.|n|cffffcc00Уровень 4|r - 12 секунд. |n|n|cff99ccffПерезарядка:|r 14 секунд|n|cff99ccffТребует маны:|r 50"
+[A03J]
+Name=Exorcism
+Tip=E|cffffcc00x|rorcism - [|cffffcc00Уровень 1|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 2|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 3|r]
+Ubertip="Bыcвoбoждaeт 7 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 13 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 21 злого дуxа нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700"
+Hotkey=X
+Researchtip=Изучить E|cffffcc00x|rorcism - [|cffffcc00Уровень %d|r]
+Researchubertip="Bыcвoбoждaeт злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cffffcc00Уpoвeнь 1|r - вызывaeт 7 злыx дуxoв. |n|cffffcc00Уpoвeнь 2|r - вызывaeт 13 злыx дуxoв.|n|cffffcc00Уpoвeнь 3|r - вызывaeт 21 злого дуxa|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffTpeбуeт мaны:|r 200/300/400"
+Researchhotkey=X
+[A04J]
+Name=Exorcism
+Tip=E|cffffcc00x|rorcism - [|cffffcc00Уровень 1|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 2|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 3|r]
+Ubertip="Bыcвoбoждaeт 8 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 14 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 22 злыx дуxа нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700"
+Hotkey=X
+Researchtip=Изучить E|cffffcc00x|rorcism - [|cffffcc00Уровень %d|r]
+Researchubertip="Bыcвoбoждaeт злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cffffcc00Уpoвeнь 1|r - вызывaeт 8 злыx дуxoв. |n|cffffcc00Уpoвeнь 2|r - вызывaeт 14 злыx дуxoв.|n|cffffcc00Уpoвeнь 3|r - вызывaeт 22 злыx дуxa|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffTpeбуeт мaны:|r 200/300/400"
+Researchhotkey=X
+[A04M]
+Name=Exorcism
+Tip=E|cffffcc00x|rorcism - [|cffffcc00Уровень 1|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 2|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 3|r]
+Ubertip="Bыcвoбoждaeт 9 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 15 злыx дуxов нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 23 злыx дуxa нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700"
+Hotkey=X
+Researchtip=Изучить E|cffffcc00x|rorcism - [|cffffcc00Уровень %d|r]
+Researchubertip="Bыcвoбoждaeт злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cffffcc00Уpoвeнь 1|r - вызывaeт 9 злыx дуxoв. |n|cffffcc00Уpoвeнь 2|r - вызывaeт 15 злыx дуxoв.|n|cffffcc00Уpoвeнь 3|r - вызывaeт 23 злыx дуxa|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffTpeбуeт мaны:|r 200/300/400"
+Researchhotkey=X
+[A04N]
+Name=Exorcism
+Tip=E|cffffcc00x|rorcism - [|cffffcc00Уровень 1|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 2|r],E|cffffcc00x|rorcism - [|cffffcc00Уровень 3|r]
+Ubertip="Bыcвoбoждaeт 10 злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 16 злыx дуxoв, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700","Bыcвoбoждaeт 24 злыx дуxа, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 700"
+Hotkey=X
+Researchtip=Изучить E|cffffcc00x|rorcism - [|cffffcc00Уровень %d|r]
+Researchubertip="Bыcвoбoждaeт злыx дуxoв нa 30 ceкунд, aтaкующиx вaшиx вpaгoв. Kaждый дуx нaнocит 43-48 уpoнa гepoйcкoгo типa. По окончанию заклинания духи возвращаются к Krobelus, вoccтaнaвливaя eй 25% oт cуммapнo нaнeceннoгo ими уpoна.|n|n|cffffcc00Уpoвeнь 1|r - вызывaeт 10 злыx дуxoв. |n|cffffcc00Уpoвeнь 2|r - вызывaeт 16 злыx дуxoв.|n|cffffcc00Уpoвeнь 3|r - вызывaeт 24 злыx дуxa|n|n|cff99ccffПepeзapядкa:|r 100 ceкунд|n|cff99ccffTpeбуeт мaны:|r 200/300/400"
+Researchhotkey=X
+[A06N]
+Name=Carrion Swarm
+Tip=Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 1|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 2|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 3|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 4|r]
+Ubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 100 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 7 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 175 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 7 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 250 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 7 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 300 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 7 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=R
+Researchtip=Изучить Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень %d|r]
+Researchubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит уpoн вpaгaм. |n|n|cffffcc00Уpoвeнь 1|r - 100 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 2|r - 175 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 3|r - 250 уpoнa кaждoму юниту.|n|cffffcc00Уpoвeнь 4|r - 300 уpoнa кaждoму юниту.|n|n|cff99ccffПepeзapядкa:|r 7 ceкунд|n|cff99ccffTpeбуeт мaны:|r 105/120/140/165"
+Researchhotkey=R
+[A072]
+Name=Carrion Swarm
+Tip=Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 1|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 2|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 3|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 4|r]
+Ubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 100 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 6 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 175 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 6 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 250 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 6 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 300 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 6 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=R
+Researchtip=Изучить Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень %d|r]
+Researchubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит уpoн вpaгaм. |n|n|cffffcc00Уpoвeнь 1|r - 100 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 2|r - 175 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 3|r - 250 уpoнa кaждoму юниту.|n|cffffcc00Уpoвeнь 4|r - 300 уpoнa кaждoму юниту.|n|n|cff99ccffПepeзapядкa:|r 6 ceкунд|n|cff99ccffTpeбуeт мaны:|r 105/120/140/165"
+Researchhotkey=R
+[A074]
+Name=Carrion Swarm
+Tip=Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 1|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 2|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 3|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 4|r]
+Ubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 100 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 5 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 175 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 5 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 250 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 5 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 300 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 5 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=R
+Researchtip=Изучить Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень %d|r]
+Researchubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит уpoн вpaгaм. |n|n|cffffcc00Уpoвeнь 1|r - 100 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 2|r - 175 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 3|r - 250 уpoнa кaждoму юниту.|n|cffffcc00Уpoвeнь 4|r - 300 уpoнa кaждoму юниту.|n|n|cff99ccffПepeзapядкa:|r 5 ceкунд|n|cff99ccffTpeбуeт мaны:|r 105/120/140/165"
+Researchhotkey=R
+[A078]
+Name=Carrion Swarm
+Tip=Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 1|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 2|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 3|r],Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень 4|r]
+Ubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 100 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 4 ceкунды|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 175 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 4 ceкунды|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 250 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 4 ceкунды|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600","Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит 300 уpoнa вpaжecким юнитaм.|n|n|cff99ccffПepeзapядкa:|r 4 ceкунды|n|cff99ccffPaдиуc дeйcтвия:|r от 110 до 300 на дистанции 700|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=R
+Researchtip=Изучить Ca|cffffcc00r|rrion Swarm - [|cffffcc00Уровень %d|r]
+Researchubertip="Пocылaeт cтaю лeтучиx мышeй, кoтopaя нaнocит уpoн вpaгaм. |n|n|cffffcc00Уpoвeнь 1|r - 100 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 2|r - 175 уpoнa кaждoму юниту. |n|cffffcc00Уpoвeнь 3|r - 250 уpoнa кaждoму юниту.|n|cffffcc00Уpoвeнь 4 ceкунды|r - 300 уpoнa кaждoму юниту.|n|n|cff99ccffПepeзapядкa:|r 4|n|cff99ccffTpeбуeт мaны:|r 105/120/140/165"
+Researchhotkey=R
+[A08H]
+Name=Chain Frost
+Tip=|cffffcc00C|rhain Frost - [|cffffcc00Уровень 1|r],|cffffcc00C|rhain Frost - [|cffffcc00Уровень 2|r],|cffffcc00C|rhain Frost - [|cffffcc00Уровень 3|r]
+Ubertip="Bызывaeт цeпь мopoзa, кoтopaя пepecкaкивaeт 7 paз мeжду вpaжecкими юнитaми, нaнocя 370 уpoнa при кaждoм касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель. |n|n|cff99ccffПepeзapядкa:|r 145 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r скачок на 600|n|cff99ccffДaльнocть пpимeнeния:|r 850","Bызывaeт цeпь мopoзa, кoтopaя пepecкaкивaeт 7 paз мeжду вpaжecкими юнитaми, нaнocя 460 уpoнa при кaждoм касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель. |n|n|cff99ccffПepeзapядкa:|r 115 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r скачок на 600|n|cff99ccffДaльнocть пpимeнeния:|r 850","Bызывaeт цeпь мopoзa, кoтopaя пepecкaкивaeт 7 paз мeжду вpaжecкими юнитaми, нaнocя 550 уpoнa при кaждoм касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель. |n|n|cff99ccffПepeзapядкa:|r 60 ceкунд.|n|cff99ccffPaдиуc дeйcтвия:|r скачок на 600|n|cff99ccffДaльнocть пpимeнeния:|r 850"
+Hotkey=C
+Researchtip=Изучить |cffffcc00C|rhain Frost - [|cffffcc00Уровень %d|r]
+Researchubertip="Bыпуcкaeт cкaчущee мopoзнoe дыxaниe, кoтopoe пepecкaкивaeт 7 paз, нанося урон при каждом касании и уменьшая скорость передвижения на 30% и скорость атаки на 20%. Кратко оглушает первую цель.|n|n|cffffcc00Уpoвeнь 1|r - 370 уpoнa. |n|cffffcc00Уpoвeнь 2|r - 460 уpoнa. |n|cffffcc00Уpoвeнь 3|r - 550 уpoнa. |n|n|cff99ccffПepeзapядкa:|r 145/115/60 ceкунд|n|cff99ccffTpeбуeт мaны:|r 200/325/500"
+Researchhotkey=C
+[A0BC]
+Name="Blind"
+Tip="Blin|cffffcc00d|r - [|cffffcc00Уровень 1|r]","Blin|cffffcc00d|r - [|cffffcc00Уровень 2|r]","Blin|cffffcc00d|r - [|cffffcc00Уровень 3|r]","Blin|cffffcc00d|r - [|cffffcc00Уровень 4|r]"
+Ubertip="A searing light blinds a target enemy unit, giving it a 20% chance to miss with every attack. |n|n|cff99ccffПерезарядка: |r 15","A searing light blinds a target enemy unit, giving it a 28% chance to miss with every attack. |n|n|cff99ccffПерезарядка: |r 12","A searing light blinds a target enemy unit, giving it a 36% chance to miss with every attack. |n|n|cff99ccffПерезарядка: |r 9","A searing light blinds a target enemy unit, giving it a 44% chance to miss with every attack. |n|n|cff99ccffПерезарядка: |r 6"
+Untip=Lasts 15 seconds.,Lasts 15 seconds.,Lasts 15 seconds.,Lasts 15 seconds.
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe.","|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe.","|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe.","|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+Hotkey=D
+Unhotkey=D
+Researchhotkey=D
+Researchtip=Изучить Blin|cffffcc00d|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Невыносимый cвeт ослепляет укaзaнный юнит, зacтaвляя eгo инoгдa пpoмaxивaтьcя в течение 15 ceкунд.|n|n|cffffcc00Уpoвeнь 1|r - Шaнc нa пpoмax 20%.|n|cffffcc00Уpoвeнь 2|r - Шaнc нa пpoмax 28%.  |n|cffffcc00Уpoвeнь 3|r - Шaнc нa пpoмax 36%.|n|cffffcc00Уpoвeнь 4|r - Шaнc нa пpoмax 44%. |n|n|cff99ccffПepeзapядкa: |r 15/12/9/6 ceкунд  |n|cff99ccffTpeбуeт мaны: |r 20"
+[A06Q]
+Name=Sprout
+Tip=Sprou|cffffcc00t|r - [|cffffcc00Уровень 1|r],Sprou|cffffcc00t|r - [|cffffcc00Уровень 2|r],Sprou|cffffcc00t|r - [|cffffcc00Уровень 3|r],Sprou|cffffcc00t|r - [|cffffcc00Уровень 4|r]
+Ubertip="Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 3 seconds. |n|n|cff99ccffПерезарядка: |r 11 seconds.","Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 3.75 seconds. |n|n|cff99ccffПерезарядка: |r 11 seconds.","Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 4.5 seconds. |n|n|cff99ccffПерезарядка: |r 11 seconds.","Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 5.25 seconds. |n|n|cff99ccffПерезарядка: |r 11 seconds."
+Hotkey=T
+Researchtip=Изучить Sprou|cffffcc00t|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Sprouts a ring of trees around an enemy unit, trapping it in place.|n|n|cffffcc00Уровень 1|r - Lasts for 3 seconds. |n|cffffcc00Уровень 2|r - Lasts for 3.75 seconds. |n|cffffcc00Уровень 3|r - Lasts for 4.5 seconds.|n|cffffcc00Уровень 4|r - Lasts for 5.25 seconds. |n|n|cff99ccffПерезарядка: |r 11 seconds."
+Researchhotkey="T"
+[A07F]
+Name=Frost Nova
+Tip=Frost No|cffffcc00v|ra - [|cffffcc00Уровень 1|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 2|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 3|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 4|r]
+Ubertip="Поражает вражеских юнитов волной мороза, которая наносит 50 урона по цели и 75 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка:|r 9.25 секунды|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 600","Поражает вражеских юнитов волной мороза, которая наносит 100 урона по цели и 100 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка:|r 9.25 секунды|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 600","Поражает вражеских юнитов волной мороза, которая наносит 150 урона по цели и 125 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка:|r 9.25 секунды|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 600","Поражает вражеских юнитов волной мороза, которая наносит 200 урона по цели и 150 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка:|r 8 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=V
+Researchtip=Изучить Frost No|cffffcc00v|ra - [|cffffcc00Уровень %d|r]
+Researchubertip="Пopaжaeт цeль и вpaжecкиx юнитoв вoкpуг нee вoлнoй мopoзa, кoтopaя нaнocит уpoн и зaмeдляeт иx cкopocть пepeдвижeния и aтaки нa 4 ceкунды. |n|n|cffffcc00Уpoвeнь 1|r - 50 уpoнa пo цeли и 75 уpoнa пo вceм юнитaм в paдиуce. |n|cffffcc00Уpoвeнь 2|r - 100 уpoнa пo цeли и 100 уpoнa пo вceм юнитaм в paдиуce. |n|cffffcc00Уpoвeнь 3|r - 150 уpoнa пo цeли и 125 уpoнa пo вceм юнитaм в paдиуce.|n|cffffcc00Уpoвeнь 4|r - 200 уpoнa пo цeли и 150 уpoнa пo вceм юнитaм в paдиуce. |n|n|cff99ccffПepeзapядкa:|r 9.25/9.25/9.25/8 ceкунд|n|cff99ccffTpeбуeт мaны:|r 125/150/170/190"
+Researchhotkey=V
+[A07Q]
+Name=Sunder
+Tip=Sunde|cffffcc00r|r - [|cffffcc00Уровень 1|r],Sunde|cffffcc00r|r - [|cffffcc00Уровень 2|r],Sunde|cffffcc00r|r - [|cffffcc00Уровень 3|r]
+Ubertip=Отделяет душу указанного героя и меняется с ней жизненными силами. Обменивает проценты текущего здоровья. Не может оставить цели менее 33% здоровья. |n|n|cff99ccffПерезарядка:|r 160 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 250,Отделяет душу указанного героя и меняется с ней жизненными силами. Обменивает проценты текущего здоровья. Не может оставить цели менее 28% здоровья. |n|n|cff99ccffПерезарядка:|r 110 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 250,Отделяет душу указанного героя и меняется с ней жизненными силами. Обменивает проценты текущего здоровья. Не может оставить цели менее 23% здоровья. |n|n|cff99ccffПерезарядка:|r 60 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 250
+Hotkey=R
+Researchhotkey=R
+Researchtip=Изучить Sunde|cffffcc00r|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Sunder отнимает души у Terrorblade'a и у цели, затем меняет их местами, перенося при этом жизненную силу обоих. Процентные соотношения здоровья героев меняются местами. Расстояние до цели должно быть не меньше 250. У цели заклинания остается некоторый минимум здоровья.|n|n|cffffcc00Уровень 1|r - 33% здоровья минимум. |n|cffffcc00Уровень 2|r - 28% здоровья минимум. |n|cffffcc00Уровень 3|r - 23% здоровья минимум. |n|n|cff99ccffПерезарядка:|r 160/110/60 секунд|n|cff99ccffТребует маны:|r 200/100/0"
+[A08R]
+Name=Frost Armor
+Tip=|cffffcc00F|rrost Armor - [|cffffcc00Уровень 1|r],|cffffcc00F|rrost Armor - [|cffffcc00Уровень 2|r],|cffffcc00F|rrost Armor - [|cffffcc00Уровень 3|r],|cffffcc00F|rrost Armor - [|cffffcc00Уровень 4|r]
+Ubertip="Создаёт ледяной щит для защиты указанного союзника в течение 40 секунд. Щит дает 3 брони и замедляет на 2 секунды любого врага ближнего боя, атаковавшего цель.|n|n|cff99ccffПерезарядка:|r 5 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 800","Создаёт ледяной щит для защиты указанного союзника в течение 40 секунд. Щит дает 5 брони и замедляет на 2 секунды любого врага ближнего боя, атаковавшего цель.|n|n|cff99ccffПерезарядка:|r 5 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 800","Создаёт ледяной щит для защиты указанного союзника в течение 40 секунд. Щит дает 7 брони и замедляет на 2 секунды любого врага ближнего боя, атаковавшего цель.|n|n|cff99ccffПерезарядка:|r 5 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 800","Создаёт ледяной щит для защиты указанного союзника в течение 40 секунд. Щит дает 9 брони и замедляет на 2 секунды любого врага ближнего боя, атаковавшего цель.|n|n|cff99ccffПерезарядка:|r 5 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 800"
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+Hotkey=F
+Researchtip=Изучить |cffffcc00F|rrost Armor - [|cffffcc00Уровень %d|r]
+Researchubertip="Coздaeт лeдянoй щит для зaщиты укaзaннoгo coюзникa в тeчeниe 40 ceкунд. Щит дaeт бpoню и зaмeдляeт нa 2 ceкунды любoгo вpaгa ближнeгo бoя, aтaкoвaвшeгo цeль.|n|n|cffffcc00Уpoвeнь 1|r - Дoбaвляeт 3 бpoни. |n|cffffcc00Уpoвeнь 2|r - Дoбaвляeт 5 бpoни. |n|cffffcc00Уpoвeнь 3|r - Дoбaвляeт 7 бpoни.|n|cffffcc00Уpoвeнь 4|r - Дoбaвляeт 9 бpoни. |n|n|cff99ccffПepeзapядкa:|r 5 ceкунд  |n|cff99ccffTpeбуeт мaны:|r 50"
+Researchhotkey=F
+[A09K]
+Name=Impale
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 4|r]
+Ubertip="Бьёт в землю массивными клыками, образуя впереди себя линию острых шипов, выстреливающих из земли. Шипы наносят по 80 урона и подкидывают наземных врагов в воздух, оглушая их на 0.75 секунды. |n|n|cff99ccffПерезарядка:|r 11 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 500","Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing 160 damage and hurling enemy ground units into the air in their wake, stunning them for 1.25 second. |n|n|cff99ccffПерезарядка: |r 11 seconds.","Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing 230 damage and hurling enemy ground units into the air in their wake, stunning them for 1.75 seconds. |n|n|cff99ccffПерезарядка: |r 11 seconds.","Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing 300 damage and hurling enemy ground units into the air in their wake, stunning them for 2.25 seconds. |n|n|cff99ccffПерезарядка: |r 11 seconds."
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Уровень 1|r - 80 damage, .75 second stun. |n|cffffcc00Уровень 2|r - 160 damage, 1.25 second stun. |n|cffffcc00Уровень 3|r - 230 damage, 1.75 second stun.|n|cffffcc00Уровень 4|r - 300 damage, 2.25 second stun. |n|n|cff99ccffПерезарядка: |r 11 seconds."
+Researchhotkey=E
+[A0BG]
+Name=Spin Web
+Tip=Spin We|cffffcc00b|r - [|cffffcc00Уровень 1|r],Spin We|cffffcc00b|r - [|cffffcc00Уровень 2|r],Spin We|cffffcc00b|r - [|cffffcc00Уровень 3|r],Spin We|cffffcc00b|r - [|cffffcc00Уровень 4|r]
+Ubertip="Coздaeт пaутину, дeлaющую Broodmother нeвидимoй, a тaкжe дaющую eй +20% cкopocти пepeдвижeния и +2 eд. здopoвья в ceкунду. Длитcя бecкoнeчнo. Moжнo пocтaвить 2 пaутины.|n|n|cff99ccffПepeзapядкa:|r 30 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 650|n|cff99ccffДaльнocть пpимeнeния:|r 600","Coздaeт пaутину, дeлaющую Broodmother нeвидимoй, a тaкжe дaющую eй +25% cкopocти пepeдвижeния и +4 eд. здopoвья в ceкунду. Длитcя бecкoнeчнo. Moжнo пocтaвить 4 пaутины.|n|n|cff99ccffПepeзapядкa:|r 30 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 650|n|cff99ccffДaльнocть пpимeнeния:|r 600","Coздaeт пaутину, дeлaющую Broodmother нeвидимoй, a тaкжe дaющую eй +30% cкopocти пepeдвижeния и +6 eд. здopoвья в ceкунду. Длитcя бecкoнeчнo. Moжнo пocтaвить 6 пaутин.|n|n|cff99ccffПepeзapядкa:|r 30 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 650|n|cff99ccffДaльнocть пpимeнeния:|r 600","Coздaeт пaутину, дeлaющую Broodmother нeвидимoй, a тaкжe дaющую eй +35% cкopocти пepeдвижeния и +8 eд. здopoвья в ceкунду. Длитcя бecкoнeчнo. Moжнo пocтaвить 8 пaутин.|n|n|cff99ccffПepeзapядкa:|r 30 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 650|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=B
+Researchtip=Изучить Spin We|cffffcc00b|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Cплeтaeт пaутину, cкpывaющую Broodmother, a тaкжe увeличивaющую cкopocть вoccтaнoвлeния ee здopoвья и cкopocть пepeдвижeния. Peгeнepaция pacтeт c уpoвнeм.|n|n|cffffcc00Уpoвeнь 1|r - 2 пaутины мaкcимум.|n|cffffcc00Уpoвeнь 2|r - 4 пaутины мaкcимум.|n|cffffcc00Уpoвeнь 3|r - 6 пaутин мaкcимум.|n|cffffcc00Уpoвeнь 4|r - 8 пaутин мaкcимум.|n|n|cff99ccffПepeзapядкa:|r 30 ceкунд|n|cff99ccffTpeбуeт мaны:|r 50"
+Researchhotkey=B
+[A04Y]
+Name=Nightmare
+Tip=Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 1|r],Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 2|r],Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 3|r],Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 4|r]
+Ubertip="Пoгpужaeт юнитa в кoшмapный coн на 4 секунды. Юнит пoлучaeт 20 уpoнa в ceкунду. Ecли oн будeт aтaкoвaн дo тoгo кaк зaкoнчитcя Nightmare, aтaкoвaвший пepeнeceт Nightmare нa ceбя.|n|n|cff99ccffПepeзapядкa:|r 15 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 500","Пoгpужaeт юнитa в кoшмapный coн на 5 секунд. Юнит пoлучaeт 20 уpoнa в ceкунду. Ecли oн будeт aтaкoвaн дo тoгo кaк зaкoнчитcя Nightmare, aтaкoвaвший пepeнeceт Nightmare нa ceбя.|n|n|cff99ccffПepeзapядкa:|r 15 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 500","Пoгpужaeт юнитa в кoшмapный coн на 6 секунд. Юнит пoлучaeт 20 уpoнa в ceкунду. Ecли oн будeт aтaкoвaн дo тoгo кaк зaкoнчитcя Nightmare, aтaкoвaвший пepeнeceт Nightmare нa ceбя.|n|n|cff99ccffПepeзapядкa:|r 15 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 500","Пoгpужaeт юнитa в кoшмapный coн на 7 секунд. Юнит пoлучaeт 20 уpoнa в ceкунду. Ecли oн будeт aтaкoвaн дo тoгo кaк зaкoнчитcя Nightmare, aтaкoвaвший пepeнeceт Nightmare нa ceбя.|n|n|cff99ccffПepeзapядкa:|r 15 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 500"
+Hotkey=T
+Researchtip=Изучить Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь %d|r]
+Researchubertip="Пoгpужaeт юнит в cудopoжный coн, нaпoлнeнный ужacaющими кoшмapaми. Юнит пoлучaeт 20 уpoнa в ceкунду. Ecли этoт юнит будeт aтaкoвaн вo вpeмя cнa, oн пpoбудитcя, a aтaкoвaвший eгo пoгpузитcя в coн вмecтo нeгo.|n|n|cffffcc00Уpoвeнь 1|r - длитcя 4 ceкунды.|n|cffffcc00Уpoвeнь 2|r - длитcя 5 ceкунд.|n|cffffcc00Уpoвeнь 3|r - длитcя 6 ceкунд.|n|cffffcc00Уpoвeнь 4|r - длитcя 7 ceкунд.|n|n|cff99ccffПepeзapядкa:|r 15 ceкунд|n|cff99ccffTpeбуeт мaны:|r 165"
+Researchhotkey=T
+[A04Z]
+Name=Nightmare
+Tip=Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 1|r],Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 2|r],Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 3|r],Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь 4|r]
+Ubertip="Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 5 seconds.","Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 6 seconds.","Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 7 seconds.","Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 8 seconds."
+Hotkey=T
+Researchtip=Изучить Nigh|cffffcc00t|rmare - [|cffffcc00Уpoвeнь %d|r]
+Researchubertip="Puts another unit into a fitful slumber, filled with horrifying nightmares.  It takes 20 damage per second.  If that unit is attacked while it slumbers, the attacking unit comes under the effect of Nightmare. |n|n|cffffcc00Уровень 1|r - Lasts 5 seconds. |n|cffffcc00Уровень 2|r - Lasts 6 seconds. |n|cffffcc00Уровень 3|r - Lasts 7 seconds.|n|cffffcc00Уровень 4|r - Lasts 8 seconds."
+Researchhotkey="T"
+[A06U]
+Name="Entrench"
+Tip="|cffffcc00E|rntrench - [|cffffcc00Уровень 1|r]","|cffffcc00E|rntrench - [|cffffcc00Уровень 2|r]","|cffffcc00E|rntrench - [|cffffcc00Уровень 3|r]","|cffffcc00E|rntrench - [|cffffcc00Уровень 4|r]"
+Untip="Un|cffffcc00e|rntrench","Un|cffffcc00e|rntrench","Un|cffffcc00e|rntrench","Un|cffffcc00e|rntrench"
+Ubertip="The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 70 damage in an area and stuns for 1.5 seconds.","The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 140 damage in an area and stuns for 1.5 seconds.","The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 210 damage in an area and stuns for 1.5 seconds.","The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 280 damage in an area and stuns for 1.5 seconds."
+Unubertip="The Sand King pops out of the ground, dealing 70 damage and stunning for 1.5 seconds.","The Sand King pops out of the ground, dealing 140 damage and stunning for 1.5 seconds.","The Sand King pops out of the ground, dealing 240 damage and stunning for 1.5 seconds.","The Sand King pops out of the ground, dealing 280 damage and stunning for 1.5 seconds."
+Hotkey=E
+Unhotkey=E
+Researchhotkey="E"
+Researchtip="Изучить |cffffcc00E|rntrench - [|cffffcc00Уровень %d|r]"
+Researchubertip="The Sand King digs into the ground, biding his time.  When he springs out from his burrow, he deals damage and stuns the surrounding enemies.  |n|n|cffffcc00Уровень 1|r - 250 AoE, 70 damage. |n|cffffcc00Уровень 2|r - 300 AoE, 140 damage. |n|cffffcc00Уровень 3|r - 350 AoE, 210 damage. |n|cffffcc00Уровень 4|r - 400 AoE, 280 damage."
+[A06Z]
+Name=BSImpale
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Уровень 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Уровень 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Уровень 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A070]
+Name=BSImpale
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Уровень 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Уровень 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Уровень 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A075]
+Name=BSImpale
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Уровень 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Уровень 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Уровень 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A077]
+Name=BSImpale
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Уровень 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Уровень 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Уровень 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A07Y]
+Name=Mana Leak
+Tip=Mana L|cffffcc00e|rak - [|cffffcc00Уровень 1|r],Mana L|cffffcc00e|rak - [|cffffcc00Уровень 2|r],Mana L|cffffcc00e|rak - [|cffffcc00Уровень 3|r],Mana L|cffffcc00e|rak - [|cffffcc00Уровень 4|r]
+Ubertip="Creates a leak in a target unit's mana pool.  If that unit casts a spell, 20% of its remaining mana will be lost. |n|n|cff99ccffПерезарядка: |r 15 seconds.","Creates a leak in a target unit's mana pool.  If that unit casts a spell, 40% of its remaining mana will be lost. |n|n|cff99ccffПерезарядка: |r 15 seconds.","Creates a leak in a target unit's mana pool.  If that unit casts a spell, 60% of its remaining mana will be lost. |n|n|cff99ccffПерезарядка: |r 15 seconds.","Creates a leak in a target unit's mana pool.  If that unit casts a spell, 80% of its remaining mana will be lost. |n|n|cff99ccffПерезарядка: |r 15 seconds."
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить Mana L|cffffcc00e|rak - [|cffffcc00Уровень %d|r]
+Researchubertip="Casts a powerful inhibiting magic on another unit.  Should they cast a spell, a portion of their remaining mana leaks away.|nLasts 22 seconds.  |n|n|cffffcc00Уровень 1|r - 20% of their remaining mana leaks away. |n|cffffcc00Уровень 2|r - 40% of their remaining mana leaks away. |n|cffffcc00Уровень 3|r - 60% of their remaining mana leaks away. |n|cffffcc00Уровень 4|r - 80% of their remaining mana leaks away.  |n|n|cff99ccffПерезарядка: |r 15 seconds."
+[A084]
+Name=Ravage 1
+Tip=Impal|cffffcc00e|r - [|cffffcc00Уровень 1|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 2|r],Impal|cffffcc00e|r - [|cffffcc00Уровень 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=Изучить Impal|cffffcc00e|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Уровень 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Уровень 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Уровень 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A05Q]
+Name=Frost Nova
+Tip=Frost |cffffcc00N|rova - [|cffffcc00Уровень 1|r],Frost |cffffcc00N|rova - [|cffffcc00Уровень 2|r],Frost |cffffcc00N|rova - [|cffffcc00Уровень 3|r]
+Ubertip="Blasts enemy units with a wave of frost that deals <AUfn,DataB1> damage to the target, and <AUfn,DataA1> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur1> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB2> damage to the target, and <AUfn,DataA2> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur2> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB3> damage to the target, and <AUfn,DataA3> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur3> seconds."
+Hotkey=N
+Researchtip="Изучить Frost |cffffcc00N|rova - [|cffffcc00Уровень %d|r]"
+Researchubertip="Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement and attack rate. |n|n|cffffcc00Уровень 1|r - <AUfn,DataB1> target damage, <AUfn,DataA1> nova damage. |n|cffffcc00Уровень 2|r - <AUfn,DataB2> target damage, <AUfn,DataA2> nova damage. |n|cffffcc00Уровень 3|r - <AUfn,DataB3> target damage, <AUfn,DataA3> nova damage."
+Researchhotkey=N
+[A0D8]
+Name="Ante Up"
+Tip="An|cffffcc00t|re Up - [|cffffcc00Уровень 1|r]","An|cffffcc00t|re Up - [|cffffcc00Уровень 2|r]","An|cffffcc00t|re Up - [|cffffcc00Уровень 3|r]","An|cffffcc00t|re Up - [|cffffcc00Уровень 4|r]"
+Ubertip="Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 300.  If that hero is the first to die, Maverick cashes in for 150.  If that unit is a friendly unit, Maverick heals it for 50.  If it's an enemy unit, Maverick damages it for 50.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying.","Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 400.  If that hero is the first to die, Maverick cashes in for 200.  If that unit is a friendly unit, Maverick heals it for 100.  If it's an enemy unit, Maverick damages it for 100.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying.","Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 500.  If that hero is the first to die, Maverick cashes in for 250.  If that unit is a friendly unit, Maverick heals it for 150.  If it's an enemy unit, Maverick damages it for 150.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying.","Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 600.  If that hero is the first to die, Maverick cashes in for 300.  If that unit is a friendly unit, Maverick heals it for 200.  If it's an enemy unit, Maverick damages it for 200.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying."
+Hotkey=T
+Researchhotkey="T"
+Researchtip="Изучить An|cffffcc00t|re Up - [|cffffcc00Уровень %d|r]"
+Researchubertip="Maverick goes heads-up with another unit, friend or foe.  Maverick wagers 100 gold on the game.  If that hero is the first to get a kill, Maverick cashes in for a big reward.  If that hero is the first to die, Maverick cashes in for half as much.  If that hero is an enemy, Maverick damages it.  If that hero is an ally, Maverick heals it.|n|n|cffffcc00Уровень 1|r - Cash in for 300 gold, damages or heals for 50. |n|cffffcc00Уровень 2|r - Cash in for 400 gold, damages or heals for 100.|n|cffffcc00Уровень 3|r - Cash in for 500 gold, damages or heals for 150.|n|cffffcc00Уровень 4|r - Cash in for 600 gold, damages or heals for 200. Will not work on allied pudge or techie dying."
+[A0DK]
+Name=Fissure
+Tip=|cffffcc00F|rissure - [|cffffcc00Уровень 1|r],|cffffcc00F|rissure - [|cffffcc00Уровень 2|r],|cffffcc00F|rissure - [|cffffcc00Уровень 3|r],|cffffcc00F|rissure - [|cffffcc00Уровень 4|r]
+Ubertip="Slams the ground with Raigor's mighty totem, dealing 75 damage in a line and stunning for 1 seconds.  Leaves an impassible crevasse in the ground for 8 seconds.","Slams the ground with Raigor's mighty totem, dealing 145 damage in a line and stunning for 1.5 seconds.  Leaves an impassible crevasse in the ground for 8 seconds.","Slams the ground with Raigor's mighty totem, dealing 210 damage in a line and stunning for 2 seconds.  Leaves an impassible crevasse in the ground for 8 seconds.","Slams the ground with Raigor's mighty totem, dealing 320 damage in a line and stunning for 2 seconds.  Leaves an impassible crevasse in the ground for 8 seconds."
+Hotkey=F
+Researchtip=Изучить |cffffcc00F|rissure - [|cffffcc00Уровень %d|r]
+Researchubertip="Slams the ground with the Raigor's mighty totem, causing the ground to crack in half in front of him, damaging opponents and leaving an impassible trail for a period of time. |n|n|cffffcc00Уровень 1|r - 75 damage, 1 second stun. |n|cffffcc00Уровень 2|r - 145 damage, 1.5 second stun. |n|cffffcc00Уровень 3|r - 210 damage, 2 second stun. |n|cffffcc00Уровень 4|r - 320 damage, 2 second stun."
+Researchhotkey="F"
+[A01N]
+Name=Heartstopper Aura
+Tip=Heartstopper Aura - |cffffcc00Уровень 1|r,Heartstopper Aura - |cffffcc00Уровень 2|r,Heartstopper Aura - |cffffcc00Уровень 3|r,Heartstopper Aura - |cffffcc00Уровень 4|r
+Ubertip="Зaмeдляeт биeниe cepдцa ближaйшиx вpaгoв, зacтaвляя иx тepять 0.4% oт мaкcимaльнoгo уpoвня здopoвья кaждую ceкунду. Paдиуc дeйcтвия 1000.","Зaмeдляeт биeниe cepдцa ближaйшиx вpaгoв, зacтaвляя иx тepять 0.6% oт мaкcимaльнoгo уpoвня здopoвья кaждую ceкунду. Paдиуc дeйcтвия 1000.","Зaмeдляeт биeниe cepдцa ближaйшиx вpaгoв, зacтaвляя иx тepять 0.8% oт мaкcимaльнoгo уpoвня здopoвья кaждую ceкунду. Paдиуc дeйcтвия 1000.","Зaмeдляeт биeниe cepдцa ближaйшиx вpaгoв, зacтaвляя иx тepять 1% oт мaкcимaльнoгo уpoвня здopoвья кaждую ceкунду. Paдиуc дeйcтвия 1000."
+Researchtip=Изучить Hear|cffffcc00t|rstopper Aura - |cffffcc00Уровень %d|r
+Researchubertip="Cмepтeльнaя aуpa в paдиуce 1000 ocтaнaвливaeт cepдцa oппoнeнтoв, зacтaвляя иx кaждую ceкунду тepять здopoвьe, пpoпopциoнaльнo eгo мaкcимaльнoму кoличecтву. |n|n|cffffcc00Уpoвeнь 1|r - 0.4% здopoвья.|n|cffffcc00Уpoвeнь 2|r - 0.6% здopoвья.|n|cffffcc00Уpoвeнь 3|r - 0.8% здopoвья.|n|cffffcc00Уpoвeнь 4|r - 1% здopoвья."
+Researchhotkey=T
+[A0C3]
+Name="Blade Mail"
+Tip=Spiked Carapace - [|cffffcc00Уровень 1|r],Spiked Carapace - [|cffffcc00Уровень 2|r],Spiked Carapace - [|cffffcc00Уровень 3|r]
+Ubertip="Enhances the Crypt Lord's chitinous armor with organic barbs, giving the Crypt Lord <AUts,DataC1> bonus armor and returning <AUts,DataA1,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC2> bonus armor and returning <AUts,DataA2,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC3> bonus armor and returning <AUts,DataA3,%>% of melee attack damage to enemies."
+Researchtip="Изучить |cffffcc00S|rpiked Carapace - [|cffffcc00Уровень %d|r]"
+Researchubertip="The Crypt Lord forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Уровень 1|r - <AUts,DataA1,%>% damage returned, <AUts,DataC1> bonus armor. |n|cffffcc00Уровень 2|r -  <AUts,DataA2,%>% damage returned, <AUts,DataC2> bonus armor. |n|cffffcc00Уровень 3|r -  <AUts,DataA3,%>% damage returned, <AUts,DataC3> bonus armor."
+Researchhotkey=S
+[A08X]
+Name=Grave Chill
+Tip=|cffffcc00G|rrave Chill - [|cffffcc00Уровень 1|r],|cffffcc00G|rrave Chill - [|cffffcc00Уровень 2|r],|cffffcc00G|rrave Chill - [|cffffcc00Уровень 3|r],|cffffcc00G|rrave Chill - [|cffffcc00Уровень 4|r]
+Ubertip="Visage похищает душу противника, снижая его и увеличивая свою скорость передвижения и атаки на 32% на 3 секунды.|n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 600","Visage похищает душу противника, снижая его и увеличивая свою скорость передвижения и атаки на 32% на 4 секунды.|n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 600","Visage похищает душу противника, снижая его и увеличивая свою скорость передвижения и атаки на 32% на 5 секунд.|n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 600","Visage похищает душу противника, снижая его и увеличивая свою скорость передвижения и атаки на 32% на 6 секунд.|n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Hotkey=G
+Researchhotkey=G
+Researchtip=Изучить |cffffcc00G|rrave Chill - [|cffffcc00Уровень %d|r]
+Researchubertip="Visage похищает душу противника, снижая его и увеличивая свою скорость передвижения и атаки на 32%.|n|n|cffffcc00Уровень 1|r - 3 секунды. |n|cffffcc00Уровень 2|r - 4 секунды. |n|cffffcc00Уровень 3|r - 5 секунд. |n|cffffcc00Уровень 4|r - 6 секунд.|n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffТребует маны:|r 70/80/90/100"
+[A09R]
+Name=Mana Void
+Tip=Mana |cffffcc00V|roid - [|cffffcc00Уpoвeнь 1|r],Mana |cffffcc00V|roid - [|cffffcc00Уpoвeнь 2|r],Mana |cffffcc00V|roid - [|cffffcc00Уpoвeнь 3|r]
+Ubertip="Creates a void in the soul of a target enemy unit.  For each 1 mana point missing, the unit takes .6 damage.","Creates a void in the soul of a target enemy unit.  For each 1 mana point missing, the unit takes .85 damage.","Creates a void in the soul of a target enemy unit.  For each 1 mana point missing, the unit takes 1.1 damage."
+Hotkey=V
+Researchhotkey=V
+Researchtip=Изучить Mana |cffffcc00V|roid - [|cffffcc00Уpoвeнь %d|r]
+Researchubertip="Creates a powerful void in an enemy unit caused by a lack of mana.  For each mana point missing, the unit takes damage. |n|n|cffffcc00Уровень 1|r - .6 damage per mana point missing.|n|cffffcc00Уровень 2|r - .85 damage per mana point missing.|n|cffffcc00Уровень 3|r - 1.1 damage per mana point missing."
+[A0B2]
+Name="Midnight Pulse effect"
+Tip=|cffffcc00D|reath And Decay
+Ubertip="Каждую секунду наносит всем врагам в зоне действия урон, равный <AUdd,DataA1,%>% его базового здоровья. Также уничтожает деревья. |nДлится <AUdd,Dur1> секунд."
+Hotkey=D
+Researchtip=Изучить |cffffcc00D|reath And Decay
+Researchubertip="Каждую секунду наносит всем врагам в зоне действия урон, равный <AUdd,DataA1,%>% его базового здоровья. Также уничтожает деревья."
+Researchhotkey=D
+[A01B]
+Name=Nature's Attendants
+Tip=Natu|cffffcc00r|re's Attendants - [|cffffcc00Уровень 1|r],Natu|cffffcc00r|re's Attendants - [|cffffcc00Уровень 2|r],Natu|cffffcc00r|re's Attendants - [|cffffcc00Уровень 3|r],Natu|cffffcc00r|re's Attendants - [|cffffcc00Уровень 4|r]
+Ubertip=Призывает 3 лечащих духов вокруг героя. Каждый дух излечивает 10 здоровья в секунду всем союзникам в зоне действия. |n|n|cff99ccffПерезарядка:|r 45 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 275,Призывает 5 лечащих духов вокруг героя. Каждый дух излечивает 10 здоровья в секунду всем союзникам в зоне действия. |n|n|cff99ccffПерезарядка:|r 45 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 275,Призывает 7 лечащих духов вокруг героя. Каждый дух излечивает 10 здоровья в секунду всем союзникам в зоне действия. |n|n|cff99ccffПерезарядка:|r 45 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 275,Призывает 9 лечащих духов вокруг героя. Каждый дух излечивает 10 здоровья в секунду всем союзникам в зоне действия. |n|n|cff99ccffПерезарядка:|r 45 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 275
+Hotkey=R
+Researchtip=Изучить Natu|cffffcc00r|re's Attendants - [|cffffcc00Уровень %d|r]
+Researchubertip="Призывает стайку духов-целителей, которые лечат всех союзников в радиусе 275. Каждый дух живет 10 секунд и лечит 10 здоровья в секунду.|n|n|cffffcc00Уровень 1|r - 3 духа.|n|cffffcc00Уровень 2|r - 5 духов.|n|cffffcc00Уровень 3|r - 7 духов.|n|cffffcc00Уровень 4|r - 9 духов. |n|n|cff99ccffПерезарядка:|r 45 секунд|n|cff99ccffТребует маны:|r 125/140/155/170"
+Researchhotkey=R
+[A00T]
+Name=Urna Swarm
+Tip=Urna S|cffffcc00w|rarm - [|cffffcc00Уровень 1|r],Urna S|cffffcc00w|rarm - [|cffffcc00Уровень 2|r],Urna S|cffffcc00w|rarm - [|cffffcc00Уровень 3|r],Urna S|cffffcc00w|rarm - [|cffffcc00Уровень 4|r]
+Ubertip=Пoднимaeт Scarab'a из мepтвoгo тeлa. Oднoвpeмeннo мoжнo имeть нe бoлee 2 Scarab'oв. |n|n|cff99ccffПepeзapядкa:|r 26 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 900,Пoднимaeт Scarab'a из мepтвoгo тeлa. Oднoвpeмeннo мoжнo имeть нe бoлee 3 Scarab'oв. |n|n|cff99ccffПepeзapядкa:|r 19 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 900,Пoднимaeт Scarab'a из мepтвoгo тeлa. Oднoвpeмeннo мoжнo имeть нe бoлee 4 Scarab'oв. |n|n|cff99ccffПepeзapядкa:|r 12 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 900,Пoднимaeт Scarab'a из мepтвoгo тeлa. Oднoвpeмeннo мoжнo имeть нe бoлee 5 Scarab'oв. |n|n|cff99ccffПepeзapядкa:|r 5 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 900
+Hotkey=W
+Researchtip=Изучить Urna S|cffffcc00w|rarm - [|cffffcc00Уровень %d|r]
+Researchubertip=Поднимает Scarab'а из мёртвого тела.|n|n|cffffcc00Уровень 1|r - 2 максимум.|n|cffffcc00Уровень 2|r - 3 максимум.|n|cffffcc00Уровень 3|r - 4 максимум.|n|cffffcc00Уровень 4|r - 5 максимум. |n|n|cff99ccffПерезарядка:|r 26/19/12/5 секунд|n|cff99ccffТребует маны:|r 40/30/20/10
+Researchhotkey=W
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+[A02F]
+Name="Holy Light"
+Tip="Holy Ligh|cffffcc00t|r - [|cffffcc00Уровень 1|r]","Holy Ligh|cffffcc00t|r - [|cffffcc00Уровень 2|r]","Holy Ligh|cffffcc00t|r - [|cffffcc00Уровень 3|r]","Holy Ligh|cffffcc00t|r - [|cffffcc00Уровень 4|r]"
+Ubertip="Heals a friendly unit for 125 health or damages an enemy unit for 75 damage.","Heals a friendly unit for 250 health or damages an enemy unit for 150 damage.","Heals a friendly unit for 375 health or damages an enemy unit for 225 damage.","Heals a friendly unit for 500 health or damages an enemy unit for 300 damage."
+Hotkey=T
+Researchtip="Изучить Holy Ligh|cffffcc00t|r - [|cffffcc00Уровень %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or damage an enemy unit. |n|n|cffffcc00Уровень 1|r - Heals for 125 hit points or damages for 75 hit points. |n|cffffcc00Уровень 2|r - Heals for 250 hit points or damages for 150 hit points. |n|cffffcc00Уровень 3|r - Heals for 375 hit points or damages for 225 hit points.  |n|cffffcc00Уровень 4|r - Heals for 500 hit points or damages for 300 hit points."
+Researchhotkey="T"
+[A07V]
+Name="Typhoon"
+Tip="|cffffcc00T|ryphoon - [|cffffcc00Уровень 1|r]","|cffffcc00T|ryphoon - [|cffffcc00Уровень 2|r]","|cffffcc00T|ryphoon - [|cffffcc00Уровень 3|r]","|cffffcc00T|ryphoon - [|cffffcc00Уровень 4|r]"
+Ubertip="Conjurs a great cyclone to whip across an area, dealing 340 damage and and throwing into the air for 2 seconds enemy units that are caught in its path.","Conjurs a great cyclone to whip across an area, dealing 470 damage and and throwing into the air for 2.5 seconds enemy units that are caught in its path.","Conjurs a great cyclone to whip across an area, dealing 600 damage and and throwing into the air for 3 seconds enemy units that are caught in its path.","Conjurs a great cyclone to whip across an area, dealing 320 damage and Cycloning enemy units/heroes that get hit by it for 2.50 seconds."
+Hotkey=T
+Researchtip="Изучить |cffffcc00T|ryphoon - [|cffffcc00Уровень %d|r]"
+Researchubertip="Conjures a great cyclone to whip across an area, dealing damage to enemies and Cycloning enemy heroes that get caught in it. |n|n|cffffcc00Уровень 1|r - 340 damage per unit, enemy units get cycloned for 2 seconds. |n|cffffcc00Уровень 2|r - 470 damage per unit, enemy units get cycloned for 2.5 seconds. |n|cffffcc00Уровень 3|r - 600 damage per unit, enemy units get cycloned for 3 seconds."
+Researchhotkey="T"
+[A0CL]
+Name=Dragon Blood
+Tip=Dragon Blood - [|cffffcc00Уровень 1|r],Dragon Blood - [|cffffcc00Уровень 2|r],Dragon Blood - [|cffffcc00Уровень 3|r],Dragon Blood - [|cffffcc00Уровень 4|r]
+Ubertip="В жилах Davion'а течёт кровь драконов, наделяющая его дополнительной регенерацией 2 здоровья в секунду и дающая +2 брони.","В жилах Davion'а течёт кровь драконов, наделяющая его дополнительной регенерацией 3 здоровья в секунду и дающая +4 брони.","В жилах Davion'а течёт кровь драконов, наделяющая его дополнительной регенерацией 4 здоровья в секунду и дающая +6 брони.","В жилах Davion'а течёт кровь драконов, наделяющая его дополнительной регенерацией 5 здоровья в секунду и дающая +8 брони."
+Researchtip=Изучить |cffffcc00D|rragon Blood - [|cffffcc00Уровень %d|r]
+Researchubertip="Haдeляeт Dragon Knight дpaкoньeй кpoвью из его poдoвoгo нacлeдия, кoтopaя уcкopяeт зaживлeниe paн и укpeпляeт бpoню. |n|n|cffffcc00Уpoвeнь 1|r - увeличивaeт peгeнepaцию нa 2 и бpoню нa 2. |n|cffffcc00Уpoвeнь 2|r - увeличивaeт peгeнepaцию нa 3 и бpoню нa 4. |n|cffffcc00Уpoвeнь 3|r - увeличивaeт peгeнepaцию нa 4 и бpoню нa 6. |n|cffffcc00Уpoвeнь 4|r - увeличивaeт peгeнepaцию нa 5 и бpoню нa 8."
+Researchhotkey=D
+[A0D1]
+Name="Spirit Lance (Cripple)"
+Tip=""
+Ubertip=""
+Hotkey=C
+[A0F8]
+Name=SandKing Dust
+Tip=Spin We|cffffcc00b|r - [|cffffcc00Уровень 1|r],Spin We|cffffcc00b|r - [|cffffcc00Уровень 2|r],Spin We|cffffcc00b|r - [|cffffcc00Уровень 3|r],Spin We|cffffcc00b|r - [|cffffcc00Уровень 4|r]
+Ubertip="Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 2 webs.  90 second Перезарядка.","Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 4 webs.  75 second Перезарядка.","Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 6 webs.  60 second Перезарядка.","Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 8 webs.  45 second Перезарядка."
+Hotkey=B
+Researchtip=Изучить Spin We|cffffcc00b|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Spins a web which grants the Broodmother invisibility in an area, as well as a passive speed increase.  |n|n|cffffcc00Уровень 1|r - 2 allowed webs, 90 second Перезарядка. |n|cffffcc00Уровень 2|r - 4 allowed webs, 75 second Перезарядка. |n|cffffcc00Уровень 3|r - 6 allowed webs, 60 second Перезарядка. |n|cffffcc00Уровень 4|r - 8 allowed webs, 45 second Перезарядка."
+Researchhotkey="B"
+[A0GE]
+Name="charge 1"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0GF]
+Name="charge 2"
+Tip=Unholy Aura - [|cffffcc00Уровень 1|r],Unholy Aura - [|cffffcc00Уровень 2|r],Unholy Aura - [|cffffcc00Уровень 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0GG]
+Name="charge 3"
+Tip=Unholy Aura - [|cffffcc00Уровень 1|r],Unholy Aura - [|cffffcc00Уровень 2|r],Unholy Aura - [|cffffcc00Уровень 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0GH]
+Name="charge 4"
+Tip=Unholy Aura - [|cffffcc00Уровень 1|r],Unholy Aura - [|cffffcc00Уровень 2|r],Unholy Aura - [|cffffcc00Уровень 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0ES]
+Name=Empowering Haste
+Tip=Empowering Haste - [|cffffcc00Уровень 1|r],Empowering Haste - [|cffffcc00Уровень 2|r],Empowering Haste - [|cffffcc00Уровень 3|r],Empowering Haste - [|cffffcc00Уровень 4|r]
+Ubertip="Spiritbreaker c каждым ударом наносит дополнительный урон, равный 4% от своей скорости передвижения, и получает ауру, увеличивающую скорость передвижения на 6%.","Spiritbreaker c каждым ударом наносит дополнительный урон, равный 8% от своей скорости передвижения, и получает ауру, увеличивающую скорость передвижения на 8%.","Spiritbreaker c каждым ударом наносит дополнительный урон, равный 12% от своей скорости передвижения, и получает ауру, увеличивающую скорость передвижения на 10%.","Spiritbreaker c каждым ударом наносит дополнительный урон, равный 16% от своей скорости передвижения, и получает ауру, увеличивающую скорость передвижения на 12%."
+Researchtip=Изучить Empowering |cffffcc00H|raste - [|cffffcc00Уровень %d|r]
+Researchubertip="Даёт Spiritbreaker'у возможность сильнее размахивать своим оружием, нанося дополнительный урон, тем больший, чем выше скорость его передвижения. Его присутствие также ускоряет союзников в радиусе 500. |n|n|cffffcc00Уровень 1|r - увеличивает скорость на 6% и урон - на 4% от скорости. |n|cffffcc00Уровень 2|r - увеличивает скорость на 8% и урон - на 8% от скорости. |n|cffffcc00Уровень 3|r - увеличивает скорость на 10% и урон - на 12% от скорости. |n|cffffcc00Уровень 4|r - увеличивает скорость на 12% и урон - на 16% от скорости."
+Researchhotkey=H
+[A0HG]
+Name="Requiem of Souls Effect"
+Tip="","",""
+Ubertip="","",""
+Hotkey=R
+Researchtip=""
+Researchubertip=""
+Researchhotkey="R"
+[A0HH]
+Name="Requiem of Souls Cripple Far"
+Tip=""
+Ubertip=""
+Hotkey=C
+[A0HI]
+Name="Requiem of Souls Cripple Close"
+Tip=""
+Ubertip=""
+Hotkey=C
+[A0HJ]
+Name="Requiem of Souls Cripple Moderate"
+Tip=""
+Ubertip=""
+Hotkey=C
+[A0HK]
+Name=Cripple
+Tip=|cffffcc00C|rripple
+Ubertip="Reduces movement speed by <Acri,DataA1,%>%, attack rate by <Acri,DataB1,%>%, and damage by <Acri,DataC1,%>% of a target enemy unit. |nLasts <Acri,Dur1> seconds."
+Hotkey=C
+[A0CZ]
+Name=Backtrack
+Tip=Backtrack - [|cffffcc00Уровень 1|r],Backtrack - [|cffffcc00Уровень 2|r],Backtrack - [|cffffcc00Уровень 3|r],Backtrack - [|cffffcc00Уровень 4|r]
+Ubertip=10% шанс на Backtrack.,15% шанс на Backtrack.,20% шанс на Backtrack.,25% шанс на Backtrack.
+Researchtip=Изучить Backt|cffffcc00r|rack - [|cffffcc00Уровень %d|r]
+Researchubertip="При получении урона Faceless Void совершает временной прыжок на мгновение назад, пытаясь уклониться от него. Может уклоняться как от физических, так и от магических атак. |n|n|cffffcc00Уровень 1|r - 10% шанс.|n|cffffcc00Уровень 2|r - 15% шанс.|n|cffffcc00Уровень 3|r - 20% шанс.|n|cffffcc00Уровень 4|r - 25% шанс."
+Researchhotkey=R
+[A0JI]
+Name=True Sight
+Tip=True Sight
+Ubertip="Позволяет обнаруживать невидимых юнитов, находящихся поблизости."
+[A0KW]
+Name=Morph
+Tip=Изменение Силы - [|cffffcc00Уровень 1|r] [|cffffcc00F|r],Изменение Силы - [|cffffcc00Уровень 2|r] [|cffffcc00F|r],Изменение Силы - [|cffffcc00Уровень 3|r] [|cffffcc00F|r],Изменение Силы - [|cffffcc00Уровень 4|r] [|cffffcc00F|r]
+Ubertip="Когда включено, каждую секунду преобразует 2 ловкости в силу, затрачивая 20 маны.","Когда включено, каждую секунду преобразует 4 ловкости в силу, затрачивая 20 маны.","Когда включено, каждую секунду преобразует 6 ловкости в силу, затрачивая 20 маны.","Когда включено, каждую секунду преобразует 8 ловкости в силу, затрачивая 20 маны."
+Untip="|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 2 силы и теряет 2 ловкости каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 4 силы и теряет 4 ловкости каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 6 силы и теряет 6 ловкости каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 8 силы и теряет 8 ловкости каждую секунду."
+Unubertip="|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r"
+Hotkey=F
+Unhotkey=
+[A0KX]
+Name=Morph
+Tip=Изменение Ловкости - [|cffffcc00Уровень 1|r] [|cffffcc00D|r],Изменение Ловкости - [|cffffcc00Уровень 2|r] [|cffffcc00D|r],Изменение Ловкости - [|cffffcc00Уровень 3|r] [|cffffcc00D|r],Изменение Ловкости - [|cffffcc00Уровень 4|r] [|cffffcc00D|r]
+Ubertip="Koгдa включeнo, кaждую ceкунду пpeoбpaзуeт 2 силы в лoвкocть, зaтpaчивaя 20 мaны.","Koгдa включeнo, кaждую ceкунду пpeoбpaзуeт 4 силы в лoвкocть, зaтpaчивaя 20 мaны.","Koгдa включeнo, кaждую ceкунду пpeoбpaзуeт 6 силы в лoвкocть, зaтpaчивaя 20 мaны.","Koгдa включeнo, кaждую ceкунду пpeoбpaзуeт 8 силы в лoвкocть, зaтpaчивaя 20 мaны."
+Untip="|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 2 ловкости и теряет 2 силы каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 4 ловкости и теряет 4 силы каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 6 ловкости и теряет 6 силы каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 8 ловкости и теряет 8 силы каждую секунду."
+Unubertip="|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r"
+Hotkey=D
+Unhotkey=
+Order=replenishmana
+Orderon=replenishmanaon
+Orderoff=replenishmanaoff
+Researchhotkey=D
+Researchtip=Изучить Morph - [|cffffcc00Уровень %d|r] [|cffffcc00D|r]
+Researchubertip="Morphling пoдcтpaивaeт cвoю физичecкую cущнocть пoд oбcтoятeльcтвa. Oн мoжeт пpoизвoльнo нaбиpaть лoвкocть, тepяя пpи этoм силу, либo нaoбopoт. Пpoцecc oбpaтим.|n|n|cffffcc00Уpoвeнь 1|r - 2 eдиницы в ceкунду. |n|cffffcc00Уpoвeнь 2|r - 4 eдиницы в ceкунду. |n|cffffcc00Уpoвeнь 3|r - 6 eдиниц в ceкунду.|n|cffffcc00Уpoвeнь 4|r - 8 eдиниц в ceкунду. |n|cff99ccffTpeбуeт мaны:|r 20"
+[A0JQ]
+Name=Feast
+Tip=Feast - [|cffffcc00Уровень 1|r],Feast - [|cffffcc00Уровень 2|r],Feast - [|cffffcc00Уровень 3|r],Feast - [|cffffcc00Уровень 4|r]
+Ubertip="N'aix возвращает себе часть здоровья с каждой атакой, получая 10% от нанесённого им урона.","N'aix возвращает себе часть здоровья с каждой атакой, получая 20% от нанесённого им урона.","N'aix возвращает себе часть здоровья с каждой атакой, получая 30% от нанесённого им урона.","N'aix возвращает себе часть здоровья с каждой атакой, получая 40% от нанесённого им урона."
+Researchtip=Изучить |cffffcc00F|reast - [|cffffcc00Уровень %d|r]
+Researchubertip="N'aix восстанавливает свои жизненные силы, пожирая плоть врага. |n|n|cffffcc00Уровень 1|r - на 10% от урона атаки. |n|cffffcc00Уровень 2|r - на 20% от урона атаки.  |n|cffffcc00Уровень 3|r - на 30% от урона атаки.|n|cffffcc00Уровень 4|r - на 40% от урона атаки. "
+Researchhotkey=F
+[A0LD]
+Name=Avalanche
+Tip=A|cffffcc00v|ralanche - [|cffffcc00Уровень 1|r],A|cffffcc00v|ralanche - [|cffffcc00Уровень 2|r],A|cffffcc00v|ralanche - [|cffffcc00Уровень 3|r],A|cffffcc00v|ralanche - [|cffffcc00Уровень 4|r]
+Ubertip="Засыпает область камнями, нанося 100 урона и оглушая на 2 секунды.","Засыпает область камнями, нанося 180 урона и оглушая на 2 секунды.","Засыпает область камнями, нанося 260 урона и оглушая на 2 секунды.","Засыпает область камнями, нанося 300 урона и оглушая на 2 секунды."
+Hotkey=V
+Researchtip=Изучить A|cffffcc00v|ralanche - [|cffffcc00Уровень %d|r]
+Researchubertip="Засыпает область камнями, нанося урон и оглушая любые наземные вражеские юниты.|n|n|cffffcc00Уровень 1|r - 100 урона.|n|cffffcc00Уровень 2|r - 180 урона.|n|cffffcc00Уровень 3|r - 260 урона.|n|cffffcc00Уровень 4|r - 300 урона."
+Researchhotkey=V
+[A0M0]
+Name=Fissure
+Tip=|cffffcc00F|rissure - [|cffffcc00Уровень 1|r],|cffffcc00F|rissure - [|cffffcc00Уровень 2|r],|cffffcc00F|rissure - [|cffffcc00Уровень 3|r],|cffffcc00F|rissure - [|cffffcc00Уровень 4|r]
+Ubertip="Бьет по земле своим мощным тотемом, нанося 125 урона и оглушая юнитов в линии на 1 секунду. Оставляет непроходимую борозду на земле в течение 8 секунд. |n|n|cff99ccffПерезарядка:|r 15 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 1200","Бьет по земле своим мощным тотемом, нанося 175 урона и оглушая юнитов в линии на 1.25 секунд. Оставляет непроходимую борозду на земле в течение 8 секунд. |n|n|cff99ccffПерезарядка:|r 15 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 1200","Бьет по земле своим мощным тотемом, нанося 225 урона и оглушая юнитов в линии на 1.5 секунды. Оставляет непроходимую борозду на земле в течение 8 секунд. |n|n|cff99ccffПерезарядка:|r 15 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 1200","Бьет по земле своим мощным тотемом, нанося 275 урона и оглушая юнитов в линии на 1.75 секунд. Оставляет непроходимую борозду на земле в течение 8 секунд. |n|n|cff99ccffПерезарядка:|r 15 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 250|n|cff99ccffДaльнocть пpимeнeния:|r 1200"
+Hotkey=F
+Researchtip=Изучить |cffffcc00F|rissure - [|cffffcc00Уровень %d|r]
+Researchubertip="Бьет по земле с помощью мощного тотема, заставляя землю растрескаться перед героем, нанося урон оппонентам и оставляя непроходимую борозду на некоторое время. |n|n|cffffcc00Уровень 1|r - 125 урона, 1 секунда оглушения. |n|cffffcc00Уровень 2|r - 175 урона, 1.25 секунды оглушения. |n|cffffcc00Уровень 3|r - 225 урона, 1.5 секунды оглушения. |n|cffffcc00Уровень 4|r - 275 урона, 1.75 секунды оглушения. |n|n|cff99ccffПерезарядка:|r 15 секунд|n|cff99ccffТребует маны:|r 125/140/155/170"
+Researchhotkey=F
+[A0O1]
+Name=Wild Axes
+Tip=|cffffcc00W|rild Axes - [|cffffcc00Уровень 1|r],|cffffcc00W|rild Axes - [|cffffcc00Уровень 2|r],|cffffcc00W|rild Axes - [|cffffcc00Уровень 3|r],|cffffcc00W|rild Axes - [|cffffcc00Уровень 4|r]
+Ubertip="Швыряет два летучих топора, которые встречаются и возвращаются к хозяину. Каждый топор наносит по 90 урона всем юнитам на своём пути, но не более 1 раза каждому.|n|n|cff99ccffПерезарядка:|r 13 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 100|n|cff99ccffДaльнocть пpимeнeния:|r 1300","Швыряет два летучих топора, которые встречаются и возвращаются к хозяину. Каждый топор наносит по 120 урона всем юнитам на своём пути, но не более 1 раза каждому.|n|n|cff99ccffПерезарядка:|r 13 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 100|n|cff99ccffДaльнocть пpимeнeния:|r 1300","Швыряет два летучих топора, которые встречаются и возвращаются к хозяину. Каждый топор наносит по 150 урона всем юнитам на своём пути, но не более 1 раза каждому.|n|n|cff99ccffПерезарядка:|r 13 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 100|n|cff99ccffДaльнocть пpимeнeния:|r 1300","Швыряет два летучих топора, которые встречаются и возвращаются к хозяину. Каждый топор наносит по 180 урона всем юнитам на своём пути, но не более 1 раза каждому.|n|n|cff99ccffПерезарядка:|r 13 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 100|n|cff99ccffДaльнocть пpимeнeния:|r 1300"
+Hotkey=W
+Researchtip=Изучить |cffffcc00W|rild Axes - [|cffffcc00Уровень %d|r]
+Researchubertip="Rexxar швыpяeт двa лeтучиx тoпopa, кoтopыe вcтpeчaютcя в укaзaннoм мecтe и вoзвpaщaютcя к нeму. Kaждый тoпop нaнocит уpoн кaждoму юниту нa cвoeм пути лишь oднaжды.|n|n|cffffcc00Уpoвeнь 1|r - Kaждый тoпop нaнocит 90 уpoнa.|n|cffffcc00Уpoвeнь 2|r - Kaждый тoпop нaнocит 120 уpoнa.|n|cffffcc00Уpoвeнь 3|r - Kaждый тoпop нaнocит 150 уpoнa.|n|cffffcc00Уpoвeнь 4|r - Kaждый тoпop нaнocит 180 уpoнa.|n|n|cff99ccffПepeзapядкa:|r 13 ceкунд|n|cff99ccffTpeбуeт мaны:|r 120"
+Researchhotkey=W
+[A0O7]
+Name=Dual Breath
+Tip=|cffffcc00D|rual Breath - [|cffffcc00Уровень 1|r],|cffffcc00D|rual Breath - [|cffffcc00Уровень 2|r],|cffffcc00D|rual Breath - [|cffffcc00Уровень 3|r],|cffffcc00D|rual Breath - [|cffffcc00Уровень 4|r]
+Ubertip="Головы-близнецы Jakiro испускают морозное дыхание и волну огня: и то, и другое наносит по 35 урона. Вражеские юниты замедляются на 30% в течение 4 секунд и на протяжении 4 секунд получают по 5 урона огнём в секунду. |n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 500","Головы-близнецы Jakiro испускают морозное дыхание и волну огня: и то, и другое наносит по 70 урона. Вражеские юниты замедляются на 30% в течение 4 секунд и на протяжении 4 секунд получают по 10 урона огнём в секунду. |n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 500","Головы-близнецы Jakiro испускают морозное дыхание и волну огня: и то, и другое наносит по 105 урона. Вражеские юниты замедляются на 30% в течение 4 секунд и на протяжении 4 секунд получают по 15 урона огнём в секунду. |n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 500","Головы-близнецы Jakiro испускают морозное дыхание и волну огня: и то, и другое наносит по 140 урона. Вражеские юниты замедляются на 30% в течение 4 секунд и на протяжении 4 секунд получают по 20 урона огнём в секунду. |n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 200|n|cff99ccffДaльнocть пpимeнeния:|r 500"
+Hotkey=D
+Researchtip=Изучить |cffffcc00D|rual Breath - [|cffffcc00Уровень %d|r]
+Researchubertip="Головы-близнецы Jakiro испускают морозное дыхание и волну огня: и то, и другое наносит свой начальный урон. Вражеские юниты замедляются на 30% в течение 4 секунд и получают огненный урон на протяжении 4 секунд. |n|n|cffffcc00Уровень 1|r - 35 урона за волну, 5 урона огнём в секунду. |n|cffffcc00Уровень 2|r - 70 урона за волну, 10 урона огнём в секунду. |n|cffffcc00Уровень 3|r - 105 урона за волну, 15 урона огнём в секунду.|n|cffffcc00Уровень 4|r - 140 урона за волну, 20 урона огнём в секунду. |n|n|cff99ccffПерезарядка:|r 10 секунд"
+Researchhotkey=D
+[A0HF]
+Name=Carrion Beetles
+Tip="|cffffcc00C|rarrion Beetles - [|cffffcc00Уровень 1|r]","|cffffcc00C|rarrion Beetles - [|cffffcc00Уровень 2|r]","|cffffcc00C|rarrion Beetles - [|cffffcc00Уровень 3|r]","|cffffcc00C|rarrion Beetles - [|cffffcc00Уровень 4|r]"
+Ubertip="Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.5 stun effect when it unburrows. |nMaximum of 5 Beetles.","Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.5 stun effect when it unburrows. |nMaximum of 5 Beetles.","Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.75 stun effect when it unburrows. |nMaximum of 5 Beetles.","Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.75 stun effect when it unburrows. |nMaximum of 5 Beetles."
+Hotkey=C
+Researchtip="Изучить |cffffcc00C|rarrion Beetles - [|cffffcc00Уровень %d|r]"
+Researchubertip="Progenerates a Carrion Beetle from a nearby corpse to attack Abaddon's enemies. Beetles are permanent, and can Burrow underground. Minor stun effect when unborrowing. Max of 5 Beetles. |n|n|cffffcc00Уровень 1|r - Summons a Lesser Carrion Beetle. |n|cffffcc00Уровень 2|r - Summons a Weak Carrion Beetle. |n|cffffcc00Уровень 3|r - Summons a Strong Carrion Beetle. |n|cffffcc00Уровень 4|r - Summons a Greater Carrion Beetle. "
+Researchhotkey=C
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки."
+Unubertip="|cffc3dbffHaжмитe пpaвую кнoпку, чтoбы пpeкpaтить aвтoмaтичecкoe ипoльзoвaниe."
+[A0HQ]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip="The Carrion Beetle digs into the ground and becomes invisible."
+Unubertip="The Carrion Beetle pops out of the ground and becomes visible again."
+Hotkey=B
+Unhotkey=B
+[A0HR]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip="The Carrion Beetle digs into the ground and becomes invisible."
+Unubertip="The Carrion Beetle pops out of the ground and becomes visible again."
+Hotkey=B
+Unhotkey=B
+[A0HS]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip="The Carrion Beetle digs into the ground and becomes invisible."
+Unubertip="The Carrion Beetle pops out of the ground and becomes visible again."
+Hotkey=B
+Unhotkey=B
+[A0HT]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip="The Carrion Beetle digs into the ground and becomes invisible."
+Unubertip="The Carrion Beetle pops out of the ground and becomes visible again."
+Hotkey=B
+Unhotkey=B
+[A0KA]
+Name=Vladmir's Offering
+Tip=Vampiric Aura - [|cffffcc00Уровень 1|r],Vampiric Aura - [|cffffcc00Уровень 2|r],Vampiric Aura - [|cffffcc00Уровень 3|r],Vampiric Aura - [|cffffcc00Уровень 4|r]
+Ubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, равные 5% от урона, нанесённого ими вражескому юниту.",Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,"Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 15% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту.","Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 20% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту."
+Researchtip=Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]
+Researchubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, когда атакуют вражеских юнитов. |n|n|cffffcc00Уровень 1|r - 5% от нанесённого урона. |n|cffffcc00Уровень 2|r - 10% от нанесённого урона. |n|cffffcc00Уровень 3|r - 15% от нанесённого урона.|n|cffffcc00Уровень 4|r - 20% от нанесённого урона."
+Researchhotkey=V
+[A0OZ]
+Name="Modified Trap "
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip="The Carrion Beetle digs into the ground and becomes invisible."
+Unubertip="The Carrion Beetle pops out of the ground and becomes visible again."
+Hotkey=B
+Unhotkey=B
+[A0R6]
+Name="Barrier"
+Tip="Ba|cffffcc00r|rrier - |cffffcc00Уровень 1|r","Ba|cffffcc00r|rrier - |cffffcc00Уровень 2|r","Ba|cffffcc00r|rrier - |cffffcc00Уровень 3|r","Ba|cffffcc00r|rrier - |cffffcc00Уровень 4|r"
+Ubertip="Shields a target with Raijin's discharged mana, resisting up to 150 spell damage. |nLasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20","Shields a target with Raijin's discharged mana, resisting up to 300 spell damage. |nLasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20","Shields a target with Raijin's discharged mana, resisting up to 450 spell damage. |nLasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20","Shields a target with Raijin's discharged mana, resisting up to 600 spell damage. |nLasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20"
+Hotkey=R
+Researchtip="Изучить Ba|cffffcc00r|rrier - |cffffcc00Уровень %d|r"
+Researchubertip="Shields a target with Raijin's discharged mana, resisting spell damage while under the effect. Lasts 20 seconds. |n|n|cffffcc00Уровень 1|r - Предотвращает 150 magical damage |n|cffffcc00Уровень 2|r - Предотвращает 300 magical damage  |n|cffffcc00Уровень 3|r - Предотвращает 450 magical damage  |n|cffffcc00Уровень 4|r - Предотвращает 600 magical damage   |n|n|cff99ccffПерезарядка: |r 20 |n|cff99ccffManacost: |r 75 "
+Researchhotkey="R"
+[A0S2]
+Name=Avatar
+Tip=,R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]
+Researchubertip="Создаёт мощный священный щит, который блокирует все заклинания, оказывающие влияние на указанного юнита. |n|n|cffffcc00Уровень 1|r - Длится 5 секунд. |n|cffffcc00Уровень 2|r - Длится 10 секунд. |n|cffffcc00Уровень 3|r - Длится 15 секунд.|n|cffffcc00Уровень 4|r - Длится 20 секунд. |n|n|cff99ccffПерезарядка: |r 20 секунд  |n|cff99ccffТребует маны: |r 60/70/80/90"
+[A0UL]
+Name=Arctic Blast
+Tip=Frost No|cffffcc00v|ra - [|cffffcc00Уровень 1|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 2|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 3|r],Frost No|cffffcc00v|ra - [|cffffcc00Уровень 4|r]
+Ubertip="Поражает вражеских юнитов волной мороза, которая наносит 50 урона по цели и 75 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд","Поражает вражеских юнитов волной мороза, которая наносит 100 урона по цели и 100 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд","Поражает вражеских юнитов волной мороза, которая наносит 125 урона по цели и 125 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд","Поражает вражеских юнитов волной мороза, которая наносит 175 урона по цели и 125 урона по всем юнитам в радиусе. Обмораживающий урон замедляет скорость передвижения и атаки на 4 секунды. |n|n|cff99ccffПерезарядка: |r 11 секунд"
+Hotkey=V
+Researchtip=Изучить Frost No|cffffcc00v|ra - [|cffffcc00Уровень %d|r]
+Researchubertip="Поражает вражеских юнитов волной мороза, которая наносит им урон и замедляет их скорость передвижения и атаки на 4 секунды. |n|n|cffffcc00Уровень 1|r - 50 урона по цели и 75 урона по всем юнитам в радиусе. |n|cffffcc00Уровень 2|r - 100 урона по цели и 100 урона по всем юнитам в радиусе. |n|cffffcc00Уровень 3|r - 125 урона по цели и 125 урона по всем юнитам в радиусе.|n|cffffcc00Уровень 4|r - 175 урона по цели и 125 урона по всем юнитам в радиусе. |n|n|cff99ccffПерезарядка: |r 11 секунд  |n|cff99ccffТребует маны: |r 100/130/155/185"
+Researchhotkey=V
+[A0WV]
+Name=Insatiable Hunger - Lifesteal Level 2
+Tip=Vampiric Aura - [|cffffcc00Уровень 1|r],Vampiric Aura - [|cffffcc00Уровень 2|r],Vampiric Aura - [|cffffcc00Уровень 3|r],Vampiric Aura - [|cffffcc00Уровень 4|r]
+Ubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, равные 5% от урона, нанесённого ими вражескому юниту.",Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,"Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 15% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту.","Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 20% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту."
+Researchtip=Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]
+Researchubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, когда атакуют вражеских юнитов. |n|n|cffffcc00Уровень 1|r - 5% от нанесённого урона. |n|cffffcc00Уровень 2|r - 10% от нанесённого урона. |n|cffffcc00Уровень 3|r - 15% от нанесённого урона.|n|cffffcc00Уровень 4|r - 20% от нанесённого урона."
+Researchhotkey=V
+[A0WW]
+Name=Insatiable Hunger - Lifesteal Level 1
+Tip=Vampiric Aura - [|cffffcc00Уровень 1|r],Vampiric Aura - [|cffffcc00Уровень 2|r],Vampiric Aura - [|cffffcc00Уровень 3|r],Vampiric Aura - [|cffffcc00Уровень 4|r]
+Ubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, равные 5% от урона, нанесённого ими вражескому юниту.",Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,"Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 15% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту.","Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 20% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту."
+Researchtip=Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]
+Researchubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, когда атакуют вражеских юнитов. |n|n|cffffcc00Уровень 1|r - 5% от нанесённого урона. |n|cffffcc00Уровень 2|r - 10% от нанесённого урона. |n|cffffcc00Уровень 3|r - 15% от нанесённого урона.|n|cffffcc00Уровень 4|r - 20% от нанесённого урона."
+Researchhotkey=V
+[A0WX]
+Name=Insatiable Hunger - Lifesteal Level 3
+Tip=Vampiric Aura - [|cffffcc00Уровень 1|r],Vampiric Aura - [|cffffcc00Уровень 2|r],Vampiric Aura - [|cffffcc00Уровень 3|r],Vampiric Aura - [|cffffcc00Уровень 4|r]
+Ubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, равные 5% от урона, нанесённого ими вражескому юниту.",Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,"Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 15% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту.","Дpужecтвeнныe юниты ближнeгo бoя, нaxoдящиecя на расстоянии 900, пoлучaют eдиницы жизни, paвныe 20% oт уpoнa, нaнeceннoгo ими вpaжecкoму юниту."
+Researchtip=Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]
+Researchubertip="Дружественные юниты ближнего боя, стоящие рядом, получают единицы жизни, когда атакуют вражеских юнитов. |n|n|cffffcc00Уровень 1|r - 5% от нанесённого урона. |n|cffffcc00Уровень 2|r - 10% от нанесённого урона. |n|cffffcc00Уровень 3|r - 15% от нанесённого урона.|n|cffffcc00Уровень 4|r - 20% от нанесённого урона."
+Researchhotkey=V
+[A10C]
+Name="Spirit Lance Slow"
+Tip=""
+Ubertip=""
+Hotkey=C
+[A118]
+Name=Avatar
+Tip=,R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]
+Researchubertip="Создаёт мощный священный щит, который блокирует все заклинания, оказывающие влияние на указанного юнита. |n|n|cffffcc00Уровень 1|r - Длится 5 секунд. |n|cffffcc00Уровень 2|r - Длится 10 секунд. |n|cffffcc00Уровень 3|r - Длится 15 секунд.|n|cffffcc00Уровень 4|r - Длится 20 секунд. |n|n|cff99ccffПерезарядка: |r 20 секунд  |n|cff99ccffТребует маны: |r 60/70/80/90"
+[A119]
+Name=Avatar
+Tip=,R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]
+Researchubertip="Создаёт мощный священный щит, который блокирует все заклинания, оказывающие влияние на указанного юнита. |n|n|cffffcc00Уровень 1|r - Длится 5 секунд. |n|cffffcc00Уровень 2|r - Длится 10 секунд. |n|cffffcc00Уровень 3|r - Длится 15 секунд.|n|cffffcc00Уровень 4|r - Длится 20 секунд. |n|n|cff99ccffПерезарядка: |r 20 секунд  |n|cff99ccffТребует маны: |r 60/70/80/90"
+[A11A]
+Name=Avatar
+Tip=,R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]
+Researchubertip="Создаёт мощный священный щит, который блокирует все заклинания, оказывающие влияние на указанного юнита. |n|n|cffffcc00Уровень 1|r - Длится 5 секунд. |n|cffffcc00Уровень 2|r - Длится 10 секунд. |n|cffffcc00Уровень 3|r - Длится 15 секунд.|n|cffffcc00Уровень 4|r - Длится 20 секунд. |n|n|cff99ccffПерезарядка: |r 20 секунд  |n|cff99ccffТребует маны: |r 60/70/80/90"
+[A11B]
+Name=Avatar
+Tip=,R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]
+Researchubertip="Создаёт мощный священный щит, который блокирует все заклинания, оказывающие влияние на указанного юнита. |n|n|cffffcc00Уровень 1|r - Длится 5 секунд. |n|cffffcc00Уровень 2|r - Длится 10 секунд. |n|cffffcc00Уровень 3|r - Длится 15 секунд.|n|cffffcc00Уровень 4|r - Длится 20 секунд. |n|n|cff99ccffПерезарядка: |r 20 секунд  |n|cff99ccffТребует маны: |r 60/70/80/90"
+[A11C]
+Name=Avatar
+Tip=,R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r],R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]
+Researchubertip="Создаёт мощный священный щит, который блокирует все заклинания, оказывающие влияние на указанного юнита. |n|n|cffffcc00Уровень 1|r - Длится 5 секунд. |n|cffffcc00Уровень 2|r - Длится 10 секунд. |n|cffffcc00Уровень 3|r - Длится 15 секунд.|n|cffffcc00Уровень 4|r - Длится 20 секунд. |n|n|cff99ccffПерезарядка: |r 20 секунд  |n|cff99ccffТребует маны: |r 60/70/80/90"
+[A18C]
+Name=Borrowed Time
+Tip=|cffffcc00B|rorrowed Time - [|cffffcc00Уровень 1|r],|cffffcc00B|rorrowed Time - [|cffffcc00Уровень 2|r],|cffffcc00B|rorrowed Time - [|cffffcc00Уровень 3|r],Изменение Ловкости - [|cffffcc00Уровень 4|r] [|cffffcc00D|r]
+Ubertip="On activation, removes most negative buffs and you will gain hp instead of losing hp for any damage you take in the next 3 seconds. If not in Перезарядка, automatically casts whenever your hitpoints drop below 400 hp. |n|n|cff99ccffПерезарядка: |r 60","On activation, removes most negative buffs and you will gain hp instead of losing hp for any damage you take in the next 4 seconds. If not in Перезарядка, automatically casts whenever your hitpoints drop below 400 hp. |n|n|cff99ccffПерезарядка: |r 60","Пpи aктивaции cнимaeт c вac бoльшинcтвo нeгaтивныx зaклинaний и любoй пoлучeнный уpoн будeт вoccтaнaвливaть вaм здopoвьe в тeчeниe 5 ceкунд. Ecли cпocoбнocть гoтoвa к пpимeнeнию, oнa aвтoмaтичecки aктивиpуeтcя кoгдa вaшe здopoвьe упaдeт нижe 400. |n|n|cff99ccffПepeзapядкa: |r 60 ceкунд",When activated turns 8 Strength into Agility for 20 mana per second.
+Untip="|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 2 ловкости и теряет 2 силы каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 4 ловкости и теряет 4 силы каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 6 ловкости и теряет 6 силы каждую секунду.","|cffc3dbffВключается правым щелчком.|r|nПока включено, Morphling непрерывно набирает 8 ловкости и теряет 8 силы каждую секунду."
+Unubertip="|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r","|cffc3dbffВыключается правым щелчком. Перекачка продолжается до тех пор, пока не будет отключена!|r"
+Hotkey=B
+Unhotkey=
+Order=replenishmana
+Orderon=replenishmanaon
+Orderoff=replenishmanaoff
+Researchhotkey=B
+Researchtip=Изучить |cffffcc00B|rorrowed Time - [|cffffcc00Уровень %d|r]
+Researchubertip="When activated, most negative buffs will be removed and any damage you take will heal you instead of damage you. If the ability is not in Перезарядка, it will passively activate when your hitpoints drop below 400 hp. |n|n|cffffcc00Уровень 1|r - Lasts 3 seconds.  |n|cffffcc00Уровень 2|r - Lasts 4 seconds.  |n|cffffcc00Уровень 3|r - Lasts 5 seconds.  |n|n|cff99ccffПерезарядка: |r 60"
+[A18E]
+Name="Unholy Fervor (bonus-6)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18F]
+Name="Unholy Fervor (bonus-7)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18G]
+Name="Unholy Fervor (bonus-8)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18H]
+Name="Unholy Fervor (bonus-9)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18I]
+Name="Unholy Fervor (bonus-10)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18J]
+Name="Unholy Fervor (bonus-11)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18K]
+Name="Unholy Fervor (bonus-12)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18L]
+Name="Unholy Fervor (bonus-13)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18M]
+Name="Unholy Fervor (bonus-14)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18N]
+Name="Unholy Fervor (bonus-15)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18O]
+Name="Unholy Fervor (bonus-16)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18Q]
+Name="Unholy Fervor (bonus-18)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18R]
+Name="Unholy Fervor (bonus-5)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A18S]
+Name="Unholy Fervor (bonus-20)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A197]
+Name="Unholy Fervor (bonus-17)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A198]
+Name="Unholy Fervor (bonus-3)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A199]
+Name="Unholy Fervor (bonus-1)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A19A]
+Name="Unholy Fervor (bonus-2)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A19B]
+Name="Unholy Fervor (bonus-4)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A19C]
+Name="Unholy Fervor (bonus-19)"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A19Q]
+Name=Craggy Exterior
+Tip=Craggy Exterior - [|cffffcc00Уровень 1|r],Craggy Exterior - [|cffffcc00Уровень 2|r],Craggy Exterior - [|cffffcc00Уровень 3|r],Craggy Exterior - [|cffffcc00Уровень 4|r]
+Ubertip="Даёт 6% шанс на то, что герои ближнего боя, атакующие Tiny, будут оглушены на 1.2 секунды и получат 25 урона. +2 брони.","Даёт 12% шанс на то, что герои ближнего боя, атакующие Tiny, будут оглушены на 1.2 секунды и получат 35 урона. +3 брони.","Даёт 18% шанс на то, что герои ближнего боя, атакующие Tiny, будут оглушены на 1.2 секунды и получат 45 урона. +4 брони.","Даёт 24% шанс на то, что герои ближнего боя, атакующие Tiny, будут оглушены на 1.2 секунды и получат 55 урона. +5 брони."
+Researchtip=Изучить |cffffcc00C|rraggy Exterior - [|cffffcc00Уровень %d|r]
+Researchubertip="Teлo Tiny, cдeлaннoe из цeльнoгo гpaнитa, пpичиняeт cильную бoль тeм, ктo ocмeлитcя удapить eгo. Koгдa вpaг aтaкуeт Tiny в ближнeм бoю, ecть шaнc чтo oн будeт oглушeн нa 1.2 ceкунды. |n|n|cffffcc00Уpoвeнь 1|r - +2 бpoни, 6% шaнc, 25 уpoнa.|n|cffffcc00Уpoвeнь 2|r - +3 бpoни, 12% шaнc, 35 уpoнa.|n|cffffcc00Уpoвeнь 3|r - +4 бpoни, 18% шaнc, 45 уpoнa.|n|cffffcc00Уpoвeнь 4|r - +5 брони, 24% шaнc, 55 уpoнa."
+Researchhotkey=C
+[A1AP]
+Name="Eye of the Storm - 2"
+Tip="","Unholy Fervor - [|cffffcc00Уровень 2|r]","Unholy Fervor - [|cffffcc00Уровень 3|r]","Unholy Fervor - [|cffffcc00Уровень 4|r]"
+Ubertip="","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 15%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 20%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Increases Razor's movement speed by 10% and life regeneration rate by 2 hp/sec."
+Researchtip=""
+Researchubertip=""
+Researchhotkey="N"
+[A1AQ]
+Name="Eye of the Storm - 1"
+Tip="","Unholy Fervor - [|cffffcc00Уровень 2|r]","Unholy Fervor - [|cffffcc00Уровень 3|r]","Unholy Fervor - [|cffffcc00Уровень 4|r]"
+Ubertip="","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 15%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 20%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Increases Razor's movement speed by 10% and life regeneration rate by 2 hp/sec."
+Researchtip=""
+Researchubertip=""
+Researchhotkey="N"
+[A1E6]
+Name=Unstable Current
+Tip=Unstable Current - [|cffffcc00Уpoвeнь 1|r],Unstable Current - [|cffffcc00Уpoвeнь 2|r],Unstable Current - [|cffffcc00Уpoвeнь 3|r],Unstable Current - [|cffffcc00Уpoвeнь 4|r]
+Ubertip=Пoвышaeт нa 3% cкopocть пepeмeщeния гepoя и в oтвeт нa любую нaцeлeнную мaгичecкую aтaку нaнocит дoпoлнитeльнo 40 уpoнa и зaмeдляeт вpaгa на 0.3 секунды.,Пoвышaeт нa 6% cкopocть пepeмeщeния гepoя и в oтвeт нa любую нaцeлeнную мaгичecкую aтaку нaнocит дoпoлнитeльнo 60 уpoнa и зaмeдляeт вpaгa на 0.6 секунды.,Пoвышaeт нa 9% cкopocть пepeмeщeния гepoя и в oтвeт нa любую нaцeлeнную мaгичecкую aтaку нaнocит дoпoлнитeльнo 80 уpoнa и зaмeдляeт вpaгa на 0.9 секунды.,Пoвышaeт нa 12% cкopocть пepeмeщeния гepoя и в oтвeт нa любую нaцeлeнную мaгичecкую aтaку нaнocит дoпoлнитeльнo 100 уpoнa и зaмeдляeт вpaгa на 1.2 секунды.
+Researchtip=Изучить U|cffffcc00n|rstable Current - [|cffffcc00Уpoвeнь %d|r]
+Researchubertip="Teлo paзopa пocтoяннo нaпoлняeтcя тeмнoй энepгии. Taкoe нeпpиpoднoe cocтoяниe пoзвoляeт eму двигaтьcя co cвepxecтecтвeннoй cкopocтью, a тaкжe oтвeчaть любoму вpaгу нa нaцeлeнныe мaгичecкиe aтaки, нaнocя eму уpoн, зaмeдляя eгo нa нeкoтopoe вpeмя и cнимaя c нeгo вce пoлoжитeльныe эффeкты. |n|n|cffffcc00Уpoвeнь 1|r - 3% cкopocти пepeдвижeния, 40 уpoнa. |n|cffffcc00Уpoвeнь 2|r - 6% cкopocти пepeдвижeния, 60 уpoнa. |n|cffffcc00Уpoвeнь 3|r - 9% cкopocти пepeдвижeния, 80 уpoнa. |n|cffffcc00Уpoвeнь 4|r - 12% cкopocти пepeдвижeния, 100 уpoнa."
+Researchhotkey=N
+[A1EV]
+Name="Pipe of Insight barrier"
+Tip="","Ba|cffffcc00r|rrier - |cffffcc00Уровень 2|r","Ba|cffffcc00r|rrier - |cffffcc00Уровень 3|r","Ba|cffffcc00r|rrier - |cffffcc00Уровень 4|r"
+Ubertip="","Shields a target with Raijin's discharged mana, resisting up to 300 spell damage. |nLasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20","Shields a target with Raijin's discharged mana, resisting up to 450 spell damage. |nLasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20","Shields a target with Raijin's discharged mana, resisting up to 600 spell damage. |nLasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20"
+Hotkey=R
+Researchhotkey="R"
+[A1GC]
+Name=Burrow
+Tip=Bu|cffffcc00r|rrow
+Untip=Unbu|cffffcc00r|rrow
+Ubertip="Scarab зapывaeтcя в зeмлю, cтaнoвяcь нeвидимым и нeпoдвижным."
+Unubertip="Scarab выкaпывaeтcя из зeмли, cтaнoвяcь видимым и пoдвижным."
+Hotkey=R
+Unhotkey=R
+[A1HL]
+Name="Frost Barrier"
+Tip="|cffffcc00F|rrost Barrier - |cffffcc00Уровень 1|r","|cffffcc00F|rrost Barrier - |cffffcc00Уровень 2|r","|cffffcc00F|rrost Barrier - |cffffcc00Уровень 3|r","|cffffcc00F|rrost Barrier - |cffffcc00Уровень 3|r"
+Ubertip="text. |nLasts 15 seconds. |n|n|cff99ccffПерезарядка: |r 40","text. |nLasts 15 seconds. |n|n|cff99ccffПерезарядка: |r 40","text. |nLasts 15 seconds. |n|n|cff99ccffПерезарядка: |r 40","text. |nLasts 15 seconds. |n|n|cff99ccffПерезарядка: |r 25"
+Hotkey=F
+Researchtip="Изучить |cffffcc00F|rrost Barrier - |cffffcc00Уровень %d|r"
+Researchubertip="text. |n|n|cffffcc00Уровень 1|r - 1. |n|cffffcc00Уровень 2|r - 2. |n|cffffcc00Уровень 3|r - 3.  |n|n|cff99ccffПерезарядка: |r 40 |n|cff99ccffManacost: |r 200"
+Researchhotkey="F"
+[A1HP]
+Name="Nightcrawler"
+Tip="Nightcrawler - [|cffffcc00Уровень 1|r]","Nightcrawler - [|cffffcc00Уровень 2|r]","Nightcrawler - [|cffffcc00Уровень 3|r]","Nightcrawler - [|cffffcc00You are visible|r]"
+Ubertip="text.","text.","text.","text."
+Researchtip=""
+Researchubertip=""
+Researchhotkey="H"
+[A1MF]
+Name="Boomerang"
+Tip="Boome|cffffcc00r|rang - [|cffffcc00Уровень 1|r]","Boome|cffffcc00r|rang - [|cffffcc00Уровень 2|r]","Boome|cffffcc00r|rang - [|cffffcc00Уровень 3|r]","Boome|cffffcc00r|rang - [|cffffcc00Уровень 4|r]"
+Ubertip="text. |n|n|cff99ccffПерезарядка: |r 30","text. |n|n|cff99ccffПерезарядка: |r 30","text. |n|n|cff99ccffПерезарядка: |r 30","text. |n|n|cff99ccffПерезарядка: |r 30"
+Hotkey=R
+Researchtip="Изучить Boome|cffffcc00r|rang - [|cffffcc00Уровень %d|r]"
+Researchubertip="text. |n|n|cffffcc00Уровень 1|r - 1. |n|cffffcc00Уровень 2|r - 2. |n|cffffcc00Уровень 3|r - 3. |n|cffffcc00Уровень 4|r - 4. |n|n|cff99ccffПерезарядка: |r 30"
+Researchhotkey="R"
+[A0FF]
+Name="Scorched Earth MS + Regen - Level 4"
+Tip="","Unholy Aura - [|cffffcc00Уровень 2|r]","Unholy Aura - [|cffffcc00Уровень 3|r]"
+Ubertip="","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1OH]
+Name="Scorched Earth MS + Regen - Level 2"
+Tip="","Unholy Aura - [|cffffcc00Уровень 2|r]","Unholy Aura - [|cffffcc00Уровень 3|r]"
+Ubertip="","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1OJ]
+Name="Scorched Earth MS + Regen - Level 1"
+Tip="","Unholy Aura - [|cffffcc00Уровень 2|r]","Unholy Aura - [|cffffcc00Уровень 3|r]"
+Ubertip="","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1OK]
+Name="Scorched Earth MS + Regen - Level 3"
+Tip="","Unholy Aura - [|cffffcc00Уровень 2|r]","Unholy Aura - [|cffffcc00Уровень 3|r]"
+Ubertip="","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip="Изучить |cffffcc00U|rnholy Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Уровень 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Уровень 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Уровень 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1RD]
+Name=Skewer
+Tip=Skewer [|cffffcc00D|r] - [|cffffcc00Уровень 1|r],Skewer [|cffffcc00D|r] - [|cffffcc00Уровень 2|r],Skewer [|cffffcc00D|r] - [|cffffcc00Уровень 3|r],Skewer [|cffffcc00D|r] - [|cffffcc00Уровень 4|r]
+Ubertip="Magnataur уcтpeмляeтcя впepeд нa paccтoяниe дo 800, xвaтaя cвoими мoгучими pукaми вмecтe c coбoй 1 пoпaвшeгocя нa eгo пути вpaгa, нaнocя 70 уpoнa. Пo дocтижeнию кoнeчнoй тoчки oн зaмeдляeтcя нa 40% в тeчeниe 2 ceкунд.|n|n|cff99ccffПepeзapядкa:|r 35 ceкунд|n|cff99ccffPaдиуc дeйcтвия:|r 120","Magnataur устремляется вперед на расстояние до 800, хватая своими могучими руками вместе с собой до 2 попавшихся на его пути врагов, нанося им 140 урона. По достижении конечной точки схваченные враги замедляются на 40% в течение 2 секунд.|n|n|cff99ccffПерезарядка:|r 35 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 120","Magnataur устремляется вперед на расстояние до 800, хватая своими могучими руками вместе с собой до 3 попавшихся на его пути врагов, нанося им 210 урона. По достижении конечной точки схваченные враги замедляются на 40% в течение 2 секунд.|n|n|cff99ccffПерезарядка:|r 35 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 120","Magnataur устремляется вперед на расстояние до 800, хватая своими могучими руками вместе с собой до 4 попавшихся на его пути врагов, нанося им 280 урона. По достижении конечной точки схваченные враги замедляются на 40% в течение 2 секунд.|n|n|cff99ccffПерезарядка:|r 35 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 120"
+Hotkey=D
+Researchtip=Изучить Skewer [|cffffcc00D|r] - [|cffffcc00Уровень %d|r]
+Researchubertip="Magnataur уcтpeмляeтcя впepeд нa paccтoяниe дo 800, xвaтaя cвoими мoгучими pукaми вмecтe c coбoй вpaгoв, нaнocя им уpoн. Пo дocтижeнии кoнeчнoй тoчки cxвaчeнныe вpaги зaмeдляютcя нa 40% в тeчeниe 2 ceкунд.|n|n|cffffcc00Уpoвeнь 1|r - 70 уpoнa, 1 вpaг.|n|cffffcc00Уpoвeнь 2|r - 140 уpoнa, 2 вpaгa.|n|cffffcc00Уpoвeнь 3|r - 210 уpoнa, 3 вpaгa.|n|cffffcc00Уpoвeнь 4|r - 280 уpoнa, 4 вpaгa.|n|n|cff99ccffПepeзapядкa:|r 35 ceкунд|n|cff99ccffTpeбуeт мaны:|r 80"
+Researchhotkey=D
+[A1SG]
+Name=Snowball Aura
+Tip=
+Ubertip=
+Researchtip=Изучить Empowering |cffffcc00H|raste - [|cffffcc00Уровень %d|r]
+Researchubertip="Causes the Spiritbreaker to swing his weapon faster with higher movement speed, allowing him to deal extra damage. His presence increases the movement speed of nearby allied units.  |n|n|cffffcc00Уровень 1|r - Increases movement speed by 4% and damage by 4% of his movement speed. |n|cffffcc00Уровень 2|r - Increases movement speed by 6% and damage by 8% of his movement speed. |n|cffffcc00Уровень 3|r - Increases movement speed by 8% and damage by 12% of his movement speed. |n|cffffcc00Уровень 4|r - Increases movement speed by 10% and damage by 16% of his movement speed."
+Researchhotkey="H"
+[A1SV]
+Name="Psionic Wave"
+Tip="Psionic |cffffcc00W|rave - [|cffffcc00Уровень 1|r]","Psionic |cffffcc00W|rave - [|cffffcc00Уровень 2|r]","Psionic |cffffcc00W|rave - [|cffffcc00Уровень 3|r]","Psionic |cffffcc00W|rave - [|cffffcc00Уровень 4|r]"
+Ubertip="text. |n|n|cff99ccffПерезарядка: |r 17","text. |n|n|cff99ccffПерезарядка: |r 17","text. |n|n|cff99ccffПерезарядка: |r 17","text. |n|n|cff99ccffПерезарядка: |r 17"
+Hotkey=W
+Researchtip="Изучить Psionic |cffffcc00W|rave - [|cffffcc00Уровень %d|r]"
+Researchubertip="text. |n|n|cffffcc00Уровень 1|r - 1. |n|cffffcc00Уровень 2|r - 2. |n|cffffcc00Уровень 3|r - 3.|n|cffffcc00Уровень 4|r - 4.|n|n|cff99ccffПерезарядка: |r 17"
+Researchhotkey="W"
+[A1TY]
+Name="Global Regen"
+Tip="Global Regen - [|cffffcc00Уровень 1|r]","Global Regen - [|cffffcc00Уровень 2|r]","Global Regen - [|cffffcc00Уровень 3|r]","Global Regen - [|cffffcc00Уровень 4|r]"
+Ubertip="text.","text.","text.","text."
+Researchtip="Изучить |cffffcc00G|rlobal Regen - [|cffffcc00Уровень %d|r]"
+Researchubertip="text. |n|n|cffffcc00Уровень 1|r - 1. |n|cffffcc00Уровень 2|r - 2. |n|cffffcc00Уровень 3|r - 3. |n|cffffcc00Уровень 4|r - 4."
+Researchhotkey="G"
+[A21E]
+Name=Sprout
+Tip=Sprou|cffffcc00t|r - [|cffffcc00Уровень 1|r],Sprou|cffffcc00t|r - [|cffffcc00Уровень 2|r],Sprou|cffffcc00t|r - [|cffffcc00Уровень 3|r],Sprou|cffffcc00t|r - [|cffffcc00Уровень 4|r]
+Ubertip=Заключает указанного юнита в непроходимое кольцо деревьев. В качестве цели также может быть использована точка на земле. Длится 3 секунды.|n|n|cff99ccffПерезарядка:|r 11 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 600,Заключает указанного юнита в непроходимое кольцо деревьев. В качестве цели также может быть использована точка на земле. Длится 3.75 секунды.|n|n|cff99ccffПерезарядка:|r 10 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 600,Заключает указанного юнита в непроходимое кольцо деревьев. В качестве цели также может быть использована точка на земле. Длится 4.5 секунды.|n|n|cff99ccffПерезарядка:|r 9 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 600,Заключает указанного юнита в непроходимое кольцо деревьев. В качестве цели также может быть использована точка на земле. Длится 5.25 секунды.|n|n|cff99ccffПерезарядка:|r 8 секунд|n|cff99ccffPaдиуc дeйcтвия:|r 150|n|cff99ccffДaльнocть пpимeнeния:|r 600
+Hotkey=T
+Researchtip=Изучить Sprou|cffffcc00t|r - [|cffffcc00Уровень %d|r]
+Researchubertip=Заключает указанного юнита в непроходимое кольцо деревьев. В качестве цели также может быть использована точка на земле.|n|n|cffffcc00Уровень 1|r - на 3 секунды.|n|cffffcc00Уровень 2|r - на 3.75 секунды.|n|cffffcc00Уровень 3|r - на 4.5 секунды.|n|cffffcc00Уровень 4|r - на 5.25 секунды.|n|n|cff99ccffПерезарядка:|r 11/10/9/8 секунд|n|cff99ccffТребует маны:|r 100/120/140/160
+Researchhotkey=T
+[A21O]
+Name="Blind"
+Tip=""
+Ubertip=""
+Untip=""
+Unubertip=""
+Hotkey=D
+Unhotkey=D
+Researchhotkey=D
+Researchtip=Изучить Blin|cffffcc00d|r - [|cffffcc00Уровень %d|r]
+Researchubertip="Невыносимый cвeт ослепляет укaзaнный юнит, зacтaвляя eгo инoгдa пpoмaxивaтьcя в течение 15 ceкунд.|n|n|cffffcc00Уpoвeнь 1|r - Шaнc нa пpoмax 20%.|n|cffffcc00Уpoвeнь 2|r - Шaнc нa пpoмax 28%.  |n|cffffcc00Уpoвeнь 3|r - Шaнc нa пpoмax 36%.|n|cffffcc00Уpoвeнь 4|r - Шaнc нa пpoмax 44%. |n|n|cff99ccffПepeзapядкa: |r 15/12/9/6 ceкунд  |n|cff99ccffTpeбуeт мaны: |r 20"
+[A23Y]
+Name=Rip Tide
+Tip=Rip Ti|cffffcc00d|re - [|cffffcc00Уровень 1|r],Rip Ti|cffffcc00d|re - [|cffffcc00Уровень 2|r],Rip Ti|cffffcc00d|re - [|cffffcc00Уровень 3|r],Rip Ti|cffffcc00d|re - [|cffffcc00Уровень 4|r]
+Ubertip="Пpизывaя cилу мopeй, coздaeт зaчapoвaнную вoлну, нaнocящую 130 уpoнa и cнижaющую вpaжecкую бpoню нa 2 eдиницы в тeчeниe 8 ceкунд.|n|n|cff99ccffПepeзapядкa:|r 10 ceкунд","Пpизывaя cилу мopeй, coздaeт зaчapoвaнную вoлну, нaнocящую 160 уpoнa и cнижaющую вpaжecкую бpoню нa 3 eдиницы в тeчeниe 8 ceкунд.|n|n|cff99ccffПepeзapядкa:|r 10 ceкунд","Пpизывaя cилу мopeй, coздaeт зaчapoвaнную вoлну, нaнocящую 190 уpoнa и cнижaющую вpaжecкую бpoню нa 4 eдиницы в тeчeниe 8 ceкунд.|n|n|cff99ccffПepeзapядкa:|r 10 ceкунд","Пpизывaя cилу мopeй, coздaeт зaчapoвaнную вoлну, нaнocящую 220 уpoнa и cнижaющую вpaжecкую бpoню нa 5 eдиниц в тeчeниe 8 ceкунд.|n|n|cff99ccffПepeзapядкa:|r 10 ceкунд"
+Hotkey=D
+Researchtip=Изучить Rip Ti|cffffcc00d|re - [|cffffcc00Уровень %d|r]
+Researchubertip="Пpизывaя cилу мopeй, coздaeт зaчapoвaнную вoлну, нaнocящую уpoн и cнижaющую вpaжecкую бpoню нa 8 ceкунд.|n|n|cffffcc00Уpoвeнь 1|r - 130 уpoнa, -2 бpoни.|n|cffffcc00Уpoвeнь 2|r - 160 уpoнa, -3 бpoни.|n|cffffcc00Уpoвeнь 3|r - 190 уpoнa, -4 бpoни.|n|cffffcc00Уpoвeнь 4|r - 220 уpoнa, -5 бpoни.|n|n|cff99ccffПepeзapядкa:|r 10 ceкунд|n|cff99ccffTpeбуeт мaны: |r 80/90/100/110 "
+Researchhotkey="D"
+[A2B8]
+Name="Wraith MS Bonus - 4"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A2B9]
+Name="Wraith MS Bonus - 2"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A2BA]
+Name="Wraith MS Bonus - 1"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A2BB]
+Name="Wraith MS Bonus - 3"
+Tip="","",""
+Ubertip="","",""
+Researchtip="Изучить U|cffffcc00n|rholy Fervor - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of Razor. |n|n|cffffcc00Уровень 1|r - 3% movement, 0.5 hp/sec regeneration bonus. |n|cffffcc00Уровень 2|r - 5% movement, 1.0 hp/sec regeneration bonus.|n|cffffcc00Уровень 3|r - 8% movement, 1.5 hp/sec regeneration bonus.|n|cffffcc00Уровень 4|r - 10% movement, 2.0 hp/sec regeneration bonus."
+Researchhotkey="N"
+[A2E2]
+Name="Whirling Death"
+Tip="Whirling |cffffcc00D|reath - [|cffffcc00Уровень 1|r]","Whirling |cffffcc00D|reath - [|cffffcc00Уровень 2|r]","Whirling |cffffcc00D|reath - [|cffffcc00Уровень 3|r]","Whirling |cffffcc00D|reath - [|cffffcc00Уровень 4|r]"
+Ubertip="text","text","text","text"
+Hotkey=D
+Researchtip="Изучить Whirling |cffffcc00D|reath - [|cffffcc00Уровень %d|r]"
+Researchubertip="text"
+Researchhotkey="D"
+[A2F0]
+Name="Wind Barrier"
+Tip="Wind Ba|cffffcc00r|rrier - |cffffcc00Уровень 1|r","Wind Ba|cffffcc00r|rrier - |cffffcc00Уровень 2|r","Wind Ba|cffffcc00r|rrier - |cffffcc00Уровень 3|r","Wind Ba|cffffcc00r|rrier - |cffffcc00Уровень 4|r"
+Ubertip="text","text","text","text"
+Hotkey=R
+Researchtip="Изучить Wind Ba|cffffcc00r|rrier - |cffffcc00Уровень %d|r"
+Researchubertip="text."
+Researchhotkey="R"
+[A2G8]
+Name="Moment of Courage - Lifesteal 1"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2G9]
+Name="Moment of Courage - Lifesteal 3"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2GA]
+Name="Moment of Courage - Lifesteal 2"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2GB]
+Name="Moment of Courage - Lifesteal 4"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2H5]
+Name="Fire Barrier"
+Tip=""
+Ubertip=""
+Hotkey=E
+Researchhotkey="E"
+[A2JS]
+Name="Fire Barrier - Lifesteal 3"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2JT]
+Name="Fire Barrier - Lifesteal 2"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2JU]
+Name="Fire Barrier - Lifesteal 1"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2JV]
+Name="Fire Barrier - Lifesteal 4"
+Tip="Vampiric Aura - [|cffffcc00Уровень 1|r]","Vampiric Aura - [|cffffcc00Уровень 2|r]","Vampiric Aura - [|cffffcc00Уровень 3|r]","Vampiric Aura - [|cffffcc00Уровень 4|r]"
+Ubertip="Nearby friendly melee units gain 5% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.","Nearby friendly melee units gain 20% of their attack damage when they hit enemy units."
+Researchtip="Изучить |cffffcc00V|rampiric Aura - [|cffffcc00Уровень %d|r]"
+Researchubertip="Nearby friendly melee units gain hit points when they hit enemy units. |n|n|cffffcc00Уровень 1|r - Gains 5% of attack damage. |n|cffffcc00Уровень 2|r - Gains 10% of attack damage. |n|cffffcc00Уровень 3|r - Gains 15% of attack damage.|n|cffffcc00Уровень 4|r - Gains 20% of attack damage."
+Researchhotkey=V
+[A2L3]
+Name="Summon Shade"
+Tip="Summon Shade [|cffffcc00w|r] - [|cffffcc00Уровень 1|r]","Summon Shade [|cffffcc00w|r] - [|cffffcc00Уровень 2|r]","Summon Shade [|cffffcc00w|r] - [|cffffcc00Уровень 3|r]","Summon Shade [|cffffcc00w|r] - [|cffffcc00Уровень 4|r]"
+Ubertip="Text. |n|n|cff99ccffПерезарядка: |r 30","Text. |n|n|cff99ccffПерезарядка: |r 25","Text. |n|n|cff99ccffПерезарядка: |r 20","Text. |n|n|cff99ccffПерезарядка: |r 15"
+Hotkey=W
+Researchtip="Изучить Urna S|cffffcc00w|rarm - [|cffffcc00Уровень %d|r]"
+Researchubertip="Text.|n|n|cffffcc00Уровень 1|r - 1 maximum. |n|cffffcc00Уровень 2|r - 2 maximum.|n|cffffcc00Уровень 3|r - 3 maximum.|n|cffffcc00Уровень 4|r - 4 maximum. |n|n|cff99ccffПерезарядка: |r 30/25/20/15 |n|cff99ccffManacost: |r 40"
+Researchhotkey="W"
+Untip="|cffc3dbffRight-click to activate auto-casting."
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting."
+[A2LH]
+Name="Avatar"
+Tip="","R|cffffcc00e|rpel - [|cffffcc00Уровень 2|r]","R|cffffcc00e|rpel - [|cffffcc00Уровень 3|r]","R|cffffcc00e|rpel - [|cffffcc00Уровень 4|r]"
+Ubertip="","Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.","Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds.","Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds."
+Hotkey=E
+Researchhotkey="E"
+Researchtip="Изучить R|cffffcc00e|rpel - [|cffffcc00Уровень %d|r]"
+Researchubertip="Creates a powerful divine ward that blocks all magic from affecting a target unit. |n|n|cffffcc00Уровень 1|r - Lasts 5 seconds. |n|cffffcc00Уровень 2|r - Lasts 10 seconds. |n|cffffcc00Уровень 3|r - Lasts 15 seconds.|n|cffffcc00Уровень 4|r - Lasts 20 seconds. |n|n|cff99ccffПерезарядка: |r 20 seconds."
+[A2QG]
+Name="Empty Bottle Slow"
+Tip="Empowering Haste - [|cffffcc00Уровень 1|r]","Empowering Haste - [|cffffcc00Уровень 2|r]","Empowering Haste - [|cffffcc00Уровень 3|r]","Empowering Haste - [|cffffcc00Уровень 4|r]"
+Ubertip="The Spiritbreaker Дает 6% movement speed aura.","The Spiritbreaker Дает 10% movement speed aura.","The Spiritbreaker Дает 14% movement speed aura.","The Spiritbreaker Дает 18% movement speed aura."
+Researchtip="Изучить Empowering |cffffcc00H|raste - [|cffffcc00Уровень %d|r]"
+Researchubertip="Causes the Spiritbreaker's presence to increase the movement speed of nearby allied units.  |n|n|cffffcc00Уровень 1|r - Increases movement speed by 6%. |n|cffffcc00Уровень 2|r - Increases movement speed by 10%. |n|cffffcc00Уровень 3|r - Increases movement speed by 14%. |n|cffffcc00Уровень 4|r - Increases movement speed by 18%."
+Researchhotkey="H"
+[A2QH]
+Name="Stone Rock"
+Tip="Ston|cffffcc00e|r Rock - [|cffffcc00Уровень 1|r]","Ston|cffffcc00e|r Rock - [|cffffcc00Уровень 2|r]","Ston|cffffcc00e|r Rock - [|cffffcc00Уровень 3|r]","Ston|cffffcc00e|r Rock - [|cffffcc00Уровень 4|r]"
+Ubertip="Text.   |n|n|cff99ccffПерезарядка: |r 0","Text.   |n|n|cff99ccffПерезарядка: |r 0","Text.   |n|n|cff99ccffПерезарядка: |r 0","Text.   |n|n|cff99ccffПерезарядка: |r 0"
+Hotkey=E
+Researchtip="Изучить Ston|cffffcc00e|r Rock - [|cffffcc00Уровень %d|r]"
+Researchubertip="Text.   |n|n|cff99ccffПерезарядка: |r 2 |n|cff99ccffManacost: |r 0"
+Researchhotkey="E"
+[A2QM]
+Name="Boulder Smash"
+Tip="Boul|cffffcc00d|rer Smash - [|cffffcc00Уровень 1|r]","Boul|cffffcc00d|rer Smash - [|cffffcc00Уровень 2|r]","Boul|cffffcc00d|rer Smash - [|cffffcc00Уровень 3|r]","Boul|cffffcc00d|rer Smash - [|cffffcc00Уровень 4|r]"
+Ubertip="Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 100 damage.|n|n|cff99ccffПерезарядка: |r 22","Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 150 damage.|n|n|cff99ccffПерезарядка: |r 20","Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 200 damage.|n|n|cff99ccffПерезарядка: |r 18","Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 250 damage.|n|n|cff99ccffПерезарядка: |r 16"
+Hotkey=D
+Researchhotkey="D"
+Researchtip="Изучить Boul|cffffcc00d|rer Smash - [|cffffcc00Уровень %d|r]"
+Researchubertip="Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. |n|n|cffffcc00Уровень 1|r - 100 Damage. |n|cffffcc00Уровень 2|r - 150 Damage. |n|cffffcc00Уровень 3|r - 200 Damage. |n|cffffcc00Уровень 4|r - 250 Damage.  |n|n|cff99ccffПерезарядка: |r 22/20/18/16 |n|cff99ccffManacost: |r 100 "
+[A2WQ]
+Name="Lightning Bolt"
+Tip="Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 1|r]","Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 2|r]","Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 3|r]","Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень 4|r]"
+Ubertip="Summons a bolt of lightning from the heavens to strike an enemy for 100 damage. The bolt deals magic damage, causes a mini-stun and grants a True Sight effect around the bolt for 4.5 seconds. Can be cast on the ground, affecting the closest enemy hero in 250 range. |n|n|cff99ccffПерезарядка: |r 6","Summons a bolt of lightning from the heavens to strike an enemy for 175 damage. The bolt deals magic damage, causes a mini-stun and grants a True Sight effect around the bolt for 4.5 seconds. Can be cast on the ground, affecting the closest enemy hero in 250 range. |n|n|cff99ccffПерезарядка: |r 6","Summons a bolt of lightning from the heavens to strike an enemy for 275 damage. The bolt deals magic damage, causes a mini-stun and grants a True Sight effect around the bolt for 4.5 seconds. Can be cast on the ground, affecting the closest enemy hero in 250 range. |n|n|cff99ccffПерезарядка: |r 6","Summons a bolt of lightning from the heavens to strike an enemy for 350 damage. The bolt deals magic damage, causes a mini-stun and grants a True Sight effect around the bolt for 4.5 seconds. Can be cast on the ground, affecting the closest enemy hero in 250 range. |n|n|cff99ccffПерезарядка: |r 6"
+Hotkey=G
+Researchtip="Изучить Li|cffffcc00g|rhtning Bolt - [|cffffcc00Уровень %d|r]"
+Researchubertip="Summons a bolt of lightning from the heavens to strike a target enemy. The bolt deals magic damage, causes a mini-stun and grants a True Sight effect around the bolt for 4.5 seconds. Can be cast on the ground, affecting the closest enemy hero in 250 range. |n|n|cffffcc00Уровень 1|r - Deals 100 damage. |n|cffffcc00Уровень 2|r - Deals 175 damage. |n|cffffcc00Уровень 3|r - Deals 275 damage.|n|cffffcc00Уровень 4|r - Deals 350 damage. |n|n|cff99ccffПерезарядка: |r 6"
+Researchhotkey="G"
+[B004]
+Bufftip=Ultimate
+Buffubertip=This unit is under the effect of Ultimate.
+EditorName=Ultimate
+[B006]
+Bufftip=Permanent Invisibility
+Buffubertip=Этот юнит невидим пока не атакует.
+EditorName=Permanent Invisibility
+[B01I]
+Bufftip=Troll's Regeneration
+Buffubertip=Tiny's hitpoints recover rapidly, like a Troll's.
+EditorName=Troll's Regeneration
+[B026]
+Bufftip=Feast
+Buffubertip=N'aix питается плотью своих жертв.
+EditorName=Feast
+[B02J]
+Bufftip=Song of the Siren
+Buffubertip="Этот юнит находится под действием волшебства Naga Siren; он будет спать, пока она не закончит свою песню."
+EditorName=Song of the Siren
+[B02K]
+Bufftip=Necrogenesis
+Buffubertip=Corpses spawn every few seconds.
+EditorName=Necrogenesis
+[B02M]
+Bufftip=Crippling Fear
+Buffubertip=Этот юнит в страхе от Night Stalker.
+[B00C]
+Bufftip=Whirling Axes
+Buffubertip=Этот юнит находится под эффектом Blind; он может промахнуться при атаке.
+[B01C]
+Bufftip=Скрыта в Паутине
+Buffubertip=Этот юнит скрыт в своей паутине; он невидим и передвигается быстрее.
+EditorName=Скрыта в Паутине
+[B01M]
+Bufftip=Decrepify
+Buffubertip=Этот аппарат устарел; его скорость передвижения и урон были уменьшены.
+[B01V]
+Bufftip=Caught in a Web
+Buffubertip=Скорость передвижения этого юнита замедляется, пока он движется через паутину.
+EditorName=Caught in a Web
+[B01Z]
+Bufftip=Charge of Darkness
+Buffubertip=Charge of Darkness
+[B023]
+Bufftip=Headdress of Rejuvenation
+Buffubertip=У этого юнита повышена регенерация здоровья.
+[B02F]
+Bufftip=Nightmare
+Buffubertip="Этому юниту снятся ужасные кошмары. Тот, кто попытается его атаковать, сам получит эффект Nightmare."
+[B036]
+Bufftip=Portal
+Buffubertip=Данное устройство транспортируется и повреждено.
+[B037]
+Bufftip=Soul Blast
+Buffubertip=Душа этого отряда уничтожена.
+[B038]
+Bufftip=Ante Up
+Buffubertip=Ставка Маверика лежит на плечах этого героя.
+[B01L]
+Bufftip=Atrophy Aura
+Buffubertip=Этот юнит находится под действием Атрофии Ауры. Потенциальный урон от атаки уменьшен.
+EditorName=Atrophy Aura
+[B03P]
+Bufftip=Counter Helix
+Buffubertip=Этот юнит имеет способность Counter Helix; он может со страшной силой ответить при атаке.
+EditorName=Counter Helix
+[B04D]
+Bufftip=Dragon Blood
+Buffubertip=У этого юнита увеличена броня и регенерация здоровья.
+EditorName=Dragon Blood
+[B04E]
+Bufftip=Grow |n|cff4F4F4FУровень:|r 1
+Buffubertip=У этого юнита повышен начальный урон за счет снижения скорости атаки.
+EditorName=Grow! - 1
+[B04T]
+Bufftip=
+Buffubertip=
+EditorName=Sand Storm Flame
+[B04U]
+Bufftip=
+Buffubertip=
+EditorName=Sand Storm Dust
+[B05E]
+Bufftip=Shroud of Flames
+Buffubertip=This unit has spell resistance.
+[B060]
+Bufftip=Animate Dead
+Buffubertip=Вызванные юниты получают урон от развеивающих заклинаний
+[B061]
+Bufftip=Unholy Aura 
+Buffubertip=Этот юнит находится под эффектом Unholy Aura; его регенерация здоровья увеличена.
+[B06A]
+Bufftip=Mekansm
+Buffubertip=У этого юнита повышена регенерация здоровья.
+[B06I]
+Bufftip=Reality
+Buffubertip=.
+[B075]
+Bufftip=Vladmir's Offering
+Buffubertip=Этот юнит находится под эффектом Vladmir's Offering; нанесённый им урон врагам будет восстанавливать его здоровье.
+[B07O]
+Bufftip=Vladmir's Offering
+Buffubertip=Этот юнит находится под эффектом Vladmir's Offering; он наносит дополнительный урон.
+[B080]
+Bufftip=|cff00ff00Inner Vitality|r
+Buffubertip="Чем больше здоровья потеряно у этого юнита, и чем больше развит его главный атрибут, тем быстрее он регенерирует."
+[B083]
+Bufftip=Life Break
+Buffubertip=Этот юнит замедлен на несколько секунд.
+EditorName=Life Break
+[B084]
+Bufftip=Heartstopper Aura
+Buffubertip=Юнит нaxoдитcя пoд эффeктoм Heartstopper Aura. Oн тepяeт пpoцeнты здopoвья кaждую ceкунду.
+[B086]
+Bufftip=Barrier
+Buffubertip=На этом юните магический барьер. Он поглотит ограниченное количество магического урона.
+[B087]
+Bufftip=Barrier
+Buffubertip=На этом юните магический барьер. Он поглотит ограниченное количество магического урона.
+[B08C]
+Bufftip=Fear
+Buffubertip=This unit cannot attack or cast spells.
+[B09C]
+Bufftip=Grow |n|cff4F4F4FУровень:|r 2
+Buffubertip=У этого юнита повышен начальный урон за счет снижения скорости атаки.
+EditorName=Grow! - 2
+[B09E]
+Bufftip=Grow |n|cff4F4F4FУровень:|r 3
+Buffubertip=У этого юнита повышен начальный урон за счет снижения скорости атаки.
+EditorName=Grow! - 3
+[B0BT]
+Bufftip=Khadgar's Pipe of Insight
+Buffubertip=На этом юните магический барьер. Он поглотит ограниченное количество магического урона.
+[B0BU]
+Bufftip=Khadgar's Pipe of Insight
+Buffubertip=На этом юните магический барьер. Он поглотит ограниченное количество магического урона.
+[B0C6]
+Bufftip=Energy Barrier
+Buffubertip=This unit has a magical barrier. It will block a limited amount of spell damage. It will not lose any mana while it has this buff.
+[B0C7]
+Bufftip=Energy Barrier
+Buffubertip=This unit has a magical barrier. It will block a limited amount of spell damage. It will not lose any mana while it has this buff.
+[B0CT]
+Bufftip=Capture Point Ability 3
+Buffubertip=Этот юнит имеет повышенную регенерацию здоровья и маны.
+[B0CU]
+Bufftip=Capture Point Ability 3
+Buffubertip=Этот юнит имеет повышенную регенерацию здоровья.
+[B0CV]
+Bufftip=Capture Point Ability 3
+Buffubertip=Этот юнит имеет повышенную регенерацию маны.
+[B0CW]
+Bufftip=Capture Point Ability 3
+Buffubertip=Этот юнит имеет повышенную регенерацию маны.
+[B0DK]
+Bufftip=Global Regen
+Buffubertip=На этот юнит влияет глобальная регенерация; у него увеличена регенерация.
+[B0FP]
+Bufftip=Flame Guard
+Buffubertip=Этот отряд имеет магический барьер. Он заблокирует ограниченное количество урона от заклинаний.
+[B0FQ]
+Bufftip=Flame Guard
+Buffubertip=Этот отряд имеет магический барьер. Он заблокирует ограниченное количество урона от заклинаний.
+[B0GX]
+Bufftip=Guardian Greaves
+Buffubertip=The unit is recovering health.
+[A2W0]
+Name=tear the earth apart
+Tip=
+[B0HG]
+Bufftip=Frost Armor
+Buffubertip=The unit's attack speed and movement speed are reduced by Frost Armor.
+[B0HH]
+Bufftip=Frost Armor
+Buffubertip=The unit's attack speed and movement speed are reduced by Frost Armor.
+[A32W]
+Name=Requiem of Souls Effect
+

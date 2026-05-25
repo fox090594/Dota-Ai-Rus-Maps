@@ -1,0 +1,42 @@
+﻿[FrameDef]
+BONUS_ATTACK_SPEED=- 1 ед. повышает скорость боя на 1% |n
+BONUS_DAMAGE=- 1 ед. повышает силу атаки на 1 ед.
+BONUS_HPREGEN=- 1 ед. повышает скорость восстановления здоровья |n
+BONUS_HITPOINTS=- 1 ед. увеличивает запас здоровья на %d ед.
+BONUS_MANA=- 1 ед. увеличивает запас маны на %d ед.
+BONUS_MANAREGEN=- 1 ед. повышает скорость восстановления маны |n
+BONUS_DEFENSE=- %d ед. повышают защиту на %d ед.
+BONUS_DEFENSE_FIXED=- %d ед. повышают защиту на 1 ед.
+KEY_QUESTS=Map Info (|Cfffed312F9|R)
+QUESTS=Map Info
+UPKEEP_NONE=v6.89 |c00dd8dffAI 1.6|r RU r3 |cff0000FF
+RESOURCE_UBERTIP_UPKEEP=Об ошибках в переводе сообщайте по адресу |cffafc0deserega090594@gmail.com|r
+RESOURCE_UBERTIP_GOLD=Золото дается в награду за убийство вражеских юнитов и героев. Также увеличивается со временем.
+RESOURCE_UBERTIP_LUMBER= 
+DAMAGETIP_CHAOS=Chaos атака наносит 40% повреждений по Fortified Armor.
+RESOURCES_COLUMN0=Gold
+COLON_GOLD_INCOME_RATE=Последняя версия: wc3.3dn.ru|c22222222
+RESOURCE_UBERTIP_UPKEEP_INFO=. |n|nРусскоязычный форум: wc3.3dn.ru
+COLON_FOOD_MAX= 
+COLON_FOOD_PROVIDED= 
+COLON_FOOD_USED= 
+COLON_FOOD=Seconds: 
+RESOURCES_COLUMN1= 
+COLON_LUMBER_INCOME_RATE= 
+LUMBER= 
+COLON_LUMBER=Minutes: 
+RESOURCE_UBERTIP_SUPPLY=  
+IDLE_PEON=Idle Courier (|Cfffed312F8|R)
+QUESTSMAIN=   
+QUESTSOPTIONAL=     
+[Errors]
+Needemptytree=Это дерево уже СМОТРЕД.
+Nolumber=Для этой вещи рецепт не требуется, достаточно просто собрать компоненты.
+Alreadydoomed=Невозможно поразить этот юнит, пока он находится под действием Doom.
+[CustomSkin]
+DefaultButton=ReplaceableTextures\CommandButtons\BTNBansheeMaster.blp
+NoLumberSound=InterfaceError
+SupplyIcon=ReplaceableTextures\WorldEditUI\LocationBrush00.blp
+LumberIcon=UI\Widgets\BattleNet\bnet-tournament-clock
+IdlePeon=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
+CommandButtonCooldown=Interface\CoolDown UI.mdx

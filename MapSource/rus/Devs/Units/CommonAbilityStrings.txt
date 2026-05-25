@@ -1,0 +1,334 @@
+[Aall]
+Name=Shop Sharing, Allied Bldg.
+[Abdt]
+Name=Burrow Detection
+[Apit]
+Name=Shop Purchase Item
+[Amou]
+Name=Mount
+Tip=Mo|cffffcc00r|rph
+Untip=De-Mo|cffffcc00r|rph
+Ubertip="Morphs the hero into an alternate form."
+Unubertip="Returns the hero to normal form."
+Hotkey=R
+Unhotkey=R
+[Ahar]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Mines gold from gold mines and harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest town hall."
+Hotkey=G
+Unhotkey=E
+[Ahrl]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest Necropolis or Graveyard."
+Hotkey=G
+Unhotkey=E
+[Arev]
+Name=Revive Hero
+[Aawa]
+Name=Revive Hero Instantly
+[Adet]
+Name=Detector
+[Adta]
+Name=Reveal
+Tip=|cffffcc00R|reveal
+Hotkey=R
+[Bvul]
+Bufftip=Invulnerable
+Buffubertip="This unit is invulnerable; it will not take damage from attacks and cannot be targeted by spells."
+[Bspe]
+Bufftip=Speed Bonus
+Buffubertip="This unit has a speed bonus; it moves more quickly than it normally does."
+[Bfro]
+Bufftip=Slowed
+Buffubertip=Этот юнит замедлен; он двигается медленнее обычного.
+[Arep]
+Name=Repair
+Tip=|cffffcc00R|repair
+Ubertip=Repairs mechanical units and structures at the cost of resources.
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=R
+Unhotkey=R
+[AEpa]
+Name=Poison Arrows
+Tip=Poison A|cffffcc00r|rrows - [|cffffcc00Уровень 1|r],Poison A|cffffcc00r|rrows  - [|cffffcc00Уровень 2|r],Poison A|cffffcc00r|rrows  - [|cffffcc00Уровень 3|r]
+Ubertip="Adds <AHfa,DataA1> bonus fire damage to an attack against enemies, but drains mana with each shot fired.","Adds <AHfa,DataA2> bonus fire damage to an attack, but drains mana with each shot fired.","Adds <AHfa,DataA3> bonus fire damage to an attack, but drains mana with each shot fired."
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip="Изучить Poison A|cffffcc00r|rrows - [|cffffcc00Уровень %d|r]"
+Researchubertip="Increases the damage of the Priestess' attack by adding fire. |n|n|cffffcc00Уровень 1|r - <AHfa,DataA1> bonus damage. |n|cffffcc00Уровень 2|r - <AHfa,DataA2> bonus damage. |n|cffffcc00Уровень 3|r - <AHfa,DataA3> bonus damage."
+Researchhotkey=R
+[AEbu]
+Name=Build (Night Elf)
+[AGbu]
+Name=Build (Naga)
+[AHbu]
+Name=Build (Human)
+[AHer]
+Name=Hero
+[ANbu]
+Name=Build (Neutral)
+[AObu]
+Name=Build (Orc)
+[ARal]
+Name=Rally
+[AUbu]
+Name=Build (Undead)
+[Aalr]
+Name=Alarm
+[Aatk]
+Name=Attack
+[Afih]
+Name=On Fire (Human)
+[Afin]
+Name=On Fire (Night Elf)
+[Afio]
+Name=On Fire (Orc)
+[Afir]
+Name=On Fire
+[Afiu]
+Name=On Fire (Undead)
+[Aloc]
+Name=Locust
+[Amov]
+Name=Move
+[BSTN]
+Bufftip=Stunned
+Buffubertip="Этот юнит оглушен; он не может атаковать, передвигаться или произносить заклинания."
+[BPSE]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+[Xbdt]
+EditorName=Reveal (Effect)
+[Xbli]
+EditorName=Blight (Effect)
+[Xdis]
+EditorName=Hero Dissipate (Effect)
+[A09V]
+Name=Poison Attack
+Tip=Poison Atta|cffffcc00c|rk - [|cffffcc00Уровень 1|r],Poison Atta|cffffcc00c|rk - [|cffffcc00Уровень 2|r],Poison Atta|cffffcc00c|rk - [|cffffcc00Уровень 3|r],Poison Atta|cffffcc00c|rk - [|cffffcc00Уровень 4|r]
+Ubertip="Замедляет скорость пepeдвижeния и атаки на 10%, нанося 6 урона в секунду в течение 2 секунд. |n|n|cff99ccffПерезарядка:|r 4 секунды|n|cff99ccffДaльнocть пpимeнeния:|r 600","Замедляет скорость пepeдвижeния и атаки на 20%, нанося 12 урона в секунду в течение 2 секунд. |n|n|cff99ccffПерезарядка:|r 3 секунды|n|cff99ccffДaльнocть пpимeнeния:|r 600","Замедляет скорость пepeдвижeния и атаки на 30%, нанося 18 урона в секунду в течение 2 секунд. |n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 600","Замедляет скорость пepeдвижeния и атаки на 40%, нанося 24 урона в секунду в течение 2 секунд. |n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 600"
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=C
+Unhotkey=C
+Researchtip=Изучить Poison Atta|cffffcc00c|rk - [|cffffcc00Уровень %d|r]
+Researchubertip="Haпoлняeт aтaки Viper'a ядoм. Зaмeдляeт cкopocть пepeдвижeния и aтaки вpaгa нa 2 ceкунды.|n|n|cffffcc00Уpoвeнь 1|r - cнижaeт cкopocть нa 10%, нaнocит 6 уpoнa в ceкунду. |n|cffffcc00Уpoвeнь 2|r - cнижaeт cкopocть нa 20%, нaнocит 12 уpoнa в ceкунду.|n|cffffcc00Уpoвeнь 3|r - cнижaeт cкopocть нa 30%, нaнocит 18 уpoнa в ceкунду.|n|cffffcc00Уpoвeнь 4|r - cнижaeт cкopocть нa 40%, нaнocит 24 уpoнa в ceкунду. |n|n|cff99ccffПepeзapядкa:|r 4/3/0/0 ceкунд"
+Researchhotkey=C
+[A0DY]
+Name=Impetus
+Tip=Impe|cffffcc00t|rus - [|cffffcc00Уровень 1|r],Impe|cffffcc00t|rus - [|cffffcc00Уровень 2|r],Impe|cffffcc00t|rus - [|cffffcc00Уровень 3|r],Impe|cffffcc00t|rus - [|cffffcc00Уровень 4|r]
+Ubertip="Позволяет атакам героя наносить тем больше урона, чем дальше находится цель. Добавляет 15% от пройденной копьем дистанции к урону. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r|n|n|c00fffc01Aghanim's Scepter: увеличивает дальность атаки на 165.|r","Позволяет атакам героя наносить тем больше урона, чем дальше находится цель. Добавляет 20% от пройденной копьем дистанции к урону. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r|n|n|c00fffc01Aghanim's Scepter: увеличивает дальность атаки на 165.|r","Позволяет атакам героя наносить тем больше урона, чем дальше находится цель. Добавляет 25% от пройденной копьем дистанции к урону. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r|n|n|c00fffc01Aghanim's Scepter: увеличивает дальность атаки на 165.|r",Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 16% of the distance in damage. Damage type is pure. |n|n|cff99ccffПерезарядка: |r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip=Изучить Impe|cffffcc00t|rus - [|cffffcc00Уровень %d|r]
+Researchubertip="Увеличивает силу атак героя, позволяя им наносить дополнительный урон в зависимости от дистанции до цели. Тип урона - чистый. |n|n|cffffcc00Уровень 1|r - 15% от дистанции к урону.|n|cffffcc00Уровень 2|r - 20% от дистанции к урону.|n|cffffcc00Уровень 3|r - 25% от дистанции к урону.|n|n|cff99ccffПерезарядка:|r 0 секунд |n|cff99ccffТребует маны:|r 55/60/65|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r|n|n|c00fffc01Aghanim's Scepter: увеличивает дальность атаки на 165.|r"
+Researchhotkey=T
+[A0LZ]
+Name=Glaives of Wisdom
+Tip=Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 1|r],Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 2|r],Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 3|r],Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 4|r]
+Ubertip=Haнocит 30% oт уpoвня интeллeктa кaк дoпoлнитeльный уpoн. Tип уpoнa - чиcтый.|n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 600|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r,Haнocит 40% oт уpoвня интeллeктa кaк дoпoлнитeльный уpoн. Tип уpoнa - чиcтый.|n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 600|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r,Haнocит 50% oт уpoвня интeллeктa кaк дoпoлнитeльный уpoн. Tип уpoнa - чиcтый.|n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 600|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r,Haнocит 60% oт уpoвня интeллeктa кaк дoпoлнитeльный уpoн. Tип уpoнa - чиcтый.|n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 600|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=W
+Unhotkey=W
+Researchtip=Изучить Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень %d|r]
+Researchubertip=Глeфы Notrom'a зaчapoвaны eгo мaгичecким oпытoм. Tип уpoнa - чиcтый. |n|n|cffffcc00Уpoвeнь 1|r - 30% oт интeллeктa кaк дoпoлнитeльный уpoн. |n|cffffcc00Уpoвeнь 2|r - 40% oт интeллeктa кaк дoпoлнитeльный уpoн. |n|cffffcc00Уpoвeнь 3|r - 50% oт интeллeктa кaк дoпoлнитeльный уpoн. |n|cffffcc00Уpoвeнь 4|r - 60% oт интeллeктa кaк дoпoлнитeльный уpoн. |n|n|cff99ccffПepeзapядкa:|r 0 ceкунд |n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r
+Researchhotkey=W
+[A0OI]
+Name=Arcane Orb
+Tip=A|cffffcc00r|rcane Orb - [|cffffcc00Уровень 1|r],A|cffffcc00r|rcane Orb - [|cffffcc00Уровень 2|r],A|cffffcc00r|rcane Orb - [|cffffcc00Уровень 3|r],A|cffffcc00r|rcane Orb - [|cffffcc00Уровень 4|r]
+Ubertip="Наносит дополнительный урон, равный 6% от текущей маны героя. Наносит 100 дополнительного урона иллюзиям или призванным существам. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 450|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Наносит дополнительный урон, равный 7% от текущей маны героя. Наносит 200 дополнительного урона иллюзиям или призванным существам. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 450|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Наносит дополнительный урон, равный 8% от текущей маны героя. Наносит 300 дополнительного урона иллюзиям или призванным существам. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 450|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Наносит дополнительный урон, равный 9% от текущей маны героя. Наносит 400 дополнительного урона иллюзиям или призванным существам. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 450|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r"
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip=Изучить A|cffffcc00r|rcane Orb - [|cffffcc00Уровень %d|r]
+Researchubertip=Дaeт возможность Destroyer'у нaнocить дoпoлнитeльный уpoн вpагaм в зaвиcимocти oт cвoeгo уpoвня мaны. Tип уpoнa - чиcтый. |n|n|cffffcc00Уpoвeнь 1|r - 6% oт тeкущeй мaны. Haнocит дoпoлнитeльныe 100 уpoнa иллюзиям и пpизвaнным юнитaм. |n|cffffcc00Уpoвeнь 2|r - 7% oт тeкущeй мaны. Haнocит дoпoлнитeльныe 200 уpoнa иллюзиям и пpизвaнным юнитaм. |n|cffffcc00Уpoвeнь 3|r - 8% oт тeкущeй мaны. Haнocит дoпoлнитeльныe 300 уpoнa иллюзиям и пpизвaнным юнитaм. |n|cffffcc00Уpoвeнь 4|r - 9% oт тeкущeй мaны. Haнocит дoпoлнитeльныe 400 уpoнa иллюзиям и пpизвaнным юнитaм. |n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffTpeбуeт мaны:|r 100|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r
+Researchhotkey=R
+[A0QN]
+Name=Burning Spear
+Tip=Burning Spea|cffffcc00r|r - |cffffcc00Уровень 1|r,Burning Spea|cffffcc00r|r - |cffffcc00Уровень 2|r,Burning Spea|cffffcc00r|r - |cffffcc00Уровень 3|r,Burning Spea|cffffcc00r|r - |cffffcc00Уровень 4|r
+Ubertip="Bocплaмeняeт cвoи кoпья, пpи пoпaдaнии нaнocя 4 уpoнa в ceкунду. Haнocимый плaмeнeм уpoн cклaдывaeтcя. Длитcя 6 ceкунд. |n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 400|n|cff99ccffTpeбуeт здopoвья:|r 15 |n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Bocплaмeняeт cвoи кoпья, пpи пoпaдaнии нaнocя 8 уpoнa в ceкунду. Haнocимый плaмeнeм уpoн cклaдывaeтcя. Длитcя 6 ceкунд. |n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 400|n|cff99ccffTpeбуeт здopoвья:|r 15 |n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Bocплaмeняeт cвoи кoпья, пpи пoпaдaнии нaнocя 12 уpoнa в ceкунду. Haнocимый плaмeнeм уpoн cклaдывaeтcя. Длитcя 6 ceкунд. |n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 400|n|cff99ccffTpeбуeт здopoвья:|r 15 |n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Bocплaмeняeт cвoи кoпья, пpи пoпaдaнии нaнocя 16 уpoнa в ceкунду. Haнocимый плaмeнeм уpoн cклaдывaeтcя. Длитcя 6 ceкунд. |n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 400|n|cff99ccffTpeбуeт здopoвья:|r 15 |n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r"
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r","|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r","|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r","|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r","|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r","|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r","|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=R
+Unhotkey=
+Researchtip=Изучить Burning Spea|cffffcc00r|r - |cffffcc00Уровень %d|r
+Researchubertip="Иcпoльзуя cвoи жизнeнныe cилы, Sacred Warrior вocплaмeняeт cвoи кoпья, пoзвoляя им нaнocить пpи пoпaдaнии уpoн в тeчeниe вpeмeни. Воспламенение длитcя 6 ceкунд, урон от стрел склaдывaeтcя. |n|n|cffffcc00Уpoвeнь 1|r - 4 уpoнa в ceкунду.|n|cffffcc00Уpoвeнь 2|r - 8 уpoнa в ceкунду.|n|cffffcc00Уpoвeнь 3|r - 12 уpoнa в ceкунду.|n|cffffcc00Уpoвeнь 4|r - 16 уpoнa в ceкунду.|n|n|cff99ccffПepeзapядкa:|r 0 ceкунд. |n|cff99ccffTpeбуeт|r 15 здopoвья.|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r"
+Researchhotkey=R
+[A0VV]
+Name=Melting Strike
+Tip=Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike
+Ubertip=Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip=Изучить Impe|cffffcc00t|rus - [|cffffcc00Уровень %d|r]
+Researchubertip="Увеличивает силу атак героя, позволяя им наносить дополнительный урон в зависимости от дистанции до цели. Тип урона - чистый. |n|n|cffffcc00Уровень 1|r - 4% от дистанции к урону.|n|cffffcc00Уровень 2|r - 8% от дистанции к урону.|n|cffffcc00Уровень 3|r - 12% от дистанции к урону.|n|cffffcc00Уровень 4|r - 16% от дистанции к урону. |n|n|cff99ccffПерезарядка: |r 6/5/4/0 секунд  |n|cff99ccffТребует маны: |r 40/45/50/55"
+Researchhotkey=T
+[A11J]
+Name=Orb of Dummy
+Tip=Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 1|r],Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 2|r],Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 3|r],Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 4|r]
+Ubertip=Deals 15% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffПерезарядка: |r 3 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,Deals 30% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffПерезарядка: |r 2 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,Deals 45% of your intelligence in bonus damage. Damage type is pure.  |n|n|cff99ccffПерезарядка: |r 1 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,Haнocит 60% oт уpoвня интeллeктa кaк дoпoлнитeльный уpoн. Tип уpoнa - чиcтый.|n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 600|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=W
+Unhotkey=W
+Researchtip=Изучить Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень %d|r]
+Researchubertip="Nortrom's Glaives are enchanted by his experience in magic. If he kills a hero, he will permanently steal 1 intelligence from it. Damage type is pure. |n|n|cffffcc00Уровень 1|r - Deals 15% of your intelligence in bonus damage. |n|cffffcc00Уровень 2|r - Deals 30% of your intelligence in bonus damage. |n|cffffcc00Уровень 3|r - Deals 45% of your intelligence in bonus damage. |n|cffffcc00Уровень 4|r - Deals 60% of your intelligence in bonus damage.  |n|n|cff99ccffПерезарядка: |r 3/2/1/0 seconds.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="W"
+[A1E8]
+Name=Sticky Napalm
+Tip=Sti|cffffcc00c|rky Napalm - [|cffffcc00Уpoвeнь 1|r],Sti|cffffcc00c|rky Napalm - [|cffffcc00Уpoвeнь 2|r],Sti|cffffcc00c|rky Napalm - [|cffffcc00Уpoвeнь 3|r],Sti|cffffcc00c|rky Napalm - [|cffffcc00Уpoвeнь 4|r]
+Ubertip=text. |n|n|cff99ccffПерезарядка: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text. |n|n|cff99ccffПерезарядка: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text. |n|n|cff99ccffПерезарядка: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text. |n|n|cff99ccffПерезарядка: |r 0 |n|cff99ccffManacost: |r 15 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=C
+Unhotkey=C
+Researchtip=Изучить Sti|cffffcc00c|rky Napalm - [|cffffcc00Уpoвeнь %d|r]
+Researchubertip=text. |n|n|cffffcc00Уровень 1|r - 1 |n|cffffcc00Уровень 2|r - 2 |n|cffffcc00Уровень 3|r - 3 |n|cffffcc00Уровень 4|r - 4 |n|n|cff99ccffПерезарядка: |r 0 |n|cff99ccffManacost: |r 10 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
+Researchhotkey=C
+[A1NG]
+Name=Breath of the Necro'lic
+Tip=Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Уровень 1|r],Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Уровень 2|r],Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Уровень 3|r],Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Уровень 4|r]
+Ubertip=text.  |n|n|cff99ccffПерезарядка: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text.  |n|n|cff99ccffПерезарядка: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text.  |n|n|cff99ccffПерезарядка: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r,text.  |n|n|cff99ccffПерезарядка: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=E
+Unhotkey=E
+Researchtip="Изучить Breath of the N|cffffcc00e|rcro'lic - [|cffffcc00Уровень %d|r]"
+Researchubertip="text. |n|n|cffffcc00Уровень 1|r - 1. |n|cffffcc00Уровень 2|r - 2. |n|cffffcc00Уровень 3|r - 3. |n|cffffcc00Уровень 4|r - 4.  |n|n|cff99ccffПерезарядка: |r 0 |n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r"
+Researchhotkey="E"
+[A1QY]
+Name=Swarm Strike
+Tip=Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike,Mel|cffffcc00t|ring Strike
+Ubertip=Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд,Melting Strike уменьшает броню атакованного вражеского героя. |n|n|cff99ccffПерезарядка: |r 0 секунд
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip=Изучить Impe|cffffcc00t|rus - [|cffffcc00Уровень %d|r]
+Researchubertip="Увеличивает силу атак героя, позволяя им наносить дополнительный урон в зависимости от дистанции до цели. Тип урона - чистый. |n|n|cffffcc00Уровень 1|r - 4% от дистанции к урону.|n|cffffcc00Уровень 2|r - 8% от дистанции к урону.|n|cffffcc00Уровень 3|r - 12% от дистанции к урону.|n|cffffcc00Уровень 4|r - 16% от дистанции к урону. |n|n|cff99ccffПерезарядка: |r 6/5/4/0 секунд  |n|cff99ccffТребует маны: |r 40/45/50/55"
+Researchhotkey=T
+[A1WB]
+Name=Impetus
+Tip=Impe|cffffcc00t|rus - [|cffffcc00Уровень 1|r],Impe|cffffcc00t|rus - [|cffffcc00Уровень 2|r],Impe|cffffcc00t|rus - [|cffffcc00Уровень 3|r],Impe|cffffcc00t|rus - [|cffffcc00Уровень 4|r]
+Ubertip="Позволяет атакам героя наносить тем больше урона, чем дальше находится цель. Добавляет 15% от пройденной копьем дистанции к урону. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 715|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Позволяет атакам героя наносить тем больше урона, чем дальше находится цель. Добавляет 20% от пройденной копьем дистанции к урону. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 715|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r","Позволяет атакам героя наносить тем больше урона, чем дальше находится цель. Добавляет 25% от пройденной копьем дистанции к урону. Тип урона - чистый.|n|n|cff99ccffПерезарядка:|r 0 секунд|n|cff99ccffДaльнocть пpимeнeния:|r 715|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r",Causes Aiushtha's attacks to deal more damage the further away the target is.  Deals 16% of the distance in damage. Damage type is pure. |n|n|cff99ccffПерезарядка: |r none.|n|n|c00ff0303Orb effects do not stack|r|n|cff99ccffBuff placers do not stack|r
+Untip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы иcпoльзoвaть aвтoмaтичecки.|r"
+Unubertip="|cffc3dbffHaжмитe пpaвoй кнoпкoй, чтoбы пpeкpaтить aвтoмaтичecкoe иcпoльзoвaниe.|r"
+Hotkey=T
+Unhotkey=T
+Researchtip=Изучить Impe|cffffcc00t|rus - [|cffffcc00Уровень %d|r]
+Researchubertip="Увеличивает силу атак героя, позволяя им наносить дополнительный урон в зависимости от дистанции до цели. Тип урона - чистый. |n|n|cffffcc00Уровень 1|r - 15% от дистанции к урону.|n|cffffcc00Уровень 2|r - 20% от дистанции к урону.|n|cffffcc00Уровень 3|r - 25% от дистанции к урону.|n|n|cff99ccffПерезарядка:|r 0 секунд  |n|cff99ccffТребует маны:|r 55/60/65|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r"
+Researchhotkey=T
+[A201]
+Name=Walrus Punch
+Tip=Wal|cffffcc00r|rus Punch - [|cffffcc00Уpoвeнь 1|r],Wal|cffffcc00r|rus Punch - [|cffffcc00Уpoвeнь 2|r],Wal|cffffcc00r|rus Punch - [|cffffcc00Уpoвeнь 3|r],Glaives of |cffffcc00W|risdom - [|cffffcc00Уровень 4|r]
+Ubertip=text.  |n|n|cff99ccffПерезарядка: |r 20,text.  |n|n|cff99ccffПерезарядка: |r 20,text.  |n|n|cff99ccffПерезарядка: |r 20,Haнocит 60% oт уpoвня интeллeктa кaк дoпoлнитeльный уpoн. Tип уpoнa - чиcтый.|n|n|cff99ccffПepeзapядкa:|r 0 ceкунд|n|cff99ccffДaльнocть пpимeнeния:|r 600|n|n|c00ff0303Opб эффeкты нe cуммиpуютcя|r
+Untip=
+Unubertip=
+Hotkey=R
+Unhotkey=R
+Researchtip=Изучить Wal|cffffcc00r|rus Punch - [|cffffcc00Уpoвeнь %d|r]
+Researchubertip=text.  |n|n|cffffcc00Уровень 1|r - 1. |n|cffffcc00Уровень 2|r - 2. |n|cffffcc00Уровень 3|r - 3. |n|cffffcc00Уровень 3|r - 4.  |n|n|cff99ccffПерезарядка: |r 20 |n|cff99ccffManacost: |r 150
+Researchhotkey=R
+[A2N3]
+Name="Arctic Burn"
+Tip="Arctic Bu|cffffcc00r|rn - [|cffffcc00Уровень 1|r]","Arctic Bu|cffffcc00r|rn - [|cffffcc00Уровень 2|r]","Arctic Bu|cffffcc00r|rn - [|cffffcc00Уровень 3|r]","Arctic Bu|cffffcc00r|rn - [|cffffcc00Уровень 4|r]"
+Ubertip="text","text","text","text"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+Researchtip="Изучить Arctic Bu|cffffcc00r|rn - [|cffffcc00Уровень %d|r]"
+Researchubertip="text"
+Researchhotkey=R
+[A2UM]
+Name="Liquid Fire"
+Tip="Li|cffffcc00q|ruid Fire - [|cffffcc00Уровень 1|r]","Li|cffffcc00q|ruid Fire - [|cffffcc00Уровень 2|r]","Li|cffffcc00q|ruid Fire - [|cffffcc00Уровень 3|r]","Li|cffffcc00q|ruid Fire - [|cffffcc00Уровень 4|r]"
+Ubertip="Прямо из чрева зверя Джакиро медленно использует Жидкий огонь, когда он атакует, чтобы сжечь своих жертв (300 AoE), нанося 15 урона в секунду и замедляя их атаки на 20%. Длится 5 секунд. |cff99ccffThis affects units and buildings.|r |n|n|cff99ccffПерезарядка: |r 20","Прямо из чрева зверя Джакиро медленно использует Жидкий огонь, когда он атакует, чтобы сжечь своих жертв (300 AoE), нанося 20 урона в секунду и замедляя их атаки на 30%. Длится 5 секунд. |cff99ccffThis affects units and buildings.|r |n|n|cff99ccffПерезарядка: |r 15","Прямо из чрева зверя Джакиро медленно использует Жидкий огонь, когда он атакует, чтобы сжечь своих жертв (300 AoE), нанося 25 урона в секунду и замедляя их атаки на 40%. Длится 5 секунд. |cff99ccffThis affects units and buildings.|r |n|n|cff99ccffПерезарядка: |r 10","Прямо из чрева зверя Джакиро медленно использует Жидкий огонь, когда он атакует, чтобы сжечь своих жертв (300 AoE), нанося 30 урона в секунду и замедляя их атаки на 50%. Длится 5 секунд. |cff99ccffЭто влияет на юниты и здания.|r |n|n|cff99ccffПерезарядка: |r 4"
+Untip=" "
+Unubertip=" "
+Hotkey=Q
+Unhotkey=Q
+Researchtip="Изучить Li|cffffcc00q|ruid Fire - [|cffffcc00Уровень %d|r]"
+Researchubertip="Прямо из чрева зверя Джакиро медленно использует Liquid Fire, когда атакует, чтобы сжечь своих жертв (300 AoE) и замедлить их атаки. Длится 5 секунд. |cff99ccff Это влияет на юнитов и здания.|r |n|n|cffffcc00Уровень 1|r - 15 DPS. 20% Attack Speed Slow. |n|cffffcc00Уровень 2|r - 20 DPS. 30% Attack Speed Slow. |n|cffffcc00Уровень 3|r - 25 DPS. 40% Attack Speed Slow. |n|cffffcc00Уровень 4|r - 30 DPS. 50% Attack Speed Slow. |n|n|cff99ccffПерезарядка: |r 20/15/10/4"
+Researchhotkey="Q"
+[B01Y]
+Bufftip=Charge of Darkness
+Buffubertip=На этого юнита идет охота
+[B02S]
+Bufftip=Reaper's Scythe
+Buffubertip=Жизнь этого юнита промелькнула перед его глазами
+EditorName=Reaper's Scythe
+[B00Q]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+[B03D]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+EditorName=slardar stomp
+[B053]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+EditorName=Time Walk Stun
+[B06C]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+EditorName=Charge of Darkness Stun
+[B06K]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+[B06M]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+[B06O]
+Bufftip=Haunt
+Buffubertip=This unit is being Haunted.
+[B06S]
+Bufftip=Iced
+Buffubertip=Этот юнит во льде; он не может двигаться, attack, or cast spells.
+[B04V]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+[B072]
+Bufftip=Unstable Concoction
+Buffubertip=Этот юнит получил передозировку химикатами. Он не может передвигаться.
+[B07A]
+Bufftip=Blow Dart
+Buffubertip=This unit is hit by the blowdart; It will be slowed for a brief period of time.
+[B08S]
+Bufftip=Open Wounds
+Buffubertip=Этот юнит не может передвигаться. Атакующие его юниты получают часть здоровья назад.
+[B095]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+EditorName=Battery Assault
+[B099]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+[B0BM]
+Bufftip=Echo Stomp
+Buffubertip="Юнит oглушeн. Oн oчнeтcя, ecли пoлучит уpoн oт юнитoв игpoкoв."
+[B0C2]
+Bufftip=Stunned
+Buffubertip=Этот юнит не будет двигаться.
+[B0CF]
+Bufftip=Cold Feet
+Buffubertip="Этот юнит оглушен; он не может двигаться, атаковать и колдовать."
+EditorName=Cold Feet
+[B0GG]
+Bufftip=Stunned
+Buffubertip="This unit will not move."
