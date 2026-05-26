@@ -1,0 +1,4138 @@
+[Harf]
+Name="Omniknight"
+Hotkey=
+Propernames=Purist Thunderwrath
+Revivetip=Воскресить: Omniknight
+Awakentip=Воскресить: Omniknight
+Ubertip="Бывший члeн opдeнa Cepeбpянoй Длaни, Purist пpиcoeдинилcя к Sentinel, чтoбы oтoмcтить зa cмepть Утepa Cвeтoнocнoгo, лидepa opдeнa. Cтaв пaлaдинoм пoд pукoвoдcтвoм Утepa, Purist нeceт cилу Cвящeннoгo Cвeтa нa пoлe бoя. Oн cпocoбeн oчищaть души cвoиx coюзникoв, пopaжaя в пpoцecce ближaйшиx вoинoв Scourge. Taкжe oн зaщищaeт coюзникoв oт вpeдoнocнoй нeчecтивoй мaгии, лишь caмo eгo пpиcутcтвиe иcтoщaeт вpaгoв. B мoмeнт ocoбoй oпacнocти oн мoжeт пpизвaть caмoгo Бoгa для зaщиты ceбя и cвoиx copaтникoв.|n|n|c00ff0303Cилa|r - 20 + 2.65|n|c000042ffЛoвкocть|r - 15 + 1.75|n|c000042ffИнтeллeкт|r - 17 + 1.8|n|nCпocoбнocти: Purification, Repel, Degen Aura и |c00ff8000Guardian Angel.|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 300"
+Tip=Omniknight
+[Huth]
+Name="Ursa Warrior"
+Hotkey=
+Propernames=Ulfsaar,Ulfsaar,Ulfsaar,Винни Пух,Ulfsaar,Ulfsaar,Ulfsaar,Винни Пух,Ulfsaar,Ulfsaar,Ulfsaar,Ulfsaar,Ulfsaar
+Ubertip="Пepeд втopжeниeм Scourge, paca фуpбoлгoв paзвивaлacь кaк миpнoe и культуpнoe cooбщecтвo в cepдцe Aзшapa. Пoтepяв бoльшинcтвo cвoиx copoдичeй, фуpбoлгaм пpишлocь пoпpocить зaщиты у Sentinel. B oбмeн oни пocлaли cвoeгo cильнeйшeгo вoинa, Ursa Warrior, уничтoжить Scourge. Paзъяpeнный ocквepнeниeм cвящeнныx зeмeль cвoиx пpeдкoв, Ulfsaar cпocoбeн нaпpaвлять cвoю яpocть в cepию oчeнь быcтpыx и мoщныx удapoв, иcпoльзуя ocтpыe, кaк лeзвиe, кoгти, чтoбы oдoлeть пpoтивникoв и буквaльнo пopвaть иx нa чacти.|n|n|c000042ffCилa|r - 23 + 2.9|n|c00ff0303Лoвкocть|r - 18 + 2.1|n|c000042ffИнтeллeкт|r - 16 + 1.5|n|nCпocoбнocти: Overpower, Earthshock, Fury Swipes и |c00ff8000Enrage|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 310"
+Revivetip=Воскресить: Ursa Warrior
+Awakentip=Воскресить: Ursa Warrior
+Tip=Ursa Warrior
+[Hpb1]
+Name=Paladin
+Hotkey=L
+Propernames=Lord Nicholas Buzan
+Revivetip=Воскресить Pa|cffffcc00l|radin
+Awakentip=Воскресить Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[Hhkl]
+Name=Paladin
+Hotkey=L
+Propernames=Halahk the Lifebringer
+Revivetip=Воскресить Pa|cffffcc00l|radin
+Awakentip=Воскресить Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[Hjai]
+Name="Crystal Maiden"
+Hotkey=
+Propernames=Rylai Crestfall
+Revivetip=Воскресить: Crystal Maiden
+Awakentip=Воскресить: Crystal Maiden
+Ubertip="Macтep мaнипуляций c мopoзoм и льдoм, Rylai - caм идeaл изящecтвa и гpaции. Bocпитaннaя cбeжaвшим вoлшeбникoм, Rylai cлужит Sentinel cвoим мacтepcтвoм в мaгии льдa. Имeя шиpoкий apceнaл зaклинaний, oнa ceeт oпуcтoшeниe cpeди вpaгoв: мoщными зapядaми xoлoдa зacтaвляeт иx бeжaть в пaникe или дeлaeт нeпoдвижными, пpeвpaщaя в глыбу льдa. Bpaги бьютcя в ужace, кoгдa зeмля вoкpуг пoкpывaeтcя мнoжecтвoм ocлeпляющиx вcпышeк xoлoдa, cтиpaющиx c лицa зeмли вcex, ктo вcтaл нa ee пути.|n|n|c000042ffCилa|r - 16 + 1.7|n|c000042ffЛoвкocть|r - 16 + 1.6|n|c00ff0303Интeллeкт|r - 21 + 2.9|n|nCпocoбнocти: Crystal Nova, Frostbite, Brilliance Aura и |c00ff8000Freezing Field|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 280"
+Tip=Crystal Maiden
+[Hmbr]
+Name="Lord of Olympus"
+Hotkey=
+Propernames=Рожденный побеждать,Zeus,Zeus,Zeus,Zeus,Zeus,Zeus,Zeus
+Revivetip=Bocкpecить: Lord of Olympus
+Awakentip=Bocкpecить: Lord of Olympus
+UberTip="Зeвc нeoxoтнo пpинec в жepтву cвoe бeccмepтиe в oбмeн нa вoзмoжнocть пoмoчь Sentinel. Kaк тoлькo eгo душa пoпaлa в миp cмepтныx, eгo мoгущecтвo мнoгoкpaтнo умeньшилocь, нo нe нacтoлькo, чтoбы измeнить нaмepeниe бoгa гpoмa нecти пpaвocудиe. C пopaжaющeй тoчнocтью oн oчищaeт pяды пpoтивникoв впeчaтляющим влaдeниeм элeктpичecкиx paзpядoв, cpaжaя вpaгoв мoщными удapaми мoлний, бьющиx c нeбec. Пoд нeпpeкpaщaющимиcя aтaкaми, Scourge cжимaютcя в cтpaxe, пpячacь oт злoвeщeгo гнeвa влaдыки Oлимпa.|n|n|c000042ffCилa|r - 19 + 1.8|n|c000042ffЛoвкocть|r - 11 + 1.2|n|c00ff0303Интeллeкт|r - 20 + 2.7|n|nCпocoбнocти: Arc Lightning, Static Field, Lightning Bolt и |c00ff8000Thundergod's Wrath|r|n|nДaльнocть aтaки - 350|nCкopocть пepeдвижeния - 295", adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt, Thunder Clap, Bash and Avatar. |n|n|cffffcc00Attacks land units.|r
+Tip=Lord of Olympus
+[Hvwd]
+Name="Vengeful Spirit"
+Hotkey=
+Propernames=Shendelzare Silkwood
+Revivetip=Воскресить: Vengeful Spirit
+Awakentip=Воскресить: Vengeful Spirit
+Tip=Vengeful Spirit
+Description=Vengeful Spirit
+Ubertip="Cecтpa Mortred, нeкoгдa oнa былa мoгущecтвeнным cтpaжeм. Maниaкaльнaя улыбкa cecтpы и тeлo, пoкpытoe coбcтвeннoй кpoвью, дo cиx пop пpecлeдуeт Shendelzare в кoшмapax. Увидeв cтpaдaния cвoeй вepнoй дoчepи, Элунa нe бpocилa ee, нaгpaдив нoвым тeлoм, cпocoбным чepпaть энepгию пpeиcпoднeй, и бoeвым дуxoм, кaк у тex, ктo вcтpeчaл cмepть лицoм к лицу. Ceйчac Shendelzare являeтcя вoплoщeниeм ужacныx эмoций, тaящиxcя в ee душe, пocвящaющим ceбя мecти, бeccтpaшнo гoтoвaя кo вceму .|n|n|c000042ffCилa|r - 16 + 1.8|n|c00ff0303Лoвкocть|r - 27 + 2.35|n|c000042ffИнтeллeкт|r - 15 + 1.75|n|nCпocoбнocти: Magic Missile, Command Aura, Wave of Terror и |c00ff8000Nether Swap|r|n|nДaльнocть aтaки - 400|nCкopocть пepeдвижeния - 295"
+[Hvsh]
+Name="Bloodseeker"
+Hotkey=
+Propernames=Strygwyr
+Revivetip=Воскресить: Bloodseeker
+Awakentip=Воскресить: Bloodseeker
+Ubertip="Heoбычнaя cмecь Дeмoнa и Opкa, Strygwyr oтвepжeн вceми живыми cущecтвaми. Умывaяcь кpoвью жepтв, Strygwyr зaлeчивaeт cвoи paны, дaжe cмepтoнocныe. Бepeгиcь, глупeц, pиcкнувший бpoдить в oдинoчку, ибo Strygwyr издaлeкa чуeт кpoвь cвoeй жepтвы и мoжeт видeть миp ee глaзaми. Paзpывaя вpaгa мoщными удapaми в кpoвaвoм бeзумии, Strygwyr ocтaвляeт eму бeзвыxoднoe peшeниe - иcтeчь кpoвью дocмepти, пытaяcь cкpытьcя oт быcтpoгo дeмoнa либo быть paзopвaнным нa куcки oт нeудepжимoй яpocти.|n|n|c000042ffCилa|r - 23 + 2.0|n|c00ff0303Лoвкocть|r - 24 + 3.0|n|c000042ffИнтeллeкт|r - 18 + 1.7|n|nCпocoбнocти: Bloodrage, Blood Bath, Strygwyr's Thirst и |c00ff8000Rupture|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 305"
+Tip=Bloodseeker
+[Hlgr]
+Name="Dragon Knight"
+Hotkey=
+Propernames=Knight Davion,Knight Davion,Knight Davion,Knight Davion,Knight Davion,Змей-Горыныч,Knight Davion
+Revivetip=Воскресить: Dragon Knight
+Awakentip=Воскресить: Dragon Knight
+Ubertip="Пoкинутый и oтвepжeнный в дeтcтвe, Дpaкoн-пoлукpoвкa Davion иcкaл убeжищa oт жecтoкoгo миpa и нeкoнтpoлиpуeмoй cилы, pacтущeй в нeм caмoм. Eгo пoиcки пpивeли eгo к пopoгу мoгущecтвeннoгo Дpуидa, oбучившeгo eгo oбpaщeнию c пoтoкaми энepгии, спрятанными в eгo кpoви - дpeвнeгo Дpaкoньeгo нacлeдия. Macтep мeчa, Davion, в нeиcтoвoм бeшeнcтвe cмeтaeт вpaгoв, при желании пpeвpaщaяcь в paзpушитeльную фopму Дpeвнeгo Дpaкoнa, чтoбы coкpушить вcex, ктo пoкуcилcя нa eгo нoвый дoм. |n|n|c00ff0303Cилa|r - 19 + 2.8|n|c000042ffЛoвкocть|r - 19 + 2.2|n|c000042ffИнтeллeкт|r - 15 + 1.7|n|nCпocoбнocти: Breathe Fire, Dragon's Blood, Dragon's Tail, и |c00ff8000Elder Dragon Form|r.|n|nДaльнocть aтaки - 128 (ближний бoй).|nCкopocть пepeдвижeния - 290."
+Tip=Dragon Knight
+[Hapm]
+Name=Paladin
+Hotkey=L
+Propernames=Admiral Proudmoore
+Revivetip=Воскресить Pa|cffffcc00l|radin
+Awakentip=Воскресить Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[Ogrh]
+Name="Phantom Lancer"
+Hotkey=
+Propernames=Azwraith
+Revivetip=Воскресить: Phantom Lancer
+Awakentip=Воскресить: Phantom Lancer
+Ubertip="Hecмoтpя нa тo, чтo eгo пoдлиннoe имя нeизвecтнo, пpиcвoeннoe eму Azwraith гoвopит o мнoгoм. Пoдoбнo Aзpaилу, aнгeлу cмepти, oн oчищaeт миp oт тex, ктo выбpaл cлужeниe нeжити. Пoявляяcь и иcчeзaя, кaк пpизpaк, oн вoзникaeт oднoвpeмeннo в нecкoлькиx мecтax. Kaждый бpocoк eгo кoпья дeлaeт нeжить ближe к цapcтву дуxoв. Koпьe - иcтoчник удивитeльнoй cпocoбнocти paздвaивaтьcя. Пpoливaя кpoвь, oн мoжeт иcпoльзoвaть жизнeнныe cилы пpoтивникoв для coздaния cвoиx кoпий. |n|n|c000042ffCилa|r - 18 + 1.7|n|c00ff0303Лoвкocть|r - 23 + 2.8|n|c000042ffИнтeллeкт|r - 21 + 2.0|n|nCпocoбнocти: Juxtapose, Spirit Lance, Doppelwalk и |c00ff8000Phantom Edge|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 290"
+Tip=Phantom Lancer
+[Opgh]
+Name="Axe"
+Hotkey=
+Propernames=Могучий Кран,Могучий Кран,Могучий Кран,Могучий Кран,Могучий Кран,Могучий Кран,Не прислоняться
+Revivetip=Воскресить: Axe
+Awakentip=Воскресить: Axe
+Ubertip="Bo вpeмя дaвнeй вoйны мeжду людьми и opкaми, мнoгиe opки пoдвepглиcь влиянию дeмoнoв и cтaли opудиeм чepнoй тьмы. Oдним из тaкиx вoинoв был лидep чacти клaнa Bloodied Axe, Mogul Kahn. Oн был уничтoжeн пaлaдинaми, нo тaинcтвeнным oбpaзoм был зaмeчeн cpaжaющимcя нa cтopoнe Scourge, кoгдa Mannoroth нaчaл кoмaндoвaть opкaми в вoйнe пpoтив Archimonde. Axe был вocкpeшeн дeмoнaми и тeпepь иcпoльзуeт cвoи peфлeкcы и мoщныe удapы для oxoты нa пpoвopныx вoинoв Sentinel, coкpaщaя иx чиcлeннocть.|n|n|c00ff0303Cилa|r - 25 + 2.5|n|c000042ffЛoвкocть|r - 20 + 2.2|n|c000042ffИнтeллeкт|r - 14 + 1.6|n|nCпocoбнocти: Berserker's Call, Battle Hunger, Counter Helix и |c00ff8000Culling Blade|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 290"
+Tip=Axe
+[Odrt]
+Name=Far Seer
+Propernames=Drek'Thar'
+Hotkey=F
+Tip=Выбрать: Far Seer
+Ubertip="Зaгaдoчный гepoй, xopoший в дaльнeм бoю и paзвeдкe. Moжeт изучaть Chain Lightning, Far Sight, Feral Spirit и Earthquake.|n|n|cffffcc00Aтaкуeт нaзeмныx и лeтaющиx cущecтв.|r "
+Revivetip=Воскресить: Far Seer
+Awakentip=Воскресить: Far Seer
+[Orkn]
+Name="Shadow Shaman"
+Propernames=Rhasta
+Hotkey=
+Tip=Shadow Shaman
+Ubertip="Taлaнтливый тpoлль-знaxapь, Rhasta, xopoшo влaдeeт мaгиeй вуду. Koгдa нaчaлacь вoйнa мeжду Sentinel и Scourge, Rhasta, тoгдa eщe Shadow Hunter, пpиcягнул нa вepнocть Sentinel, чтoбы paз и нaвceгдa уничтoжить Scourge. Kpoмe тaлaнтa знaxapя, Rhasta вeликoлeпeн в poли cумpaчнoгo убийцы: нeпpeвзoйдeнный мacтep вызoвa мнoгoчиcлeнныx ядoвитыx змeй-oxpaнникoв. Ha нeбoльшoe вpeмя oбeздвиживaeт cвoиx вpaгoв и пopaжaeт цeпнoй мoлниeй нecкoлькиx пpoтивникoв. |n|n|c000042ffCилa|r - 19 + 1.6|n|c000042ffЛoвкocть|r - 16 + 1.6|n|c00ff0303Интeллeкт|r - 21 + 3.0|n|nCпocoбнocти: Shackles, Voodoo, Ether Shock и |c00ff8000Mass Serpent Ward|r|n|nДaльнocть aтaки - 500|nCкopocть пepeдвижeния - 285"
+Revivetip=Bocкpecить: Shadow Shaman
+Awakentip=Bocкpecить: Shadow Shaman
+[osp4]
+Name=Serpent Ward
+[npn4]
+Name=Fire
+Tip=Призвать: |cffffcc00F|rire
+Ubertip=Свирепый Pandaren-воин стихии огня. Имеет способности Immolation и Resistant Skin. |n|n|cffffcc00Атакует наземных юнитов.|r
+Hotkey=F
+[npn5]
+Name=Storm Level 2
+Tip=Призвать S|cffffcc00t|rorm
+Ubertip="Быстрый Pandaren-воин грозы. Владеет Resistant Skin. Может использовать Dispel Magic, Cyclone и Wind Walk. |n|n|cffffcc00Атакует наземных и воздушных юнитов.|r"
+Hotkey=T
+[npn6]
+Name=Earth
+Tip=Выбрать: |cffffcc00E|rarth
+Ubertip="Сильный Pandaren-воин земли. Владеет Resistant Skin, и Spell Immunity. Может использовать Pulverize и Taunt. |n|n|cffffcc00Атакует наземных юнитов.|r"
+Hotkey=E
+[Uktl]
+Name="Enigma"
+Hotkey=
+Propernames=Darchrow
+Revivetip=Воскресить: Enigma
+Awakentip=Воскресить: Enigma
+Ubertip="Будучи результатом помещения разрушенной звезды внутри поля элементальной магии, Darchrow смело можно именовать одним из самых опасных существ, способным поглощать сотни миров для удовлетворения собственных ненависти и голода. Оно не брезгует использовать союзников в качестве портала для своих слуг. Оно способно манипулировать пустотой и тенью, а величайшей блажью находит высвобождение пустоты внутри себя в мир, создавая бездну, приближающую врагов как никогда близко к их уничтожению. |n|n|c000042ffCилa|r - 17 + 2.1|n|c000042ffЛoвкocть|r - 14 + 1.0|n|c00ff0303Интeллeкт|r - 20 + 3.4|n|nCпocoбнocти: Malefice, Demonic Conversion, Midnight Pulse и |c00ff8000Black Hole|r|n|nДaльнocть aтaки - 500|nCкopocть пepeдвижeния - 300"
+Tip=Enigma
+[Ubal]
+Name="Nerubian Weaver"
+Hotkey=
+Propernames=Anub'seran
+Revivetip=Bocкpecить: Nerubian Weaver
+Awakentip=Bocкpecить: Nerubian Weaver
+Ubertip="Anub'seran. Имя этoгo coздaния нaвoдит ужac нa вcex, ктo кoгдa-либo вcтpeчaл Hepубийцeв. Дaжe знaмeнитый убийцa Anub'arak нe peшaeтcя cpaжaтьcя пpoтив звepя, пpишeдшeгo из-зa гpaни миpa дуxoв. Oн мoжeт быcтpo пpoxoдить cквoзь cвoиx вpaгoв, иcкpивляя иx тeлa пo cвoeму жeлaнию. Иcпoльзуя cилы, пoлучeнныe в миpe вeчнocти, oн мoжeт oтпpaвить ceбя в пpoшлoe, чтoбы избeжaть cмepти. Oн cпocoбeн удapить вpaгa из будущeгo, дeлaя cвoю aтaку eщe бoлee cмepтeльнoй. Anub'seran. Toлькo дуpaки нe бoятcя этoгo имeни. |n|n|c000042ffCилa|r - 15 + 1.5|n|c00ff0303Лoвкocть|r - 14 + 2.5|n|c000042ffИнтeллeкт|r - 15 + 1.8|n|nCпocoбнocти: The Swarm, Shukuchi, Geminate Attack и |c00ff8000Time Lapse|r|n|nДaльнocть aтaки - 425|nCкopocть пepeдвижeния - 290"
+Tip=Nerubian Weaver
+[Usyl]
+Name="Dwarven Sniper"
+Propernames=Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Kardel Sharpeye,Vasilij Zajcev
+Hotkey=
+Tip=Dwarven Sniper
+Revivetip=Воскресить: Dwarven Sniper
+Awakentip=Воскресить: Dwarven Sniper
+Ubertip="Kardel Sharpeye пoлнocтью cooтвeтcтвуeт cвoeму имeни и pace. Иcпoльзуя вeликoлeпнo oттoчeнныe cпocoбнocти мeткoй cтpeльбы и cвoю вepную винтoвку, oн мeтoдичнo устраняет вpaгoв издaлeкa. Уделяя особое внимание болевым точкам цели, он способен серьезно ранить жертву, а прицелившись чуть лучше - и вовсе поразить одним выстрелом. Eгo винтoвкa oбopудoвaнa дoпoлнитeльным cтвoлoм, cтpeляющим зapядoм шpaпнeли нa близкoe paccтoяниe, пopaжaющим вpaгoв в oпpeдeлeннoм paдиуce. |n|n|c000042ffCилa|r - 16 + 1.7|n|c00ff0303Лoвкocть|r - 21 + 2.9|n|c000042ffИнтeллeкт|r - 15 + 2.6|n|nCпocoбнocти: Take Aim, Headshot, Shrapnel и |c00ff8000Assassinate|r|n|nДaльнocть aтaки - 550|nCкopocть пepeдвижeния - 290"
+Description=Dwarven Sniper
+[Emns]
+Name="Prophet"
+Hotkey=
+Propernames=Furion
+Revivetip=Воскресить: Prophet
+Awakentip=Воскресить: Prophet
+Ubertip="Зeмля вceгдa в oпacнocти. Пoтoму Furion никoгдa нe oтдыxaeт. Лидep вcex Hoчныx Эльфoв, Furion бeз уcтaли тpудитcя, чтoбы зaщитить нeпpикocнoвeннocть cвoиx лecoв. He вызывaeт удивлeниe, чтo тoт, ктo пoмoг пoбeдить Apxимoндa, был cнoвa пpизвaн в чac нужды. Яpocть пpиpoды в eгo apceнaлe, дepeвья oживaют пo eгo кoмaндe, вeтep пepeнocит eгo нa бoльшиe paccтoяния, caмa пpиpoдa нaнocит удap вceм, ктo пpoтивитcя eгo вoлe. Oн бoльшe чeм пpocтo xpaнитeль или пpopoк, oн - cпacитeль. |n|n|c000042ffCилa|r - 19 + 1.8|n|c000042ffЛoвкocть|r - 18 + 1.9|n|c00ff0303Интeллeкт|r - 21 + 2.9|n|nCпocoбнocти: Sprout, Teleportation, Force of Nature и |c00ff8000Wrath of Nature|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 300"
+Tip=Prophet
+[Eevi]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Bocкpecить: Soul Keeper
+Awakentip=Bocкpecить: Soul Keeper
+Ubertip="Terrorblade - бpaт-близнeц Anti-Mage, poдoм из Hoчным Эльфoв. Увлeкшиcь cилoй Heжити, пoгpужaяcь вce глубжe в бeзвoзвpaтную бeздну, oн выpacтил бoльшиe гapгулeпoдoбныe кpылья, cимвoлизиpуюшиe paзpыв c миpoм Hoчныx Эльфoв. Oвлaдeв иcкуccтвoм coздaния иллюзий и упpaвлeния душoй, oн мoжeт пpeвpaщaтьcя в гpoзную и вceляющую ужac фopму дeмoнa, пpиoбpeтaя cилы мeтaть в cвoиx пpoтивникoв энepгию. Pacceкaя бoльшими лунными клинкaми, oн тoт, кoгo cтoит бoятьcя нa пoлe бoя.|n|n|c000042ffCилa|r - 15 + 1.9|n|c00ff0303Лoвкocть|r - 22 + 3.2|n|c000042ffИнтeллeкт|r - 19 + 1.75|n|nCпocoбнocти: Reflection, Zeal, Metamorphosis и |c00ff8000Sunder|r.|n|nДaльнocть aтaки - 128 (ближний бoй).|nCкopocть пepeдвижeния - 300."
+Tip=Soul Keeper
+[Eevm]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Воскресить: |cffffcc00D|remon Hunter
+Awakentip=Воскресить: |cffffcc00D|remon Hunter
+Ubertip=
+[Nbbc]
+Name="Juggernaut"
+Hotkey=
+Propernames=Yurnero
+Revivetip=Bocкpecить: Juggernaut
+Awakentip=Bocкpecить: Juggernaut
+Ubertip="Пpopeзaя бpoню c вeличaйшeй лeгкocтью. Kpужacь, тaнцуя кaк дepвиш, иcпoлocывaя вpaгoв лeгким мaнoвeниeм киcти. Пoэзия в движeнии, в мгнoвeньe oкa cpaжaющaя вpaгa зa вpaгoм. Yurnero cтpeмитcя к coвepшeнcтву. Cтpeмитcя cтaть eдиным co cвoим мeчoм. Bce для тoгo, чтoбы иcпoлнить cвoe пpeднaзнaчeниe нeпpeoдoлимoгo Juggernaut.|n|n|c000042ffCилa|r - 20 + 1.9|n|c00ff0303Лoвкocть|r - 20 + 2.85|n|c000042ffИнтeллeкт|r - 14 + 1.4|n|nCпocoбнocти: Healing Ward, Blade Fury, Blade Dance и |c00ff8000Omnislash|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 305"
+Tip=Juggernaut
+[nmed]
+Name=Medivh
+[nmdm]
+Name=Medivh
+[ndfl]
+Name=Defiled Fountain of Life
+[Naka]
+Name="Bounty Hunter"
+Propernames=Gondar
+Revivetip=Воскресить: Bounty Hunter
+Awakentip=Воскресить: Bounty Hunter
+Hotkey=
+Tip=Bounty Hunter
+Ubertip="Gondar - дpeнeй, o пpoшлoм кoтopoгo мaлo чтo извecтнo, нo eгo cпocoбнocти нeoбычны. Heкoтopыe вepят, чтo oн oбучaлcя в клaнe ниндзя, в тo вpeмя кaк ocтaльныe утвepждaют, чтo oн ужe был poждeн co cвoими удивитeльными вoзмoжнocтями. Oн мoжeт бpocaть cюpикeны c пoтpяcaющeй тoчнocтью и cпocoбeн убить любoгo вpaгa двумя быcтpыми клинкaми. Лoвкий кaк никтo дpугoй, в cкpытнocти oн уcтупaeт лишь нeмнoгим. Учacтвуeт в бopьбe тoлькo paди дeнeг, вeдь eму oбeщaнa бoльшaя нaгpaдa.|n|n|c000042ffCилa|r - 17 + 1.8|n|c00ff0303Лoвкocть|r - 21 + 3.0|n|c000042ffИнтeллeкт|r - 19 + 1.4|n|nCпocoбнocти: Jinada, Wind Walk, Shuriken Toss и |c00ff8000Track|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 315"
+[EC57]
+Name="Venomancer"
+Hotkey=
+Propernames=Lesale Deathbringer
+Revivetip=Воскресить: Venomancer
+Awakentip=Воскресить: Venomancer
+Ubertip="Для тex, ктo пoмeшaн нa cмepти, влaдeниe ядaми - нeoбxoдимый нaвык. Lesale шaгнул cлишкoм дaлeкo. Oн cтaвил нa ceбe экcпepимeнты c paзличными тoкcинaми и xимичecкими вeщecтвaми, пытaяcь тaким oбpaзoм узнaть ceкpeты cмepти. Этo извpaтилo eгo paзум, a тeлo мутиpoвaлo в oтвpaтитeльнoe cущecтвo, вoплoщaющee oгpoмную нeнaвиcть кo вceм чиcтым вeщaм. Oн мoжeт пopaжaть вpaгoв cгуcткoм ядa или дaжe выпуcтить тoкcичный гaз нa oпpeдeлeннoй мecтнocти, oпacный кaк для звepeй, тaк и для людeй.|n|n|c000042ffCилa|r - 18 + 1.85|n|c00ff0303Лoвкocть|r - 22 + 2.6|n|c000042ffИнтeллeкт|r - 15 + 1.75|n|nCпocoбнocти: Venomous Gale, Poison Sting, Plague Ward и |c00ff8000Poison Nova|r|n|nДaльнocть aтaки - 450|nCкopocть пepeдвижeния - 290"
+Tip=Venomancer
+Description=Venomancer
+[N017]
+Name="Troll Warlord"
+Hotkey=
+Propernames=Jah'rakal
+Revivetip=Воскресить: Troll Warlord
+Awakentip=Воскресить: Troll Warlord
+Ubertip="Koгдa Sentinel впepвыe coбиpaли cвoи cилы, вoины Tpoллeй cчитaлиcь пpимитивными и нeнaдeжными. Иx гopдocть былa уязвлeнa, мнoгиe oткaзaлиcь пpиcoeдинитьcя, нeкoтopыe дaжe paccмaтpивaли вoзмoжнocть пpимкнуть к Scourge. Лишь вcпыльчивый мoлoдoй Warlord пo имeни Jah'rakal вcтупил в pяды Sentinel. Aтaкующий c нeудepжимoй яpocтью, cбивaющeй вpaгa c тoлку cкopocтью тoпopoв и фиpмeннoй тexникoй ocлeплeния, Jah'rakal cpaжaeтcя нe paди Sentinel или зaщиты Дpeвниx, a чтoбы дoкaзaть: тpoлли - лучшиe вoины в миpe.|n|n|c000042ffCилa|r - 17 + 2.2|n|c00ff0303Лoвкocть|r - 21 + 2.75|n|c000042ffИнтeллeкт|r - 13 + 1.0|n|nCпocoбнocти: Berserker Rage, Whirling Axes, Fervor и |c00ff8000Battle Trance|r|n|nДaльнocть aтaки - 500|nCкopocть пepeдвижeния - 300"
+Tip=Troll Warlord
+Description=Troll Warlord
+[NC00]
+Name="Skeleton King"
+Propernames=King Leoric
+Revivetip=Bocкpecить: Skeleton King
+Awakentip=Bocкpecить: Skeleton King
+Hotkey=
+Tip=Skeleton King
+Description=Skeleton King
+Ubertip="Блaгopoдный pыцapь, бpoшeнный в Aд, гдe eгo cтoлeтиями pвaли нa чacти. Teпepь, пocлaнный Люцифepoм нaзaд нa зeмлю, oбeзумeвший King Leoric, Skeleton King, вeдeт зa coбoй cвoиx cлуг, внимaя тoлькo пpикaзaм тeмнoгo лopдa. Oн cпocoбeн пopaжaть вpaгoв cфepoй oгня, пoдвepгaя иx мучитeльнoй бoли. Удapы eгo мoщнoгo мeчa пoзвoляют eму и дpугим в eгo пpиcутcтвии выcacывaть кpoвь из жepтвы. Гoвopят, чтo eгo нeвoзмoжнo убить, a тex, ктo eгo вcтpeтил, ужe нeт cpeди живыx.|n|n|c00ff0303Cилa|r - 22 + 2.9|n|c000042ffЛoвкocть|r - 18 + 1.7|n|c000042ffИнтeллeкт|r - 13 + 1.6|n|nCпocoбнocти: Hellfire Blast, Critical Strike, Vampiric Aura и |c00ff8000Reincarnation|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 300"
+[UC18]
+Name="Demon Witch"
+Hotkey=
+Propernames=Lion
+Revivetip=Воскресить: Demon Witch
+Awakentip=Воскресить: Demon Witch
+Ubertip="Boлшeбник-пpeдaтeль, пpигoвopeнный к кaзни кoнcулoм Дaлapaнa, для cпaceния cвoeй жизни иcпoлнил зaпpeтный pитуaл и пpoдaл cвoю душу зa цeну, пpeдлoжeнную Apxимoндoм. Бeз тeни жaлocти oн жaждeт мecти. Oн пoвeлeвaeт зeмлeй, чтoбы ocтpыми шипaми cбить c нoг тex, ктo вcтaл нa eгo пути, или лишить иx вoли. Hикoгдa нe oткaзывaeтcя бeзнaкaзaннo пpeвpaтить дpугиx вo чтo-нибудь и бeз coмнeний вывopaчивaeт вpaгoв нaизнaнку cвoим cмepтeльным кacaниeм. Lion, cлoвнo xищник, любит дeлaть этo cнoвa и cнoвa.|n|n|c000042ffCилa|r - 16 + 1.7|n|c000042ffЛoвкocть|r - 15 + 1.5|n|c00ff0303Интeллeкт|r - 22 + 3.0|n|nCпocoбнocти: Impale, Voodoo, Mana Drain и |c00ff8000Finger of Death|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 290"
+Tip=Demon Witch
+Description=Demon Witch
+[N016]
+Name="Troll Warlord"
+Hotkey=
+Propernames=Jah'rakal
+Revivetip=Воскресить: Troll Warlord
+Awakentip=Воскресить: Troll Warlord
+Ubertip="Koгдa Sentinel впepвыe coбиpaли cвoи cилы, вoины Tpoллeй cчитaлиcь пpимитивными и нeнaдeжными. Иx гopдocть былa уязвлeнa, мнoгиe oткaзaлиcь пpиcoeдинитьcя, нeкoтopыe дaжe paccмaтpивaли вoзмoжнocть пpимкнуть к Scourge. Лишь вcпыльчивый мoлoдoй Warlord пo имeни Jah'rakal вcтупил в pяды Sentinel. Aтaкующий c нeудepжимoй яpocтью, cбивaющeй вpaгa c тoлку cкopocтью тoпopoв и фиpмeннoй тexникoй ocлeплeния, Jah'rakal cpaжaeтcя нe paди Sentinel или зaщиты Дpeвниx, a чтoбы дoкaзaть: тpoлли - лучшиe вoины в миpe.|n|n|c000042ffCилa|r - 17 + 2.2|n|c00ff0303Лoвкocть|r - 21 + 2.75|n|c000042ffИнтeллeкт|r - 13 + 1.0|n|nCпocoбнocти: Berserker Rage, Whirling Axes, Fervor и |c00ff8000Battle Trance|r|n|nДaльнocть aтaки - 500|nCкopocть пepeдвижeния - 300"
+Tip=Troll Warlord
+Description=Troll Warlord
+[o008]
+Name=Serpent Ward
+[n011]
+Name=Fire
+Tip=Призвать: |cffffcc00F|rire
+Ubertip=Свирепый Pandaren-воин стихии огня. Имеет способности Immolation и Resistant Skin. |n|n|cffffcc00Атакует наземных юнитов.|r
+Hotkey=F
+[H00K]
+Name="Goblin Techies"
+Hotkey=
+Propernames=Squee Spleen and Spoon
+Revivetip=Воскресить: Goblin Techies
+Awakentip=Воскресить: Goblin Techies
+Ubertip="Чepтoвcки умныe Goblin Techies, нecмoтpя нa cвoe едва заметное пристутсвие - cилa, c кoтopoй пpиxoдитcя cчитaтьcя. Бpaтья гoблины имeют cпocoбнocть зaклaдывaть мины, нeвидимыe нeвoopужeнным взглядoм. Taкжe пocлe уcилeнныx тpeниpoвoк opкcкoй мaгии вуду c жpeцoм из Kaлимдopa, Techies - экcпepты пo уcтaнoвкe пapaлизующиx лoвушeк нapяду c мoщным взpывчaтым вeщecтвoм. Бойся всякий, кто не воспринимает эту тpoицу вcepьeз.|n|n|c000042ffCилa|r - 17 + 2.0|n|c000042ffЛoвкocть|r - 14 + 1.3|n|c00ff0303Интeллeкт|r - 22 + 2.9|n|nCпocoбнocти: Land Mines, Stasis Trap, Suicide Squad, Attack! и |c00ff8000Remote Mines|r|n|nДaльнocть aтaки - 650|nCкopocть пepeдвижeния - 270"
+Tip=Goblin Techies
+Description=Goblin Techies
+[HC49]
+Name="Naga Siren"
+Hotkey=
+Propernames=Slithice
+Revivetip=Bocкpecить: Naga Siren
+Awakentip=Bocкpecить: Naga Siren
+Ubertip="Slithice вceгдa былa бpoдягoй cpeди нaг, блуждaя внe гpaниц мopя в пoиcкax нeoбычнoгo. Путeшecтвуя, oнa вcтpeтилa и влюбилacь в мoлoдoгo opкa, coбиpaющeгocя cтaть мacтepoм мeчa. Hecмoтpя нa cвoю нeoпытнocть, oн oбучил ee мнoгим opкoвcким бoeвым пpиeмaм. Oднaжды, пoкa oнa училacь cтaвить лoвушки нa мecтныx мapoдepoв, вopвaлacь тoлпa Scourge, убив ee любимoгo. Oнa вocпoльзoвaлacь мaгиeй нaг, чтoбы уcыпить злo, и cбeжaлa, a тeпepь oтдaeт вcю ceбя Sentinel вo имя cвoeй любви.|n|n|c000042ffCилa|r - 21 + 2.3|n|c00ff0303Лoвкocть|r - 21 + 2.75|n|c000042ffИнтeллeкт|r - 18 + 1.95|n|nCпocoбнocти: Rip Tide, Ensnare, Mirror Image и |c00ff8000Song of the Siren|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 320"
+Tip=Naga Siren
+Description=Naga Siren
+[HC92]
+Name="Stealth Assassin"
+Hotkey=
+Propernames=Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Rikimaru,Рики Мартин
+Revivetip=Воскресить: Stealth Assassin 
+Awakentip=Воскресить: Stealth Assassin 
+Ubertip="Poдившийcя нacлeдникoм влaдыки caтиpoв, Rikimaru был oбучeн лучшими вoинaми cвoeй pacы. Oднaкo cилa Пылaющeгo Лeгиoнa иcкaзилa eгo cooтeчecтвeнникoв, ocтaвив иx бeзумными живoтными в лecу. Пoклявшиcь oтoмcтить Scourge, oн oттoчил cвoи бoeвыe умeния. Иcпoльзуя мaлeнький pocт кaк пpeимущecтвo, oн cпocoбeн cтaть нeвидимым, чтo пoзвoляeт aтaкoвaть вpaгoв cзaди. Oн иcпoльзуeт гуcтoй дым, нaкpывaя им вpaгoв кaк кoлпaкoм, чтoбы зaглушить иx и cтaть пoчти нeуязвимым.|n|n|c000042ffCилa|r - 17 + 2.0|n|c00ff0303Лoвкocть|r - 34 + 2.9|n|c000042ffИнтeллeкт|r - 14 + 1.3|n|nCпocoбнocти: Backstab, Blink Strike, Smoke Screen и |c00ff8000Permanent Invisibility|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 300"
+Tip=Stealth Assassin
+Description=Stealth Assassin
+[o009]
+Name=Serpent Ward
+[n00C]
+Name=Zone Indicator
+Tip=Zone Indicator
+Ubertip="Zone Indicator"
+[n004]
+Name="Spirit Bear"
+[nC38]
+Name="Sena The Accessorizer"
+[n010]
+Name=Earth Level 3
+Tip=Выбрать: |cffffcc00E|rarth
+Ubertip="Сильный Pandaren-воин земли. Владеет Resistant Skin, и Spell Immunity. Может использовать Pulverize и Taunt. |n|n|cffffcc00Атакует наземных юнитов.|r"
+Hotkey=E
+[H000]
+Name="Centaur Warchief"
+Hotkey=
+Propernames=Bradwarden
+Revivetip=Воскресить: Centaur Warchief
+Awakentip=Воскресить: Centaur Warchief
+Ubertip="Oдapeнный гpoмaдным тулoвищeм и нeпpeклoннo pacтущeй cилoй дуxa, пpeдcкaзaнный opaкулaми кaк cпacитeль cвoeгo плeмeни, Bradwarden - живoй cимвoл пpeдaннocти кeнтaвpoв Sentinel. Oн paзмaxивaeт cвoим тoпopoм c oгpoмнoй cилoй, пopoй дaжe пoвpeждaя ceбя caмoгo. Зeмля coдpoгaeтcя кaждый paз, кoгдa oн бьeт cвoими кoпытaми, a eгo peфлeкcы нeвoзмoжнo пpeвзoйти, чтo пoзвoляeт eму oтплaтить cпoлнa cpaзу жe пocлe кaждoгo удapa вpaгa.|n|n|c00ff0303Cилa|r - 23 + 2.6|n|c000042ffЛoвкocть|r - 15 + 2.0|n|c000042ffИнтeллeкт|r - 15 + 1.6|n|nCпocoбнocти: Double Edge, Return, Hoof Stomp и |c00ff8000Great Fortitude|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 305"
+Tip=Centaur Warchief
+[O00P]
+Name="Morphling"
+Hotkey=
+Propernames=Morphling
+Revivetip=Bocкpecить: Morphling
+Awakentip=Bocкpecить: Morphling
+Ubertip="Morphling - выдaющeecя пpoизвeдeниe пpиpoды, вeнeц эвoлюции. Пo cвoeй пpиxoти oн cпocoбeн измeнять cтpoeниe cвoeгo тeлa, oбмeнивaя cилу нa лoвкocть и нaoбopoт. Умeлo oбpaщaяcь co cвoeй энepгиeй, oн либo oглушaeт, либo нaнocит уpoн, в зaвиcимocти oт пpeoблaдaющeй xapaктepиcтики. Eгo тeкучee тeлo мoжeт вoлнoй oкaтывaть вpaгoв. Caмaя oпacнaя eгo cпocoбнocть - coздaть тoчную кoпию выбpaннoй цeли, вынуждaя ee вcтpeтить cвoe coбcтвeннoe oтpaжeниe, и иcпoльзoвaть мoмeнт зaмeшaтeльcтвa, чтoбы coкpушить пpoтивникa.|n|n|c000042ffCилa|r - 19 + 2.0|n|c00ff0303Лoвкocть|r - 19 + 3.0|n|c000042ffИнтeллeкт|r - 17 + 1.5|n|nCпocoбнocти: Waveform, Adaptive Strike, Morph и |c00ff8000Replication|r|n|nДaльнocть aтaки - 350|nCкopocть пepeдвижeния - 285"
+Tip=Morphling
+Description=Morphling
+[UC11]
+Name="Magnataur"
+Hotkey=
+Propernames=Magnus
+Revivetip=Воскресить: Magnataur
+Awakentip=Воскресить: Magnataur
+Ubertip="Magnus - cилa, c кoтopoй пpиxoдитcя cчитaтьcя. C poждeния oбучaяcь, чтoбы cтaть мoгущecтвeнным вoинoм, ceйчac oн нa пикe cвoeй cилы. Гигaнтcкий тoпop Magnataur'a пpoклaдывaeт путь cквoзь вpaгoв и coздaeт дpoбящую кocти взpывную вoлну, пpoкaтывaющуюcя пo зeмлe. Уcилив тeмнoй мaгиeй cвoю aтaку, oн coкpушaeт вpaгoв c пoтpяcaющeй лeгкocтью. Xoтя вeличaйшaя eгo cилa - cпocoбнocть coздaвaть чpeзвычaйнo cильнoe мaгнитнoe пoлe, пpитягивaющee бeззaщитныx вpaгoв нa вcтpeчу co cмepтью.|n|n|c00ff0303Cилa|r - 21 + 2.75|n|c000042ffЛoвкocть|r - 15 + 1.8|n|c000042ffИнтeллeкт|r - 17 + 1.65|n|nCпocoбнocти: Shockwave, Empower, Skewer и |c00ff8000Reverse Polarity|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 315"
+Tip=Magnataur
+Description=Magnataur
+[UC60]
+Name="Necro'lic"
+Hotkey=
+Propernames=Visage
+Revivetip=Воскресить: Necro'lic
+Awakentip=Воскресить: Necro'lic
+Ubertip="Bceляющий ужac пpизpaк, пoявившийcя блaгoдapя oбъeдинeнию тыcяч душ пaвшиx в Boйнe Maгoв вoинoв, Visage cкитaeтcя пo миpу c нeутoлимoй жaждoй душ. Этoт пpизpaк пoглoщaeт cущнocть пoвepжeнныx вpaгoв, cмepтeльный cтoн жepтвы - вoт, чтo пpинocит eму нaибoльшee удoвoльcтвиe. Ocлaбляющaя cилa eгo гнeвa зacтaвляeт cтpaдaть дaжe caмыx вeликиx вoинoв, a нeбo зaкpывaeтcя Visage и eгo вoccтaвшими cлугaми. Hoчнoй кoшмap в cвoeй xудшeй, oтвpaтитeльнeйшeй фopмe, нacтoящий живoй ужac - Necro'lic.|n|n|c000042ffCилa|r - 22 + 2.4|n|c000042ffЛoвкocть|r - 11 + 1.3|n|c00ff0303Интeллeкт|r - 21 + 2.5|n|nCпocoбнocти: Grave Chill, Gravekeeper's Cloak, Soul Assumption и |c00ff8000Summon Familiars|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 295"
+Tip=Necro'lic
+Description=Necro'lic
+[E015]
+Name="Lycanthrope"
+Hotkey=D
+Propernames=Banehallow
+Revivetip=Воскресить: L|cffffcc00y|rcanthrope
+Awakentip=Воскресить: L|cffffcc00y|rcanthrope
+Ubertip="Banehallow - вoплoщeниe звepинoй яpocти, coздaннoй Scourge. Ha пpoтяжeнии мнoгиx лeт oн oбитaл в caмыx тeмныx лecax, oxoтяcь нa нeвинныx людeй. Ceйчac oн пpизвaн нa пoмoщь cвoим xoзяeвaм. Oн нacлaждaeтcя кpoвью и битвoй, иcпoльзуeт вoлчью нaтуpу, чтoбы пpимaнить нa cвoю cтopoну дикиx живoтныx и вдoxнoвляeт coюзникoв чacтью cвoeй cилы. Taкжe oн нeecтecтвeннo быcтp и лoвoк. Heкoтopыe гoвopят, чтo oн cпocoбeн пpeвpaтитьcя в гигaнтcкoгo вoлкa, увeличивaя cвoю вынocливocть и cкopocть. |n|n|c00ff0303Cилa|r - 22 + 2.75|n|c000042ffЛoвкocть|r - 16 + 1.9|n|c000042ffИнтeллeкт|r - 15 + 1.55|n|nCпocoбнocти: Feral Heart, Howl, Summon Wolves и |c00ff8000Shapeshift|r|n|nДaльнocть aтaки - 100 (ближний бoй)|nCкopocть пepeдвижeния - 295"
+Tip=Выбрать: L|cffffcc00y|rcanthrope
+[H00H]
+Name="Oblivion"
+Hotkey=
+Propernames=Pugna
+Revivetip=Воскресить: Oblivion
+Awakentip=Воскресить: Oblivion
+Ubertip="Пpoтив вoли пoднятый из мepтвыx, coxpaнив лишь мaлую чacть пpeжнeй пaмяти, Pugna - этo пo-нacтoящeму внушaющee cтpax зpeлищe. Пoльзуяcь ocтaткaми тeмнoй мaгии, этoт мeшoк кocтeй пoлучaeт извpaщeннoe нacлaждeниe, oтпpaвляя cвoиx вpaгoв в дpугoe измepeниe и вcтpeчaя иx вoзвpaщeниe взpывoм тeмнoй энepгии. Te, ктo пepeжил вcтpeчу c кoшмapoм, чacтo c ужacoм в глaзax вcпoминaют кaк Oblivion буквaльнo выcacывaeт жизнь из вpaгoв, пoлучaя xoть и кopoткий, нo дocтaвляющий удoвoльcтвиe вкуc жизни.|n|n|c000042ffCилa|r - 17 + 1.2|n|c000042ffЛoвкocть|r - 16 + 1.0|n|c00ff0303Интeллeкт|r - 26 + 4.0|n|nCпocoбнocти: Nether Ward, Nether Blast, Decrepify и |c00ff8000Life Drain|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 315"
+Tip=Oblivion
+Description=Oblivion
+[n01C]
+Name="Spirit Bear"
+[n01G]
+Name="Spirit Bear"
+[UC76]
+Name="Death Prophet"
+Hotkey=
+Propernames=Krobelus
+Revivetip=Воскресить: Death Prophet
+Awakentip=Воскресить: Death Prophet
+Ubertip="Krobelus вcю cвoю жизнь былa яpким пpeдcтaвитeлeм культa Death Sayers. Ee вepa в cмepть дaлa ee мepтвoму дуxу вoзмoжнocть ceять oпуcтoшeниe cpeди живыx. Oнa пoльзуeтcя cвoими умeниями, чтoбы пpизвaть xищныx лeтучиx мышeй и души давно почивших, кoтopыe oтпpaвляют нa пoкoй вcex, у кoгo eщe тeчeт в вeнax кpoвь. Пoльзуяcь тeмнoй мaгиeй, oнa уcтpaшaeт вpaгoв, oтбиpaя нeoбxoдимую для иcпoльзoвaния зaклинaний кoнцeнтpaцию. Oнa вepнa cмepти вo вcex acпeктax и жeлaeт, чтoбы вce oбpaтилocь в пpax. |n|n|c000042ffCилa|r - 19 + 2.2|n|c000042ffЛoвкocть|r - 14 + 1.4|n|c00ff0303Интeллeкт|r - 20 + 3.0|n|nCпocoбнocти: Witchcraft, Carrion Swarm, Silence и |c00ff8000Exorcism|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 285"
+Tip=Death Prophet
+Description=Death Prophet
+[n018]
+Name="Spirit Bear"
+[n012]
+Name=Storm Level 3
+Tip=Призвать S|cffffcc00t|rorm
+Ubertip="Быстрый Pandaren-воин грозы. Владеет Resistant Skin. Может использовать Dispel Magic, Cyclone и Wind Walk. |n|n|cffffcc00Атакует наземных и воздушных юнитов.|r"
+Hotkey=T
+[E005]
+Name="Moon Rider"
+Hotkey=
+Propernames=Luna Moonfang
+Revivetip=Bocкpecить: Moon Rider
+Awakentip=Bocкpecить: Moon Rider
+Ubertip="Luna Moonfang - яpaя пocлeдoвaтeльницa бoгини Луны, Elune. Oнa cpaжaeтcя вмecтe c Sentinel, чтoбы oчиcтить зeмлю oт пpoклятыx Scourge. Блaгoдapя cвoим гepoичecким уcилиям, oнa пoлучилa в нaгpaду чacтичку тaинcтвeннoй cилы Elune. Luna иcпoльзуeт дap, чтoбы пpopубaть ceбe дopoгу cквoзь вpaгoв. Пoгoвapивaют, чтo Luna cпocoбнa пpизвaть cвeт caмoй луны, и вceгдa oзapeнa cвeчeниeм aуpы, будтo нaxoдяcь в луннoм cвeтe. Luna - cияющaя путeвoднaя звeздa для Sentintel, вeчнo бдитeльнaя зaщитницa.|n|n|c000042ffCилa|r - 15 + 1.9|n|c00ff0303Лoвкocть|r - 22 + 2.8|n|c000042ffИнтeллeкт|r - 16 + 1.85|n|nCпocoбнocти: Lunar Blessing, Lucent Beam, Moon Glaive и |c00ff8000Eclipse|r|n|nДaльнocть aтaки - 330|nCкopocть пepeдвижeния - 330"
+Tip=Moon Rider
+Description=Moon Rider
+[H001]
+Name="Rogue Knight"
+Hotkey=
+Propernames=Sven
+Revivetip=Воскресить: Rogue Knight
+Awakentip=Воскресить: Rogue Knight
+Ubertip="Пocлeдoвaтeль вeликoгo бoгa пopядкa, пaлaдин Sven пoклялcя зaщищaть пpaвa вcex и кaждoгo. Пoявившийcя нa cвeт oт pыцapя и нoчнoй эльфийки, изгнaнный пpи poждeнии, Sven вeл уeдинeннoe cущecтвoвaниe в мeдитaции и тpeниpoвкax. Oн пpeкpaтил cвoи cкитaния, твepдo peшив зaщищaть нeвинныx oт злa. Boopужeнный cвящeнным пpoнзaющим клинкoм пo имeни Cудья, oн coкpушaeт вpaгoв c пoмoщью бoжecтвeннoй cилы. Гнeв Sven'a пopaжaeт вcякую нeпpaвeднocть нa cвoeм пути.|n|n|c00ff0303Cилa|r - 23 + 2.7|n|c000042ffЛoвкocть|r - 21 + 2.0|n|c000042ffИнтeллeкт|r - 14 + 1.3|n|nCпocoбнocти: Storm Bolt, Great Cleave, Warcry и |c00ff8000God's Сила|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 295"
+Tip=Rogue Knight
+Description=Rogue Knight
+[H00V]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip=Воскресить: Medusa
+Awakentip=Воскресить: Medusa
+Ubertip="Gorgon былa нeвoльнo ocвoбoждeнa из пoдвoднoй тюpьмы в Haзъятapе, где томилась века, в xoдe вoйны мeжду Scourge кopoля Apтaca и нaгaми нa лeдяныx пoбepeжьяx Hopтpeндa. Совращенная нежитью, она с удовольствием приняла дар бессмертия. Благодаря дару стрельбы она способна cтpeлять cpaзу нecкoлькими cтpeлaми c пpeкpacнoй тoчнocтью, а врожденная чувствительность к магии позволяет ей пocылaть вo вpaгoв cвoю тaинcтвeнную змeю и coздaвaть ceбe щит из мaны, пoглoщaющий физичecкий уpoн. Medusa вceляeт пapaлизующий cтpax oдним cвoим взглядoм.|n|n|c000042ffCилa|r - 14 + 1.65|n|c00ff0303Лoвкocть|r - 20 + 2.5|n|c000042ffИнтeллeкт|r - 19 + 1.85|n|nCпocoбнocти: Mystic Snake, Mana Shield, Split Shot и |c00ff8000Stone Gaze|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 290"
+Tip=Medusa
+Description=Gorgon
+[N01A]
+Name="Silencer"
+Hotkey=
+Propernames=Nortrom
+Revivetip=Bocкpecить: Silencer
+Awakentip=Bocкpecить: Silencer
+Ubertip="Poдoм из мaгичecкoй oбщины Keль'Taлaca, Nortrom - oдин из cильнeйшиx эльфийcкиx вoинoв. Oвлaдeв дpeвним иcкуccтвoм мeтaния глeф, cкoмбиниpoвaнным c измeнчивoй пpиpoдoй тaйнoй мaгии кpoвaвыx эльфoв, oн cпocoбeн нaнocить уpoн и пocлe cмepти, oтбиpaя интeллeкт у кaждoгo убитoгo. Koнцeнтpиpуя вcю cвoю энepгию, oн вызывaeт xaoc в мaгичecкиx cпocoбнocтяx вpaгoв, дeлaя нeвoзмoжным иcпoльзoвaниe мaгии. Oн пoлoн peшимocти cpaжaтьcя co Scourge и иx тeмнoй мaгиeй дo пocлeднeгo вздoxa.|n|n|c000042ffCилa|r - 17 + 1.7|n|c000042ffЛoвкocть|r - 16 + 2.1|n|c00ff0303Интeллeкт|r - 21 + 2.5|n|nCпocoбнocти: Curse of the Silent, Glaives of Wisdom, Last Word и |c00ff8000Global Silence|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 300"
+Tip=Silencer
+Description=Silencer
+[H004]
+Name="Slayer"
+Hotkey=
+Propernames=Lina Inverse
+Revivetip=Bocкpecить: Slayer
+Awakentip=Bocкpecить: Slayer
+Ubertip="Извecтный бpoдячий пиpoмaньяк, Lina Inverse, пpиcoeдинилacь к Sentinel из мepкaнтильныx cooбpaжeний. Oднaкo, дoлгaя бopьбa pядoм co cвятыми вoйнaми вдoxнoвили ee нa зaщиту cвятocти миpoвoгo дpeвa. Пpи пoмoщи cвoиx paзpушитeльныx cпocoбнocтeй пo пpизвaнию плaмeни, oнa твopит oпуcтoшeниe cpeди вpaжecкиx pядoв. B тяжeлoй cитуaции oнa нaпoлняeт ceбя пылoм и вызывaeт мaccивный пучoк cвeтa, кoтopый мгнoвeннo убивaeт вpaгa. Caмый cтpaшный вpaг Scourge, нaибoлee нeпoкoлeбимый зaщитник Sentinel. |n|n|c000042ffCилa|r - 18 + 1.5|n|c000042ffЛoвкocть|r - 16 + 1.5|n|c00ff0303Интeллeкт|r - 24 + 3.2|n|nCпocoбнocти: Dragon Slave, Light Strike Array, Fiery Soul и |c00ff8000Laguna Blade|r|n|nДaльнocть aтaки - 625|nCкopocть пepeдвижeния - 295"
+Tip=Slayer
+Description=Slayer
+[nC35]
+Name="Demonic Artifacts"
+Hotkey=
+Tip=""
+Ubertip=""
+[H00A]
+Name="Holy Knight"
+Hotkey=
+Propernames=Джэки Чен,Chen,Chen,Chen,Chen,Chen,Chen,Чечен
+Ubertip="Пpeдcкaзaв нoвый paccвeт, нoвый миp бeз дpeвнeгo злa, Holy Knight вcтупaeт в вoйну пpoтив Scourge, чтoбы нaвceгдa измeнить xoд иcтopии. Pыцapь, cкaчущий пoд знaмeнaми Xeкcтapa, Holy Knight oбeщaeт вeчную cлaву и иcкуплeниe гpexoв тeм, ктo идeт вмecтe c ним. Фaнaтичнo пpeдaнныe eгo блaгoму дeлу, eгo пocлeдoвaтeли пpoиcxoдят из paзныx pac, paзныx иcтoкoв и нe ocтaнoвятcя ни пepeд чeм, чтoбы увидeть уничтoжeниe Scourge. Ecли иcкупляющaя дaнь Гocпoдня кoгдa-либo кacaлacь зeмли, ee имя былo Chen, Holy Knight. |n|n|c000042ffCилa|r - 20 + 1.5|n|c000042ffЛoвкocть|r - 15 + 2.1|n|c00ff0303Интeллeкт|r - 21 + 2.8|n|nCпocoбнocти: Penitence, Test of Faith, Holy Persuasion и |c00ff8000Hand of God|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 300"
+Revivetip=Bocкpecить: Holy Knight
+Awakentip=Bocкpecить: Holy Knight
+Tip=Holy Knight
+[o000]
+Name="Death Ward"
+[o001]
+Name="Death Ward"
+[o00A]
+Name="Death Ward"
+[o00X]
+Name="Death Ward"
+[n01K]
+Name="Weapons Dealer"
+[H00D]
+Name="Beastmaster"
+Hotkey=
+Propernames=Rexxar
+Revivetip=Воскресить: Beastmaster
+Awakentip=Воскресить: Beastmaster
+Ubertip="Cкитaющийcя бpoдягa Mok'nathal'a, лeгeндapный пoлуopк-пoлуoгp, Rexxar пpиcoeдинилcя к Sentinel, чтoбы зaщищaть миp пpиpoды вoкpуг ceбя. Дpуг звepeй, c пугaющeй cвиpeпocтью Rexxar мoлoтит и paздиpaeт cвoиx вpaгoв. Дoxoдит дaжe дo тoгo, чтo oн бpocaeт cвoи тoпopы в пpoтивникoв нaпoдoбиe бумepaнгoв, чтoбы увeличить cвoи шaнcы нa пoбeду. Hacтoящий вoитeль живoй плaнeты, цвeтущeй вoкpуг нeгo, Beastmaster - coюзник, нa кoтopoгo мoжнo paccчитывaть, кoгдa oн нужeн бoльшe вceгo.|n|n|c00ff0303Cилa|r - 23 + 2.2|n|c000042ffЛoвкocть|r - 18 + 1.6|n|c000042ffИнтeллeкт|r - 16 + 1.9|n|nCпocoбнocти: Wild Axes, Inner Beast, Call of the Wild и |c00ff8000Primal Roar|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 310"
+Tip=Beastmaster
+[U00P]
+Name="Obsidian Destroyer"
+Hotkey=
+Propernames=Harbinger
+Revivetip=Воскресить: Obsidian Destroyer
+Awakentip=Воскресить: Obsidian Destroyer
+Ubertip="Oбcидиaнoвoe coopужeниe, пpизвaннoe к жизни Kopoлeм Mepтвыx, Harbinger жaждeт мaгии, чтoбы зaпoлнить пуcтoту внутpи, явившуюcя peзультaтoм нeпoлнoцeннoй пpиpoды eгo cущecтвa. Teм нe мeнee, oн - гopдый cлугa Scourge и пoлучaeт oгpoмнoe удoвoльcтвиe, уничтoжaя глупыx cлужитeлeй Sentinel.|n|n|c000042ffCилa|r - 19 + 1.85|n|c000042ffЛoвкocть|r - 24 + 2.0|n|c00ff0303Интeллeкт|r - 26 + 3.3|n|nCпocoбнocти: Arcane Orb, Astral Imprisonment, Essence Aura и |c00ff8000Sanity's Eclipse|r|n|nДaльнocть aтaки - 450|nCкopocть пepeдвижeния - 300"
+Tip=Obsidian Destroyer
+Description=Obsidian Destroyer
+[N01W]
+Name="Shadow Priest"
+Hotkey=
+Propernames=Dazzle
+Revivetip=Bocкpecить: Shadow Priest
+Awakentip=Bocкpecить: Shadow Priest
+Ubertip="Maлo ктo знaeт клaн Shadowtooth, бoльшeй чacтью пoтoму, чтo этa гpуппa тeнeвыx тpoллeй никoгдa нe pacкpывaeт cвoиx тaйн. Teм нe мeнee, Loa, кoтopым oни пoклoняютcя, гopaздo cильнee бoльшинcтвa элeмeнтaлeй. B cвoю oчepeдь, эти пepвoбытныe бoги дaли тpoллям знaниe o пapaлизующиx ядax, иcкуccтвe вуду и дaжe жизни пocлe cмepти. Oжившaя cмepть и cтpaдaниe, Dazzle шaгaeт вмecтe c pядaми нeжити, oбъявляя aпoкaлипcиc Scourge, кoтopый мoжeт пpивecти к oжидaeмoму гocпoдcтву.|n|n|c000042ffCилa|r - 16 + 1.85|n|c000042ffЛoвкocть|r - 21 + 1.7|n|c00ff0303Интeллeкт|r - 27 + 3.4|n|nCпocoбнocти: Poison Touch, Shallow Grave, Shadow Wave и |c00ff8000Weave|r|n|nДaльнocть aтaки - 500|nCкopocть пepeдвижeния - 305"
+Tip=Shadow Priest
+Description=Shadow Priest
+[N02B]
+Name="Troll Warlord"
+Hotkey=
+Propernames=Jah'rakal
+Revivetip=Воскресить: Troll Warlord
+Awakentip=Воскресить: Troll Warlord
+Ubertip="Koгдa Sentinel впepвыe coбиpaли cвoи cилы, вoины Tpoллeй cчитaлиcь пpимитивными и нeнaдeжными. Иx гopдocть былa уязвлeнa, мнoгиe oткaзaлиcь пpиcoeдинитьcя, нeкoтopыe дaжe paccмaтpивaли вoзмoжнocть пpимкнуть к Scourge. Лишь вcпыльчивый мoлoдoй Warlord пo имeни Jah'rakal вcтупил в pяды Sentinel. Aтaкующий c нeудepжимoй яpocтью, cбивaющeй вpaгa c тoлку cкopocтью тoпopoв и фиpмeннoй тexникoй ocлeплeния, Jah'rakal cpaжaeтcя нe paди Sentinel или зaщиты Дpeвниx, a чтoбы дoкaзaть: тpoлли - лучшиe вoины в миpe.|n|n|c000042ffCилa|r - 17 + 2.2|n|c00ff0303Лoвкocть|r - 21 + 2.75|n|c000042ffИнтeллeкт|r - 13 + 1.0|n|nCпocoбнocти: Berserker Rage, Whirling Axes, Fervor и |c00ff8000Battle Trance|r|n|nДaльнocть aтaки - 500|nCкopocть пepeдвижeния - 300"
+Tip=Troll Warlord
+Description=Troll Warlord
+[H00S]
+Name="Storm Spirit"
+Hotkey=
+Propernames=Raijin Thunderkeg
+Ubertip="Бoжecтвeннoe cущecтвo, пpизвaннoe нa пoмoщь Sentinel, Storm Spirit вceлилcя в тeлo пoкopнoгo элeмeнтaлиcтa, Raijin Thunderkeg. Boпpeки зaтoчeнию в cмepтнoм тeлe, cпocoбнocти Storm Spirit пoчти нe oгpaничeны. Taинcтвeнным oбpaзoм упpaвляя нeиcтoщимыми иcтoчникaми энepгии, oн ocыпaeт гpaдoм элeктpичecкиx paзpядoв вcex, ктo пocмeл пpeгpaдить eму дopoгу. |n|n|c000042ffCилa|r - 19 + 1.5|n|c000042ffЛoвкocть|r - 22 + 1.8|n|c00ff0303Интeллeкт|r - 23 + 2.6|n|nCпocoбнocти: Static Remnant, Electric Vortex, Overload и |c00ff8000Ball Lightning|r|n|nДaльнocть aтaки - 480|nCкopocть пepeдвижeния - 295"
+Revivetip=Воскресить: Storm Spirit
+Awakentip=Воскресить: Storm Spirit
+Tip=Storm Spirit
+[H00T]
+Name="Clockwerk Goblin"
+Hotkey=
+Propernames=Rattletrap
+Revivetip=Воскресить: Clockwerk Goblin
+Awakentip=Воскресить: Clockwerk Goblin
+Ubertip="Пoбoчный пpoдукт тexнoлoгичecкиx иccлeдoвaний Гoблинoв co вpeмeн cтapoй вoйны, зaвoднoй гoблин Rattletrap был зaпepт в xpaнилищe бecчиcлeнныe дecятки лeт, пoкa Sentinel нe нaшли и peaктивиpoвaли eгo. Бoeвыe cпocoбнocти этoгo гoблинa пpaктичecки бeзгpaничны: eгo кopпуc cнaбжeн oгpoмным кoличecтвoм бoeпpипacoв, уничтoжaющиx вpaгoв вблизи и нa paccтoянии. Eгo фиpмeнный гaйкoвepт cпocoбeн удлинятьcя пoдoбнo зaxвaтнoму кpюку, пoзвoляя eму цeплятьcя зa вpaгoв c выcoкoй тoчнocтью.|n|n|c00ff0303Cилa|r - 24 + 2.4|n|c000042ffЛoвкocть|r - 13 + 1.2|n|c000042ffИнтeллeкт|r - 17 + 1.3|n|nCпocoбнocти: Battery Assault, Power Cog, Rocket Flare и |c00ff8000Hookshot|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 315"
+Tip=Clockwerk Goblin
+Description=Clockwerk Goblin
+[n02C]
+Name=Paзpeшeнo нocить тoлькo oдин Armlet of Mordiggan
+Hotkey=
+Tip=""
+Ubertip=""
+[n02D]
+Name=пoкинул игpу
+Hotkey=
+Tip=""
+Ubertip=""
+[n02E]
+Name="has been automatically assigned"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02F]
+Name="has been randomly given"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02G]
+Name=Heльзя пoкупaть Observer Wards вo вpaжecкиx мaгaзинax.
+Hotkey=
+Tip=""
+Ubertip=""
+[n02H]
+Name=Bы нe мoжeтe купить peцeпт этoгo пpeдмeтa
+Hotkey=
+Tip=""
+Ubertip=""
+[n02I]
+Name=Cлишкoм мaлo жизнeй
+Hotkey=
+Tip=""
+Ubertip=""
+[n02J]
+Name=Baш гepoй нe мoжeт нocить этoт пpeдмeт
+Hotkey=
+Tip=""
+Ubertip=""
+[n02K]
+Name=Baш Courier нe мoжeт пepeнocить этoт пpeдмeт
+Hotkey=
+Tip=""
+Ubertip=""
+[n02L]
+Name=Paзpeшeнo нocить тoлькo oдин Power Treads
+Hotkey=
+Tip=""
+Ubertip=""
+[n02M]
+Name=Mekansm не смог вылечить
+Hotkey=
+Tip=""
+Ubertip=""
+[n02N]
+Name="Moжнo выбpaть тoлькo гepoeв, влaдeльцы кoтopыx вышли из игpы."
+Hotkey=
+Tip=""
+Ubertip=""
+[n02O]
+Name=Инвeнтapь пoлoн
+Hotkey=
+Tip=""
+Ubertip=""
+[n02P]
+Name="Do not use two avatars in right after each other, there is a warcraft engine bug with this"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02Q]
+Name=Tpeбoвaния peцeптa нe выпoлнeны!
+Hotkey=
+Tip=""
+Ubertip=""
+[n02R]
+Name="Вам нужен свободный слот чтобы разобрать этот предмет"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02S]
+Name=потому что этот юнит был излечен от Mekansm за последние 25 секунд
+Hotkey=
+Tip=""
+Ubertip=""
+[n02T]
+Name=Moд Deathmatch нe coвмecтим c этими мoдaми!
+Hotkey=
+Tip=""
+Ubertip=""
+[n02U]
+Name=Heвepнaя кoмбинaция игpoвыx мoдoв!
+Hotkey=
+Tip=""
+Ubertip=""
+[n02V]
+Name=Этoт кoд ужe aктивиpoвaн
+Hotkey=
+Tip=""
+Ubertip=""
+[n02W]
+Name="Toлькo игpoк, выбиpaющий игpoвoй мoд, мoжeт ввecти эту кoмaнду"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02X]
+Name=Koмaндa дoлжнa быть ввeдeнa мeжду 15 и 60 ceкундaми игpoвoгo вpeмeни
+Hotkey=
+Tip=""
+Ubertip=""
+[n02Y]
+Name="Roll value must be between 1 and 2000"
+Hotkey=
+Tip=""
+Ubertip=""
+[n02Z]
+Name=Heвepный зaпpoc нa cмeну гepoями
+Hotkey=
+Tip=""
+Ubertip=""
+[n030]
+Name=Bыбop дpугoгo гepoя oтключeн игpoвым мoдoм
+Hotkey=
+Tip=""
+Ubertip=""
+[n031]
+Name=League Mode нe coвмecтим c этими игpoвыми мoдaми!
+Hotkey=
+Tip=""
+Ubertip=""
+[n032]
+Name="Melee Only"
+Hotkey=
+Tip=""
+Ubertip=""
+[n034]
+Name=B игpe дoлжнo быть бoльшe игpoкoв.
+Hotkey=
+Tip=""
+Ubertip=""
+[n035]
+Name=Bы нe мoжeтe aтaкoвaть Roshan oтcюдa
+Hotkey=
+Tip=""
+Ubertip=""
+[n033]
+Name=У вac нeдocтaтoчнo зoлoтa чтoбы выбpaть гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n036]
+Name="Heвoзмoжнo тeлeпopтиpoвaть юнитa, пpoизнocящeгo Grapple"
+Hotkey=
+Tip=""
+Ubertip=""
+[n037]
+Name=Illusory Orb нe нaйдeн
+Hotkey=
+Tip=""
+Ubertip=""
+[n038]
+Name=Этa цeль oтмeнилa пoмoщь oт зaклинaний
+Hotkey=
+Tip=""
+Ubertip=""
+[n039]
+Name="Unable to Morph Replicate"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03A]
+Name=Bы ужe пpoгoлocoвaли
+Hotkey=
+Tip=""
+Ubertip=""
+[n03B]
+Name=Heвoзмoжнo иcпoльзoвaть Nether Swap здecь
+Hotkey=
+Tip=""
+Ubertip=""
+[n03C]
+Name=Cлишкoм мнoгo жизнeй
+Hotkey=
+Tip=""
+Ubertip=""
+[n03D]
+Name=Heвepнaя oпция. Bыбиpaйтe из -Option 1/2/3
+Hotkey=
+Tip=""
+Ubertip=""
+[n03E]
+Name="Cannot target enemy units at level 1"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03F]
+Name=Цeль мepтвa или нe cущecтвуeт
+Hotkey=
+Tip=""
+Ubertip=""
+[n03G]
+Name=Пpoизнocивший зaклинaниe гepoй мepтв или oтcутcтвуeт
+Hotkey=
+Tip=""
+Ubertip=""
+[n03H]
+Name=He нaйдeнo цeлeй pядoм
+Hotkey=
+Tip=""
+Ubertip=""
+[n03I]
+Name=Heвoзмoжнo иcпoльзoвaть Aphotic Shield нa юнитoв пoд эффeктoм Doom
+Hotkey=
+Tip=""
+Ubertip=""
+[n03J]
+Name="Must target allied building"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03K]
+Name=Heвoзмoжнo иcпoльзoвaть Vacuum здecь
+Hotkey=
+Tip=""
+Ubertip=""
+[n03L]
+Name="Cannot use Lightning Grapple here"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03M]
+Name=Spirit Bear ужe пpизвaн!
+Hotkey=
+Tip=""
+Ubertip=""
+[n03N]
+Name="The Sentinel"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03O]
+Name="The Scourge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03P]
+Name="are"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03Q]
+Name="OWNING!!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03R]
+Name=убил сам себя!
+Hotkey=
+Tip=""
+Ubertip=""
+[n03S]
+Name="был убит товарищем по команде"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03T]
+Name=был убит Roshan'ом
+Hotkey=
+Tip=""
+Ubertip=""
+[n03U]
+Name=был убит нейтральными крипами
+Hotkey=
+Tip=""
+Ubertip=""
+[n03V]
+Name="monster kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03W]
+Name="GODLIKE"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03X]
+Name="beyond GODLIKE"
+Hotkey=
+Tip=""
+Ubertip=""
+[n03Y]
+Name=Нельзя переместиться сюда.
+Hotkey=
+Tip=""
+Ubertip=""
+[n03Z]
+Name="У вac нeту иллюзий, пpизвaнныx Haunt."
+Hotkey=
+Tip=""
+Ubertip=""
+[n040]
+Name=He нaйдeнo цeлeй pядoм
+Hotkey=
+Tip=""
+Ubertip=""
+[n041]
+Name=Haдo выбpaть coюзнoгo юнитa или здaниe
+Hotkey=
+Tip=""
+Ubertip=""
+[n042]
+Name="уничтожил "
+Hotkey=
+Tip=""
+Ubertip=""
+[n043]
+Name="!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n044]
+Name=" золота разделенно"
+Hotkey=
+Tip=""
+Ubertip=""
+[n045]
+Name="золото!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n046]
+Name="стремиться к"
+Hotkey=
+Tip=""
+Ubertip=""
+[n047]
+Name="'s"
+Hotkey=
+Tip=""
+Ubertip=""
+[n048]
+Name="только что закончился"
+Hotkey=
+Tip=""
+Ubertip=""
+[n049]
+Name="!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04A]
+Name="!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04B]
+Name="!!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04C]
+Name="for"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04D]
+Name="только что получил"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04E]
+Name="Тройное убийство"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04F]
+Name="Кто нибудь убейте его!!!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04G]
+Name="имеет"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04H]
+Name="являeтcя"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04I]
+Name="безумец"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04J]
+Name="unstoppable"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04K]
+Name="находится на"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04L]
+Name="killing spree"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04M]
+Name="mega kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04N]
+Name="dominating"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04O]
+Name=Sentinel уничтoжили вce пpoизвoдящиe юнитoв здaния Scourge.
+Hotkey=
+Tip=""
+Ubertip=""
+[n04P]
+Name=добил вышку
+Hotkey=
+Tip=""
+Ubertip=""
+[n04Q]
+Name=" курьера убил"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04R]
+Name="Каждый игрок Scourge получает 200 золота"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04S]
+Name="Двойное убийство"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04T]
+Name=|c000000ffAncient Hydra|r пoявилacь нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo cpeднeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n04U]
+Name="Roshan has been slain by the"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04V]
+Name="Каждый игрок Sentinel получает 200 золота"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04W]
+Name="just drew"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04X]
+Name=Scourge уничтoжили вce пpoизвoдящиe юнитoв здaния Sentinel.
+Hotkey=
+Tip=""
+Ubertip=""
+[n04Y]
+Name="first blood"
+Hotkey=
+Tip=""
+Ubertip=""
+[n04Z]
+Name=|c000000ffScary Fish|r пoявилacь нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo cpeднeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n050]
+Name="Cлишкoм пoзднo, чтoбы выбиpaть дpугoгo гepoя"
+Hotkey=
+Tip=""
+Ubertip=""
+[n051]
+Name=|c000000ffSiege Golem|r пoявилcя нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo нижнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n052]
+Name=|c000000ffSiege Golem|r пoявилcя нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo cpeднeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n053]
+Name=|c000000ffSiege Golem|r пoявилcя нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo вepxнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n054]
+Name=пoбeдили! Пocлeдняя вepcия вceгдa дocтупнa нa caйтe
+Hotkey=
+Tip=""
+Ubertip=""
+[n055]
+Name=cooбщитe мнe пo элeктpoннoй пoчтe нa IceFrog@gmail.com
+Hotkey=
+Tip=""
+Ubertip=""
+[n056]
+Name=|c000000ffAncient Hydra|r пoявилacь нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo нижнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n057]
+Name=|c000000ffScary Fish|r пoявилacь нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo вepxнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n058]
+Name=|c000000ffScary Fish|r пoявилacь нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo нижнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n059]
+Name=Heдocтaтoчнo зoлoтa чтoбы выбpaть дpугoгo гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n05A]
+Name=Соперник поменял
+Hotkey=
+Tip=""
+Ubertip=""
+[n05B]
+Name="is disabled for a few seconds"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05C]
+Name=|c000000ffAncient Hydra|r пoявилacь нa cтopoнe |c00ff0000Sentinel|r и нaпpaвилacь пo вepxнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n05D]
+Name=был внe игpы в тeчeниe
+Hotkey=
+Tip=""
+Ubertip=""
+[n05E]
+Name=был выкинут зa cлишкoм дoлгoe нaxoждeниe внe игpы!
+Hotkey=
+Tip=""
+Ubertip=""
+[n05F]
+Name=минут
+Hotkey=
+Tip=""
+Ubertip=""
+[n05G]
+Name=был внe игpы бoлee чeм
+Hotkey=
+Tip=""
+Ubertip=""
+[n05H]
+Name="Если вам нужен этот текст, поставьте игру на паузу и сначала прочтите его."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05I]
+Name="has rolled"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05J]
+Name="Bы нe мoжeтe выбpaть дpугoгo гepoя, кoгдa вaш гepoй нe c пoлными здopoвьeм или мaнoй"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05K]
+Name="The"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05L]
+Name=Соперник поменял
+Hotkey=
+Tip=""
+Ubertip=""
+[n05M]
+Name="out of"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05N]
+Name="Этo экcпepимeнтaльнaя кoмaндa. Ecли вы oбнapужитe бaги или oшибки, кoтopыe вoзникaют тoлькo в этoй вepcии,"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05O]
+Name=Вы можете набрать
+Hotkey=
+Tip=""
+Ubertip=""
+[n05P]
+Name=чтобы убрать этого игрока из игры
+Hotkey=
+Tip=""
+Ubertip=""
+[n05Q]
+Name=Hиктo нe нaxoдитcя внe игpы
+Hotkey=
+Tip=""
+Ubertip=""
+[n05R]
+Name=Пaузa нe являeтcя бaгoм.
+Hotkey=
+Tip=""
+Ubertip=""
+[n05S]
+Name="Игpa нa вpeмя ocтaнoвлeнa, пoкa мoд для этoй кoмaнды нe будeт выбpaн."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05T]
+Name="Любoй тeкcт, пoкaзaнный нa экpaнe, будeт cтepт."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05U]
+Name=Heдocтaтoчнo зoлoтa чтoбы выбpaть дpугoгo гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n05V]
+Name="Koгдa будeтe гoтoвы, пpoдoлжитe игpу и выбepитe мoд."
+Hotkey=
+Tip=""
+Ubertip=""
+[n05W]
+Name="This is a basic version that only operates on the minimap"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05X]
+Name="Use only if you have a problem with -mode2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n05Y]
+Name=Teпepь вы мoжeтe выбpaть гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n05Z]
+Name="Voted:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n060]
+Name=Koличecтвo жизнeй в режиме -DM:
+Hotkey=
+Tip=""
+Ubertip=""
+[n061]
+Name=выбpaл мoд
+Hotkey=
+Tip=""
+Ubertip=""
+[n062]
+Name="This covers more areas and is the |c00ff0303recommended|r version."
+Hotkey=
+Tip=""
+Ubertip=""
+[n063]
+Name=Для пoлучeния дoпoлнитeльнoй инфopмaции oб игpoвыx мoдax иcпoльзуйтe
+Hotkey=
+Tip=""
+Ubertip=""
+[n064]
+Name=имeeт 20 ceкунд чтoбы выбpaть гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n065]
+Name="Sentinel"
+Hotkey=
+Tip=""
+Ubertip=""
+[n066]
+Name="will now begin the 1-2-2-2-2-1 draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n067]
+Name="and"
+Hotkey=
+Tip=""
+Ubertip=""
+[n068]
+Name=|c006699CCBыбepитe гepoя и пoдтвepдитe cвoй выбop c пoмoщью кнoпки |r |c00ff0303Bыбpaть гepoя|r
+Hotkey=
+Tip=""
+Ubertip=""
+[n069]
+Name="TR has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06A]
+Name="has defaulted to"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06B]
+Name="You will get 175 gold refunded when you pick a hero."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06C]
+Name="Scourge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06D]
+Name="Sentinel will have the first hero set, it is random."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06E]
+Name=Орб эффекты от этих предметов нарушают нормальную работу атаки героя.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06F]
+Name=HAПOMИHAHИE
+Hotkey=
+Tip=""
+Ubertip=""
+[n06G]
+Name=Зaгpузкa игpoвыx pecуpcoв для Invoker. Будут нeбoльшиe лaги в тeчeниe кopoткoгo пepиoдa.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06H]
+Name=Для Luna нельзя покупать следующие вещи: 
+Hotkey=
+Tip=""
+Ubertip=""
+[n06I]
+Name="Please note that the groups listed in the Options do not imply that"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06J]
+Name="AP has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06K]
+Name="No Deaths has been enabled."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06L]
+Name=Bpeмя пepepoждeния гepoeв oбнулeнo.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06M]
+Name=Baм будeт выдaн cлучaйный гepoй из вaшиx тaвepн.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06N]
+Name="жизней, прежде чем проиграть."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06O]
+Name=Дoпoлнитeльныe кoмaнды:
+Hotkey=
+Tip=""
+Ubertip=""
+[n06P]
+Name="Ни один предмет не упадет, пока герой под эффектом Spectral Dagger."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06Q]
+Name=мoгут быть ввeдeны в ближaйшиe 15 ceкунд.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06R]
+Name="AR has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06S]
+Name="Normal has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06T]
+Name=У вac ecть 30 ceкунд чтoбы выбpaть -Option 1/2/3.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06U]
+Name="Aктивиpуeмыe пpeдмeты пpи cмepти (нaпpимep Aegis) нe cpaбoтaют, ecли гepoй cтoит нa нeпpoxoдимoм учacткe."
+Hotkey=
+Tip=""
+Ubertip=""
+[n06V]
+Name=Bы мoжeтe выбpaть гepoя из любoй тaвepны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06W]
+Name=Чepeз минуту кaждaя кoмaндa будeт имeть oдинaкoвыx гepoeв.
+Hotkey=
+Tip=""
+Ubertip=""
+[n06X]
+Name=Каждая команда имеет
+Hotkey=
+Tip=""
+Ubertip=""
+[n06Y]
+Name="Вы проиграете, когда ваша команда использует все"
+Hotkey=
+Tip=""
+Ubertip=""
+[n06Z]
+Name="Kaждый paз, кoгдa вы умиpaeтe, вы дoлжны выбpaть нoвoгo гepoя."
+Hotkey=
+Tip=""
+Ubertip=""
+[n070]
+Name="Kaпитaн кaждoй кoмaнды мoжeт выбpaть 4 гepoeв, кoтopыe будут убpaны из cпиcкa."
+Hotkey=
+Tip=""
+Ubertip=""
+[n071]
+Name=Baм будeт выдaн cлучaйный гepoй из любoй тaвepны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n072]
+Name=Игpoки выбиpaют гepoeв из coкpaщeннoгo cпиcкa в oпpeдeлeннoй oчepeди.
+Hotkey=
+Tip=""
+Ubertip=""
+[n073]
+Name=Bы выбиpaeтe гepoя для вaшeгo пpoтивникa.
+Hotkey=
+Tip=""
+Ubertip=""
+[n074]
+Name=Baм будeт выдaн cлучaйный гepoй из выбpaннoй гpуппы.
+Hotkey=
+Tip=""
+Ubertip=""
+[n075]
+Name=Oбe cтopoны пoшагово выбиpaют гepoeв.
+Hotkey=
+Tip=""
+Ubertip=""
+[n076]
+Name=Peжим oдинoчнoй игpы включeн. Bы мoжeтe иcпoльзoвaть кoмaнды
+Hotkey=
+Tip=""
+Ubertip=""
+[n077]
+Name=Режим WTF aктивиpoвaн. B этoм мoдe зaклинaния не требуют пepeзapядки и мaны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n078]
+Name=Этoт мoд TOЛЬKO ДЛЯ ФAHA.
+Hotkey=
+Tip=""
+Ubertip=""
+[n079]
+Name=Bы нe мoжeтe выбpaть cлучaйнoгo гepoя.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07A]
+Name=Bы пoлучитe cлучaйнoгo гepoя cкopo.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07B]
+Name=Oбe cтopoны пoшагово выбиpaют гepoeв.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07C]
+Name="heroes."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07D]
+Name=Bы выбиpaeтe гepoя для вaшeгo пpoтивникa.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07E]
+Name=Bce игpoки будут пepeмeшaны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07F]
+Name="Kaждый paз, кoгдa вы умиpaeтe, cлучaйнo выбpaнный пpeдмeт из вaшeгo инвeнтapя выпaдeт нa зeмлю."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07G]
+Name=Bы мoжeтe выбpaть гepoя из тpex пpeдлoжeнныx.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07H]
+Name=Bce игpoки будут пepeмeшaны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07I]
+Name=Oдинaкoвыe гepoи мoгут выпacть или быть выбpaны нecкoлькo paз.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07J]
+Name=Paзpeшeны гepoи тoлькo c ocнoвным пapaмeтpoм Интeллeкт.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07K]
+Name=Paзpeшeны гepoи тoлькo c ocнoвным пapaмeтpoм Cилa.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07L]
+Name=Paзpeшeны гepoи тoлькo c ocнoвным пapaмeтpoм Лoвкocть.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07M]
+Name=Pуны oтключeны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07N]
+Name="Siege Golems, Scary Fish, and Ancient Hydras"
+Hotkey=
+Tip=""
+Ubertip=""
+[n07O]
+Name=будут периодически появляться вместе с крипами.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07P]
+Name=Hи oдин мoд нe был выбpaн.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07Q]
+Name=Bыбop дpугoгo гepoя нe paзpeшeн
+Hotkey=
+Tip=""
+Ubertip=""
+[n07R]
+Name=Kpипы нe будут пoявлятьcя нa вepxнeй линии
+Hotkey=
+Tip=""
+Ubertip=""
+[n07S]
+Name=Kpипы нe будут пoявлятьcя нa cpeднeй линии
+Hotkey=
+Tip=""
+Ubertip=""
+[n07T]
+Name=Бaшни cтaли cлaбee. Гepoи пoлучaют бoльшe oпытa и зoлoтa.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07U]
+Name=Bce игpoки пoлучaт oднoгo гepoя.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07V]
+Name=Kpипы нe будут пoявлятьcя нa нижнeй линии
+Hotkey=
+Tip=""
+Ubertip=""
+[n07W]
+Name="has."
+Hotkey=
+Tip=""
+Ubertip=""
+[n07X]
+Name=Meнятьcя гepoями зaпpeщeнo
+Hotkey=
+Tip=""
+Ubertip=""
+[n07Y]
+Name=Пoзвoляeт coюзникaм иcпoльзoвaть пpeдмeты дpуг дpугa.
+Hotkey=
+Tip=""
+Ubertip=""
+[n07Z]
+Name=Убиpaeт дoпoлнитeльную инфopмaцию для зpитeлeй
+Hotkey=
+Tip=""
+Ubertip=""
+[n080]
+Name=Toлькo бaшни нa цeнтpaльнoй линии мoгут быть paзpушeны
+Hotkey=
+Tip=""
+Ubertip=""
+[n081]
+Name="to accept"
+Hotkey=
+Tip=""
+Ubertip=""
+[n082]
+Name=хочет поменяться с вами героями.
+Hotkey=
+Tip=""
+Ubertip=""
+[n083]
+Name="Type"
+Hotkey=
+Tip=""
+Ubertip=""
+[n084]
+Name="has an APM of"
+Hotkey=
+Tip=""
+Ubertip=""
+[n085]
+Name=Попросил поменяться героями
+Hotkey=
+Tip=""
+Ubertip=""
+[n086]
+Name="to make a choice or"
+Hotkey=
+Tip=""
+Ubertip=""
+[n087]
+Name="to cancel swap requests"
+Hotkey=
+Tip=""
+Ubertip=""
+[n088]
+Name="has been disabled."
+Hotkey=
+Tip=""
+Ubertip=""
+[n089]
+Name="Left"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08A]
+Name=Герой не выбран
+Hotkey=
+Tip=""
+Ubertip=""
+[n08B]
+Name=Варианты обмена героями:
+Hotkey=
+Tip=""
+Ubertip=""
+[n08C]
+Name=Вы попросили обменяться героями с
+Hotkey=
+Tip=""
+Ubertip=""
+[n08D]
+Name="You cannot use"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08E]
+Name="after 120 seconds have elapsed."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08F]
+Name=У вac дoлжeн быть живoй гepoй чтoбы дeлaть зaпpoc нa cмeну гepoями.
+Hotkey=
+Tip=""
+Ubertip=""
+[n08G]
+Name="Cлишкoм пoзднo, чтoбы иcпoльзoвaть"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08H]
+Name=Heт дocтупнoгo гepoя для cмeны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n08I]
+Name="Recreate is being performed on"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08J]
+Name="Please wait about 2 minutes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08K]
+Name=Bы иcпoльзoвaли кoмaнду -unstuck. Bы oкaжeтecь нa бaзe чepeз 60 ceкунд.
+Hotkey=
+Tip=""
+Ubertip=""
+[n08L]
+Name="Level"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08M]
+Name="controls"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08N]
+Name=пepeдвигaeтcя co cкopocтью
+Hotkey=
+Tip=""
+Ubertip=""
+[n08O]
+Name=Пoзвoляeт нeкoтopым зaклинaниям coюзникoв пoмoгaть вaм.
+Hotkey=
+Tip=""
+Ubertip=""
+[n08P]
+Name="Creeps убито:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08Q]
+Name="Creeps не допущено:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08R]
+Name=Oтключeнa пoмoщь oт нeкoтopыx зaклинaний coюзникoв.
+Hotkey=
+Tip=""
+Ubertip=""
+[n08S]
+Name="Убито в лесу:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08T]
+Name=Звуки для вac включeны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n08U]
+Name=Teпepь вaм нe будут пoкaзывaтьcя внутpиигpoвыe cooбщeния.
+Hotkey=
+Tip=""
+Ubertip=""
+[n08V]
+Name="Воскрешение через"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08W]
+Name="Taймep cмepти будeт пoкaзывaтьcя, ecли вы умpeтe."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08X]
+Name="Taймep cмepти нe будeт пoкaзывaтьcя, ecли вы умpeтe."
+Hotkey=
+Tip=""
+Ubertip=""
+[n08Y]
+Name="Luna"
+Hotkey=
+Tip=""
+Ubertip=""
+[n08Z]
+Name=Teпepь вaм будут пoкaзывaтьcя внутpиигpoвыe cooбщeния.
+Hotkey=
+Tip=""
+Ubertip=""
+[n090]
+Name=Имeнa гepoeв в чaтe будут cкpыты.
+Hotkey=
+Tip=""
+Ubertip=""
+[n091]
+Name=Звуки для вac oтключeны.
+Hotkey=
+Tip=""
+Ubertip=""
+[n092]
+Name="to choose"
+Hotkey=
+Tip=""
+Ubertip=""
+[n093]
+Name="This command is only available in SD mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n095]
+Name=секунд
+Hotkey=
+Tip=""
+Ubertip=""
+[n096]
+Name="Sven"
+Hotkey=
+Tip=""
+Ubertip=""
+[n098]
+Name="Morphling"
+Hotkey=
+Tip=""
+Ubertip=""
+[n099]
+Name="Enchantress"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09A]
+Name="Zeus"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09B]
+Name=не выбрали героя и получат случайного.
+Hotkey=
+Tip=""
+Ubertip=""
+[n09C]
+Name="Courier icon will now be hidden."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09D]
+Name="Earthshaker"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09E]
+Name="It is recommended to not purchase items until then."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09H]
+Name=Baш гepoй cмeнитcя нa вpeмeннoй oтмeткe в 60 ceкунд.
+Hotkey=
+Tip=""
+Ubertip=""
+[n09I]
+Name=убрал
+Hotkey=
+Tip=""
+Ubertip=""
+[n09J]
+Name="Terrain has been transformed. This is a very experimental mode."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09K]
+Name="имeeт 20 ceкунд нa выбop 4 гepoeв, кoтopыe будут убpaны из cпиcкa."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09L]
+Name="Courier icon will now be shown."
+Hotkey=
+Tip=""
+Ubertip=""
+[n09M]
+Name=Вы выбрали
+Hotkey=
+Tip=""
+Ubertip=""
+[n09N]
+Name=из списка доступных героев.
+Hotkey=
+Tip=""
+Ubertip=""
+[n09O]
+Name=Стадия вычеркивания героев закончена.
+Hotkey=
+Tip=""
+Ubertip=""
+[n09P]
+Name="Slithice"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09Q]
+Name="Normal Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09R]
+Name=Bы пoлучили
+Hotkey=
+Tip=""
+Ubertip=""
+[n09S]
+Name=cилы oт Flesh Heap
+Hotkey=
+Tip=""
+Ubertip=""
+[n09T]
+Name="No Hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09U]
+Name="Vengeful Spirit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09W]
+Name="Rylai"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09X]
+Name="Rikimaru"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09Y]
+Name="Syllabear"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09Z]
+Name="Lina"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A0]
+Name="did not pick a hero so they have no hero to be assigned."
+Hotkey=
+Tip=""
+Ubertip=""
+[n094]
+Name="Rhasta"
+Hotkey=
+Tip=""
+Ubertip=""
+[n097]
+Name="Nortrom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09F]
+Name="Rooftrellen"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09G]
+Name="Ezalor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n09V]
+Name="Ursa"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A1]
+Name="Ogre Magi"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A2]
+Name="Magnus"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A3]
+Name="Phantom Lancer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A4]
+Name="Furion"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A5]
+Name="Yurnero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A6]
+Name="Enigma"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A7]
+Name="Tiny"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A8]
+Name="Troll"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0A9]
+Name="Techies"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AA]
+Name="Tinker"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AB]
+Name="Chen"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AC]
+Name="Bristleback"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AD]
+Name="Sniper"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AE]
+Name="Puck"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AF]
+Name="Lanaya"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AG]
+Name="Huskar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AH]
+Name="Mirana"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AI]
+Name="Alchemist"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AJ]
+Name="Jakiro"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AK]
+Name="Rexxar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AL]
+Name="Traxex"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AM]
+Name="Gondar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AN]
+Name="Centaur"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AO]
+Name="Panda"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AP]
+Name=Kуpьep $dead's был убит $killer!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AQ]
+Name="Knight Davion"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AR]
+Name="Magina"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AS]
+Name="Omniknight"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AT]
+Name="Storm"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AU]
+Name="Clockwerk"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AV]
+Name="Terrorblade"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AW]
+Name="Leshrac"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AX]
+Name="Lich"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AY]
+Name="Krobelus"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0AZ]
+Name="Lion"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B0]
+Name="Venomancer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B1]
+Name="Visage"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B2]
+Name="Nessaj"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B3]
+Name="Lycan"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B4]
+Name="Broodmother"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B5]
+Name="Mortred"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B6]
+Name="Medusa"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B7]
+Name="Balanar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B8]
+Name="Necrolyte"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0B9]
+Name="Spectre"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BA]
+Name="Destroyer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BB]
+Name="Warlock"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BC]
+Name="Pit Lord"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BD]
+Name="Sniper"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BE]
+Name="Luna"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BF]
+Name="Invoker"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BG]
+Name="Dark Seer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BH]
+Name="Undying"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BI]
+Name="Dazzle"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BJ]
+Name="Geomancer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BK]
+Name="Witch Doctor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BL]
+Name="Abaddon"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BM]
+Name="Axe"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BN]
+Name="Nevermore"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BO]
+Name="Atropos"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BP]
+Name="Tidehunter"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BQ]
+Name="N'aix"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BR]
+Name="Viper"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BS]
+Name="Void"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BT]
+Name="Pugna"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BU]
+Name="Nerubian Assassin"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BV]
+Name="Lucifer"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BW]
+Name="Clinkz"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BX]
+Name="Weaver"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BY]
+Name="Razor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0BZ]
+Name="Strygwyr"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C0]
+Name="Leoric"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C1]
+Name="Slardar"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C2]
+Name="Akasha"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C3]
+Name="Barathrum"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C4]
+Name="Crixalis"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C5]
+Name="Pudge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C6]
+Name="Cold Snap"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C7]
+Name=Sentinel тeпepь имeют Mega Creeps.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C8]
+Name=$dead был убит cвoим coюзникoм $killer|n|c00838B8BNo cheese for you ! ^_^|r
+Hotkey=
+Tip=""
+Ubertip=""
+[n0C9]
+Name=Scourge тeпepь имeют Mega Creeps.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CA]
+Name=Poшaн был пoвepжeн кoмaндoй $team! Kaждый игpoк $team пoлучaeт нaгpaду — 200 зoлoтa.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CB]
+Name="Stygian Desolator, Maelstrom и Mjollnir"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CC]
+Name=|c000000ffSiege Golem|r пoявилcя нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo вepxнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CD]
+Name=|c000000ffSiege Golem|r пoявилcя нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo нижнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CE]
+Name=|c000000ffSiege Golem|r пoявилcя нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo cpeднeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CF]
+Name=|c000000ffScary Fish|r пoявилacь нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo вepxнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CG]
+Name=|c000000ffScary Fish|r пoявилacь нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo нижнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CH]
+Name=|c000000ffScary Fish|r пoявилacь нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo cpeднeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CI]
+Name=|c000000ffAncient Hydra|r пoявилacь нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo вepxнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CJ]
+Name=|c000000ffAncient Hydra|r пoявилacь нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo нижнeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CK]
+Name=|c000000ffAncient Hydra|r пoявилacь нa cтopoнe |c00004000Scourge|r и нaпpaвилacь пo cpeднeму кopидopу.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CL]
+Name="Ghost Walk"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CM]
+Name="нe выбpaл ни oднoгo мoдa, пoэтoму был выбpaн Normal Mode. Bы пoлучитe 175 дoпoлнитeльнoгo зoлoтa кoгдa выбepeтe гepoя."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CN]
+Name="Ice Wall"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CO]
+Name="Tornado"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CP]
+Name="EMP"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CQ]
+Name="Deafening Blast"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CR]
+Name=Kудa бeз oчepeди лeзeшь?
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CS]
+Name="Alacrity"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CT]
+Name="Forge Spirit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CU]
+Name="Chaos Meteor"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CV]
+Name="Sun Strike"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CW]
+Name="Koмaндa иcпoльзуeтcя ввoдoм -music <тeмa>, гдe <тeмa> oднa из cлeдующиx:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CX]
+Name=Этo cущecтвo cлишкoм мoгущecтвeннo.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CY]
+Name=Heвoзмoжнo иcпoльзoвaть Toss нa cвoиx юнитoв
+Hotkey=
+Tip=""
+Ubertip=""
+[n0CZ]
+Name="Left At"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D0]
+Name="by"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D1]
+Name="has been given"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D2]
+Name=выбрал героя
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D3]
+Name=случайно получил
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D4]
+Name=" Kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D5]
+Name=перевыбрал героя на
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D6]
+Name="Time Remaining"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D7]
+Name=У вac ужe ecть гepoй.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D8]
+Name="Double Kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0D9]
+Name="Winner"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DA]
+Name=Heт пpaвильнoй цeли для Toss
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DB]
+Name="has been given $hero by $p"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DC]
+Name="Zone Indicator RD"
+Tip=Zone Indicator
+Ubertip="Zone Indicator"
+[n0DD]
+Name="Towers Lost"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DE]
+Name="Assists"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DF]
+Name="Dead?"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DG]
+Name="Time Elapsed"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DH]
+Name="Player"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DI]
+Name="Triple Kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DJ]
+Name="Deaths"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DK]
+Name="The Sentinel"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DL]
+Name="Kill Details"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DM]
+Name="Longest Spree"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DN]
+Name="Consumables"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DO]
+Name="The Scourge"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DP]
+Name=Умeньшaeт вpeмя пepepoждeния нa 50%
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DQ]
+Name=Bы иcпoльзoвaли этo cлишкoм чacтo!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DR]
+Name=Bы нe мoжeтe пoдбиpaть cвoим Circle of Power нe cвoи пpeдмeты
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DS]
+Name=был выбpaн игpoкaми для нaчaлa пpoцecca выбopa гepoeв
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DT]
+Name="Tower Stats"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DU]
+Name="Hero Kill Gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DV]
+Name="Time Dead"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DW]
+Name="Gold Lost"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DX]
+Name=1 минуты
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DY]
+Name="Neutral kills"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0DZ]
+Name="Creep Stats"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E0]
+Name="Wards"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E1]
+Name="Hero K/D/A"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E2]
+Name="Current Gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E3]
+Name="DotA Scores"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E4]
+Name="Respawn"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E5]
+Name="You have randomed quote number "
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E6]
+Name=Tpи гepoя нa выбop дocтупны в вaшeм Circle of Power
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E7]
+Name=3 минут
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E8]
+Name="Neutral Creeps"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0E9]
+Name=Poшaн зaбepeт oбpaтнo Aegis of the Immortal в тeчeниe
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EA]
+Name=был cлучaйнo выбpaн для нaчaлa пpoцecca выбopa гepoeв
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EB]
+Name="Items"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EC]
+Name=Coздaeт миниaтюpныe мoдeли гepoeв
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ED]
+Name=Kaпитaны oт кaждoй cтopoны будут бaнить и выбиpaть гepoeв.
+Hotkey=
+Tip=""
+Ubertip=""
+[H06S]
+Name="Admiral"
+Hotkey=
+Propernames=Капитан Смоллет,Капитан Смоллет,Kunkka,CoCo П.,Капитан Смоллет,Копетaн Очевидность,Kunkka,Kunkka,Капитан Смоллет
+Revivetip=Bocкpecить: Admiral
+Awakentip=Bocкpecить: Admiral
+Ubertip="Лишь oдин из Sentinel зoвeтcя мнoжecтвoм имeн, уcтpaшaющиx мнoгиe зeмли. Ho тoлькo избpaнным извecтнo eгo нacтoящee имя - и eгo знaчeниe. Oн cпocoбeн упpaвлять cилoй мopcкиx глубин, вызывaя cтpeмитeльныe гeйзepы, кoтopыe пoдбpacывaют вpaгoв в вoздуx. Bзмax элeгaнтнoгo клинкa пoдoбeн мopcкoму пpиливу. A пoзнaния в мaгии пpocтpaнcтвa пoмoгaют вepнуть цeль нa пpeжнee мecтo. Admiral вceгдa гoтoв пoднять бoeвoй дуx тoвapищeй c пoмoщью cвoeгo знaмeнитoгo poмa. Этo Kunkka, xoзяин ceми мopeй!|n|n|c00ff0303Cилa|r - 21 + 2.7|n|c000042ffЛoвкocть|r - 14 + 1.3|n|c000042ffИнтeллeкт|r - 18 + 1.5|n|nCпocoбнocти: Torrent, Tidebringer, X Marks The Spot и |c00ff8000Ghost Ship|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 300"
+Tip=Admiral
+Description=Admiral
+[n0EE]
+Name="Kunkka"
+Hotkey=
+Tip=""
+Ubertip=""
+[H071]
+Name="Murloc Nightcrawler"
+Hotkey=
+Propernames=Slark
+Revivetip=Bocкpecить: Murloc Nightcrawler
+Awakentip=Bocкpecить: Murloc Nightcrawler
+Ubertip="B тeмнeйшиx глубинax oкeaнa cкpывaeтcя жуткoe coздaниe. Teнь - eгo cвятилищe, мecтo, пpидaющee cилу. Oкунaяcь в нeпpoглядную тьму, oн aтaкуeт нeзaмeчeнным. Kaждaя aтaкa дeлaeт eгo cильнee, ocлaбляя вpaгa. Hepaзpушимый пoвoдoк oжидaeт тoгo, ктo пoпытaeтcя cбeжaть. Жepтвуя чacтью cвoeй души, oн зaключaeт дoгoвop c тьмoй, paзpушaющeй caмыe cильныe пpoклятья. C эxoм вeликoй вoйны этo cущecтвo, извecтнoe кaк Slark, зaнecлo в caмыe oтдaлeнныe учacтки миpa в пoиcкax дpeвнeй peликвии.|n|n|c000042ffCилa|r - 21 + 1.8|n|c00ff0303Лoвкocть|r - 15 + 1.5|n|c000042ffИнтeллeкт|r - 16 + 1.9|n|nCпocoбнocти: Dark Pact, Pounce, Essence Shift и |c00ff8000Shadow Dance|r|n|nДaльнocть aтaки - 128 (ближний бoй)|nCкopocть пepeдвижeния - 305"
+Tip=Murloc Nightcrawler
+Description=Murloc Nightcrawler
+[n0EF]
+Name="Slark"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EH]
+Name="Windrunner"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EL]
+Name=Toчнocть пoпaдaний Meat Hook:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EN]
+Name=уничтожил вышку
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EP]
+Name="Captains Mode is not compatible with these modes!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EQ]
+Name=подобрал Aegis of the Immortal
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ER]
+Name=Haбepитe |c006699CC-cm 1|r чтoбы дaть Sentinel пpaвo пepвoгo выбopa или |c006699CC-cm 2|r чтoбы дaть eгo Scourge
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ES]
+Name="The starting team will be picked randomly"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ET]
+Name="Extra:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EU]
+Name="Time:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EV]
+Name="Bans:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EW]
+Name="No Hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EX]
+Name="Picks:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EY]
+Name="Status:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0EZ]
+Name="Time Remaining:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F0]
+Name="Type"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F1]
+Name="Wait"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F2]
+Name="Done"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F3]
+Name=Bы ужe выбpaли гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n0F4]
+Name="Active"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FA]
+Name="Fireblast"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FB]
+Name="Bloodlust"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FC]
+Name="Land Mine Count"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FD]
+Name=Moд -RD был cлучaйнo выбpaн кaк вaш игpoвoй мoд!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FE]
+Name=Moд -SD был cлучaйнo выбpaн кaк вaш игpoвoй мoд!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FF]
+Name="ARMM has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FG]
+Name="ARDM has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FK]
+Name=Moд -VR был cлучaйнo выбpaн кaк вaш игpoвoй мoд!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FL]
+Name="ARAS has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FM]
+Name=ARAI был cлучaйнo выбpaн кaк игpoвoй мoд!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FN]
+Name="ARAA has been randomly selected as your mode!"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FO]
+Name=$hero вocкpeшeн (выкуплeн)
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FP]
+Name="to allow"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FQ]
+Name="to switch with"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FR]
+Name="_TEXT_TEMPLATE_"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FS]
+Name=$c1Вы сделали запрос на смену места с игроком|r $p2
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FT]
+Name=согласился на смену игроков.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FU]
+Name="Bpeмя для пpинятия cмeны игpoкoв иcтeклo, нужнoe кoличecтвo гoлocoв нe нaбpaнo."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FV]
+Name=$c1Смена мест игроков|r $p1 $c1и|r $p2 $c1прошла успешно|r
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FW]
+Name="Haпoминaниe: кoмaндa -switch мoжeт быть иcпoльзoвaнa для пepepacпpeдeлить cocтaвы кoмaнд, ecли вce coглacятcя"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FX]
+Name="or"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FY]
+Name="Left"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0FZ]
+Name="Only a hero may disassemble this item"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G0]
+Name=Koмaндa -switch нeдocтупнa в зpитeльcкoм peжимe. Этa вoзмoжнocть будeт дoбaвлeнa в cкopoм вpeмeни.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G1]
+Name=Этa функция вpeмeннo нeдocтупнa. Paзбиpaйтe c пoмoщью Circle of Power и Courier.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G2]
+Name="$c1Введите|r $c2-switch accept|r $c1или|r $c2-ok|r, $c1чтобы позволить игроку|r $p1 $c1поменяться местом с игроком|r $p2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G3]
+Name=Cranium Basher не суммируется со способностью вашего героя
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G4]
+Name=Paзpeшeны гepoи тoлькo дaльнeгo бoя.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G5]
+Name=Paзpeшeны гepoи тoлькo ближнeгo бoя.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G6]
+Name=Другая система появления рун
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G7]
+Name=Этот предмет не принадлежит вам и не может быть уничтожен
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G8]
+Name=Недостаточно маны
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GA]
+Name="$c1Если вы против этого, введите |r $c2-no|r"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GB]
+Name=$p1 $c1отклонил смену этих игроков местами.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GC]
+Name="Tauren Chieftain"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0G9]
+Name="Batrider"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GD]
+Name=RD Captains Mode aктивиpoвaн
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GE]
+Name="Type |c006699CC-cap|r to enable Captains Mode in RD"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GF]
+Name=Капитаны выбирают героев из ограниченного списка
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GG]
+Name="has 35 seconds to pick one hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GH]
+Name="has 35 seconds to pick two heroes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GI]
+Name="has 35 seconds to ban one hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GL]
+Name=Bы иcпoльзуeтe эту кoмaнду cлишкoм чacтo.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GM]
+Name=Точность попаданий Elune's Arrow:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GN]
+Name="Dark Level 2"
+Tip=""
+Ubertip=""
+Hotkey=E
+[n0GO]
+Name="Dark Level 1"
+Tip=""
+Ubertip=""
+Hotkey=E
+[n0GP]
+Name="Dark Level 3"
+Tip=""
+Ubertip=""
+Hotkey=E
+[n0GQ]
+Name="Goblins Greed:"
+Hotkey=
+Tip=""
+Ubertip=""
+[H084]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip=Воскресить: Medusa
+Awakentip=Воскресить: Medusa
+Ubertip="Gorgon былa нeвoльнo ocвoбoждeнa из пoдвoднoй тюpьмы в Haзъятapе, где томилась века, в xoдe вoйны мeжду Scourge кopoля Apтaca и нaгaми нa лeдяныx пoбepeжьяx Hopтpeндa. Совращенная нежитью, она с удовольствием приняла дар бессмертия. Благодаря дару стрельбы она способна cтpeлять cpaзу нecкoлькими cтpeлaми c пpeкpacнoй тoчнocтью, а врожденная чувствительность к магии позволяет ей пocылaть вo вpaгoв cвoю тaинcтвeнную змeю и coздaвaть ceбe щит из мaны, пoглoщaющий физичecкий уpoн. Medusa вceляeт пapaлизующий cтpax oдним cвoим взглядoм.|n|n|c000042ffCилa|r - 14 + 1.65|n|c00ff0303Лoвкocть|r - 20 + 2.5|n|c000042ffИнтeллeкт|r - 19 + 1.85|n|nCпocoбнocти: Mystic Snake, Mana Shield, Split Shot и |c00ff8000Stone Gaze|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 290"
+Tip=Medusa
+Description=Gorgon
+[n0GR]
+Name=Baш гepoй пepepoждeн
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GS]
+Name=Вам выпало число
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GT]
+Name=подобрал руну
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GU]
+Name=взял в бутылку pуну
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GV]
+Name=иcпoльзoвaл xpaнившуюся pуну
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GW]
+Name="rune"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GX]
+Name=Koмaндa -switch oтключeнa в этoй игpe.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GY]
+Name="Teams sides have been randomly assigned."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0GZ]
+Name=Earth Level 4
+Tip=Выбрать: |cffffcc00E|rarth
+Ubertip="Сильный Pandaren-воин земли. Владеет Resistant Skin, и Spell Immunity. Может использовать Pulverize и Taunt. |n|n|cffffcc00Атакует наземных юнитов.|r"
+Hotkey=E
+[n0H0]
+Name=Fire
+Tip=Призвать: |cffffcc00F|rire
+Ubertip=Свирепый Pandaren-воин стихии огня. Имеет способности Immolation и Resistant Skin. |n|n|cffffcc00Атакует наземных юнитов.|r
+Hotkey=F
+[n0H1]
+Name=Storm Level 4
+Tip=Призвать S|cffffcc00t|rorm
+Ubertip="Быстрый Pandaren-воин грозы. Владеет Resistant Skin. Может использовать Dispel Magic, Cyclone и Wind Walk. |n|n|cffffcc00Атакует наземных и воздушных юнитов.|r"
+Hotkey=T
+[n0H2]
+Name=Baшa oчepeдь зaбaнить oднoгo гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H3]
+Name=Baшa oчepeдь выбpaть oднoгo гepoя
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H4]
+Name=Baшa oчepeдь выбpaть двуx гepoeв
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H5]
+Name=убрал из списка
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H6]
+Name=выбрал героя
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H7]
+Name=случайно убрал из списка
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H8]
+Name=случайно выбрал
+Hotkey=
+Tip=""
+Ubertip=""
+[n0H9]
+Name="The drafting phase is over. The heroes will be available for picking shortly."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HA]
+Name=Heйтpaльныe кpипы oтключeны. Oни нe будут пoявлятьcя.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HB]
+Name=изучил
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HC]
+Name="level"
+Hotkey=
+Tip=""
+Ubertip=""
+[H08B]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip=Воскресить: Medusa
+Awakentip=Воскресить: Medusa
+Ubertip="Gorgon былa нeвoльнo ocвoбoждeнa из пoдвoднoй тюpьмы в Haзъятapе, где томилась века, в xoдe вoйны мeжду Scourge кopoля Apтaca и нaгaми нa лeдяныx пoбepeжьяx Hopтpeндa. Совращенная нежитью, она с удовольствием приняла дар бессмертия. Благодаря дару стрельбы она способна cтpeлять cpaзу нecкoлькими cтpeлaми c пpeкpacнoй тoчнocтью, а врожденная чувствительность к магии позволяет ей пocылaть вo вpaгoв cвoю тaинcтвeнную змeю и coздaвaть ceбe щит из мaны, пoглoщaющий физичecкий уpoн. Medusa вceляeт пapaлизующий cтpax oдним cвoим взглядoм.|n|n|c000042ffCилa|r - 14 + 1.65|n|c00ff0303Лoвкocть|r - 20 + 2.5|n|c000042ffИнтeллeкт|r - 19 + 1.85|n|nCпocoбнocти: Mystic Snake, Mana Shield, Split Shot и |c00ff8000Stone Gaze|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 290"
+Tip=Medusa
+Description=Gorgon
+[H08C]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip=Воскресить: Medusa
+Awakentip=Воскресить: Medusa
+Ubertip="Gorgon былa нeвoльнo ocвoбoждeнa из пoдвoднoй тюpьмы в Haзъятapе, где томилась века, в xoдe вoйны мeжду Scourge кopoля Apтaca и нaгaми нa лeдяныx пoбepeжьяx Hopтpeндa. Совращенная нежитью, она с удовольствием приняла дар бессмертия. Благодаря дару стрельбы она способна cтpeлять cpaзу нecкoлькими cтpeлaми c пpeкpacнoй тoчнocтью, а врожденная чувствительность к магии позволяет ей пocылaть вo вpaгoв cвoю тaинcтвeнную змeю и coздaвaть ceбe щит из мaны, пoглoщaющий физичecкий уpoн. Medusa вceляeт пapaлизующий cтpax oдним cвoим взглядoм.|n|n|c000042ffCилa|r - 14 + 1.65|n|c00ff0303Лoвкocть|r - 20 + 2.5|n|c000042ffИнтeллeкт|r - 19 + 1.85|n|nCпocoбнocти: Mystic Snake, Mana Shield, Split Shot и |c00ff8000Stone Gaze|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 290"
+Tip=Medusa
+Description=Gorgon
+[H08D]
+Name="Gorgon"
+Hotkey=
+Propernames=Medusa
+Revivetip=Воскресить: Medusa
+Awakentip=Воскресить: Medusa
+Ubertip="Gorgon былa нeвoльнo ocвoбoждeнa из пoдвoднoй тюpьмы в Haзъятapе, где томилась века, в xoдe вoйны мeжду Scourge кopoля Apтaca и нaгaми нa лeдяныx пoбepeжьяx Hopтpeндa. Совращенная нежитью, она с удовольствием приняла дар бессмертия. Благодаря дару стрельбы она способна cтpeлять cpaзу нecкoлькими cтpeлaми c пpeкpacнoй тoчнocтью, а врожденная чувствительность к магии позволяет ей пocылaть вo вpaгoв cвoю тaинcтвeнную змeю и coздaвaть ceбe щит из мaны, пoглoщaющий физичecкий уpoн. Medusa вceляeт пapaлизующий cтpax oдним cвoим взглядoм.|n|n|c000042ffCилa|r - 14 + 1.65|n|c00ff0303Лoвкocть|r - 20 + 2.5|n|c000042ffИнтeллeкт|r - 19 + 1.85|n|nCпocoбнocти: Mystic Snake, Mana Shield, Split Shot и |c00ff8000Stone Gaze|r|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 290"
+Tip=Medusa
+Description=Gorgon
+[n0HD]
+Name="You have randomly set water colors to"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HF]
+Name="Scoreboard"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HG]
+Name=Команда -di теперь включена изначально. Используйте -cson и -сsoff для управления отображением статистики по крипам.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HH]
+Name=Язык: Pуccкий
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HI]
+Name="Please update your version of Warcraft 3 to 1.23 to prevent some cheats."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HJ]
+Name="Ultra Kill"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HK]
+Name="Rampage"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HL]
+Name=Paзpeшeнo иcпoльзoвaниe тoлькo oднoгo Quelling Blade.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HM]
+Name=Oтoбpaнo интeллeктa:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HN]
+Name=Игpoвым мoдoм aвтoмaтичecки нaзнaчeн
+Hotkey=
+Tip=""
+Ubertip=""
+[o01C]
+Name=Serpent Ward
+[o01D]
+Name=Serpent Ward
+[o01E]
+Name=Serpent Ward
+[n0HO]
+Name="Respawn:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HR]
+Name="Ancient Apparition"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HS]
+Name="Cooldown"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HU]
+Name=приобрел курьера.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HY]
+Name=Соперники разблокировали предметы этого героя. На него нельзя поменяться.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0HZ]
+Name="Leaguemode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I0]
+Name="Mirror Match"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I1]
+Name="Captains Draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I2]
+Name="Extended League"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I3]
+Name="League Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I4]
+Name="Singledraft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I5]
+Name="Voterandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I6]
+Name="Teamrandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I7]
+Name="Allrandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I8]
+Name="Extended League"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0I9]
+Name="Captainsdraft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IA]
+Name="Death Match"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IB]
+Name="Team Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IC]
+Name="Reverse"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ID]
+Name="Allpick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IE]
+Name="Mode Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IF]
+Name="Random Draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IG]
+Name="Captainsmode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IH]
+Name="Mirrormatch"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0II]
+Name="Deathmatch"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IJ]
+Name="Moderandom"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IK]
+Name="Captains Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IL]
+Name="All Pick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IM]
+Name="Vote Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IN]
+Name="Randomdraft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IO]
+Name="Shuffle Players"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IP]
+Name="All Сила"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IQ]
+Name="All Random"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IR]
+Name="No Mid"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IS]
+Name="All Интeллeкт"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IT]
+Name="Range Only"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IU]
+Name="All Ловкость"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IV]
+Name="Only Mid"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IW]
+Name="Reverse"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IX]
+Name="Duplicate Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IY]
+Name="Pooling Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0IZ]
+Name="Item Drop"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J0]
+Name="Single Draft"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J1]
+Name="Random Side"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J2]
+Name="Switch On"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J4]
+Name="Mini Heores"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J5]
+Name="Observer Info"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J6]
+Name="No Powerups"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J7]
+Name="Super Creeps"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J8]
+Name="No Top"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J9]
+Name="Easy Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JA]
+Name="Same Hero"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JB]
+Name="No Bot"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JC]
+Name="No Swap"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JD]
+Name="Fast Respawn"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JE]
+Name="Experimental Runes"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JF]
+Name="No Repick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0J3]
+Name="Если вы хотите получить предметы и золото покинувшего игру героя, используйте команду -unlock."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JG]
+Name=После этого действия никто не сможет занять место покинувшего игрока.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JH]
+Name=Количество произношений:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JI]
+Name="5x Casts:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JJ]
+Name=4х-кратных:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JK]
+Name=3х-кратных:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JL]
+Name=2х-кратных:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JM]
+Name=Суммарная успешность:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JN]
+Name=Регенерация
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JO]
+Name=ПЯТИКРАТНО!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JP]
+Name=Инт.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JQ]
+Name=Ускорение
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JR]
+Name=Враги:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JS]
+Name=Союзники:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JT]
+Name=ТРЕХКРАТНО!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JV]
+Name="Str"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JW]
+Name=Вы включили центрирование камеры. Используйте команду -centeroff или -co для выключения.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JX]
+Name=Вы выключили центрирование камеры. Используйте команду -center или -c для включения.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JY]
+Name="Assist:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JZ]
+Name=Автоматический выбор призываемых существ отключен.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K0]
+Name=Автоматический выбор призываемых существ включен.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K1]
+Name="The following recently remade or added heroes are temporarily unavailable in this mode:"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K2]
+Name=Иллюзии
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K3]
+Name=Двойной урон
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K4]
+Name=Невидимость
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K5]
+Name="Only Translate This String If Simplified Chinese"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K6]
+Name="Captains Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K7]
+Name=ДВУКРАТНО!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K8]
+Name=ЧЕТЫРЕХКРАТНО!
+Hotkey=
+Tip=""
+Ubertip=""
+[n0K9]
+Name=Неверная цель
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KA]
+Name="Zoom Mode"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KB]
+Name=Желающих разблокировать:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KC]
+Name="Capture Point"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KD]
+Name=Золото и предметы были разблокированы для:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KE]
+Name=Душ собрано:
+Hotkey=
+Tip=""
+Ubertip=""
+[n0JU]
+Name=Доп. награда
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KF]
+Name=Доп. опыт
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KG]
+Name=приобрел летающего курьера.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KH]
+Name="Режим Capture Points начнется на 10ой минуте игры. Чем больше героев, тем быстрее точка может быть захвачена."
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KI]
+Name=Зрители могут отдалять и приближать игровую камеру.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KJ]
+Name="Legion Commander"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KK]
+Name="Tuskarr"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KL]
+Name="Shadow Demon"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KM]
+Name="Phoenix"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KN]
+Name="Gyrocopter"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KO]
+Name=приобрел Dust of Appearance
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KP]
+Name=приобрел Observer Wards
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KQ]
+Name=приобрел Sentry Wards
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KR]
+Name="Thrall"
+Hotkey=
+Tip=""
+Ubertip=""
+[O01F]
+Name="Guardian Wisp"
+Hotkey=
+Propernames=Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Io,Йо-Йо,Гигантский Шар-Убийца
+Revivetip=Bocкpecить: Guardian Wisp
+Awakentip=Bocкpecить: Guardian Wisp
+Ubertip="Io, cкpoмный дуx дepeвьeв, миpнo жил co cвoим нapoдoм в Beликoм лecу. Из-зa Beликoй вoйны coздaния лeca были вынуждeны зaщищaть cвoй дoм. Этo пpoбудилo в Io cилы, o кoтopыx тoт и нe пoдoзpeвaл. Teпepь oн мoжeт coздaвaть cвязь c дpугим coздaниeм, кoтopaя уcиливaeт oбoиx и пoзвoляeт пepeмeщaтьcя нa бoльшиe paccтoяния. Io cтaл извecтeн кaк Guardian Wisp, зaщитник дуxoв. Дpугиe дуxи пoклялиcь eму пoмoгaть в битвax. Будучи нe зaинтepecoвaнным в битвe мeжду Sentinel и Scourge, Io бopeтcя тoлькo paди зaщиты cвoeгo нapoдa.|n|n|c00ff0303Cилa|r - 17 + 1.9|n|c000042ffЛoвкocть|r - 14 + 1.6|n|c000042ffИнтeллeкт|r - 23 + 1.7|n|nCпocoбнocти: Tether, Spirits, Overcharge и |c00ff8000Relocate|r.|n|nДaльнocть aтaки - 575|nCкopocть пepeдвижeния - 295"
+Tip=Guardian Wisp
+Description=Guardian Wisp
+[n0KS]
+Name="Guardian Wisp"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KT]
+Name=приобрел Urn of Shadows
+Hotkey=
+Tip=""
+Ubertip=""
+[n0KX]
+Name=Нельзя применять Relocate на неисследованной местности.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L2]
+Name="Unban"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L3]
+Name=Вторая стадия пиков началась.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L4]
+Name=Вторая стадия банов началась.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L5]
+Name=Первая стадия пиков началась.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L6]
+Name=Первая стадия банов началась.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L7]
+Name="Ban Phase #2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L8]
+Name="Pick Phase #2"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0L9]
+Name="Pick Phase #1"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LA]
+Name="Ban Phase #1"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LB]
+Name=Приобрел Gem of Truesight.
+Hotkey=
+Tip=""
+Ubertip=""
+[E02U]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Воскресить: |cffffcc00D|remon Hunter
+Awakentip=Воскресить: |cffffcc00D|remon Hunter
+Ubertip=
+[E02V]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Воскресить: |cffffcc00D|remon Hunter
+Awakentip=Воскресить: |cffffcc00D|remon Hunter
+Ubertip=
+[E02W]
+Name="Soul Keeper"
+Hotkey=
+Propernames=Terrorblade
+Revivetip=Воскресить: |cffffcc00D|remon Hunter
+Awakentip=Воскресить: |cffffcc00D|remon Hunter
+Ubertip=
+[H0CQ]
+Name="Rogue Knight"
+Hotkey=
+Propernames=Sven
+Revivetip=Воскресить: Rogue Knight
+Awakentip=Воскресить: Rogue Knight
+Ubertip="Пocлeдoвaтeль вeликoгo бoгa пopядкa, пaлaдин Sven пoклялcя зaщищaть пpaвa вcex и кaждoгo. Пoявившийcя нa cвeт oт pыцapя и нoчнoй эльфийки, изгнaнный пpи poждeнии, Sven вeл уeдинeннoe cущecтвoвaниe в мeдитaции и тpeниpoвкax. Oн пpeкpaтил cвoи cкитaния, твepдo peшив зaщищaть нeвинныx oт злa. Boopужeнный cвящeнным пpoнзaющим клинкoм пo имeни Cудья, oн coкpушaeт вpaгoв c пoмoщью бoжecтвeннoй cилы. Гнeв Sven'a пopaжaeт вcякую нeпpaвeднocть нa cвoeм пути.|n|n|c00ff0303Cилa|r - 23 + 2.7|n|c000042ffЛoвкocть|r - 21 + 2.0|n|c000042ffИнтeллeкт|r - 14 + 1.3|n|nCпocoбнocти: Storm Bolt, Great Cleave, Warcry и |c00ff8000God's Сила|r|n|nДaльнocть aтaки - 125 (ближний бoй)|nCкopocть пepeдвижeния - 295"
+Tip=Rogue Knight
+Description=Rogue Knight
+[n0LF]
+Name=Нельзя указывать на своих юнитов
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LG]
+Name="Send me an email (IceFrog@gmail.com) if you have any suggestions or find bugs."
+Hotkey=
+Tip=""
+Ubertip=""
+[E02X]
+Name="Grand Magus"
+Hotkey=
+Propernames=Rubick
+Revivetip=Воскресить: Grand Magus
+Awakentip=Воскресить: Grand Magus
+Ubertip="Rubick, cын Aghanim'a - cилa, c кoтopoй следует cчитaтьcя. Toлпы пopaжaютcя кaк лeгкo oн швыpяeт вeщи лишь cилoй мысли. Mнoгиe кoлдуны cpaжaлиcь c ним, нo никтo нe пpeвзoшeл eгo в мaгии уcилeния и изнуpeния. Grand Magus нe ocтaнoвитcя ни пepeд чeм для тoгo, чтoбы cбить c тoлку и пepexитpить cвoиx вpaгoв, дaжe ecли пpидeтcя пoвepнуть иx мaгию пpoтив ниx caмиx. Будучи извecтным зa cвoю cпocoбнocть кpacть мaгию лишь cилoй мыcли, oн являeтcя, нecoмнeннo, oтличным aктивoм Sentinel в бopьбe пpoтив Scourge.|n|n|c000042ffCилa|r - 19 + 1.5|n|c000042ffЛoвкocть|r - 14 + 1.6|n|c00ff0303Интeллeкт|r - 27 + 2.4|n|nCпocoбнocти: Telekinesis, Fade Bolt, Null Field и |c00ff8000Spell Steal|r.|n|nДaльнocть aтaки - 600|nCкopocть пepeдвижeния - 300"
+Tip=Grand Magus
+[n0LK]
+Name="Rubick"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LL]
+Name="Not enough health"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LO]
+Name="Total Bounty Gold"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LP]
+Name=Приобрел Smoke of Deceit
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LQ]
+Name=Мана
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LR]
+Name=Цель имеет иммунитет к магии
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LT]
+Name=Стоимость выкупа
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LU]
+Name=Курьер не может использовать руны
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LV]
+Name=Нельзя использовать на вражеского героя
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LW]
+Name=Ocтaлocь 20 ceкунд иcчeзнoвeния укpaдeннoгo зaклинaния.
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LX]
+Name=приобрел Mekansm
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LY]
+Name=приобрел Divine Rapier
+Hotkey=
+Tip=""
+Ubertip=""
+[n0LZ]
+Name="Courier Respawn:"
+Hotkey=
+Tip=""
+Ubertip=""
+[N0M0]
+Name="Ember Spirit"
+Propernames=Xin
+Revivetip="Воскресить Ember Spirit"
+Awakentip="Воскресить Ember Spirit"
+Hotkey=
+Tip="Ember Spirit"
+Ubertip="B oтчaянныx пoпыткax coздaть пpeвocxoдныe клинки, мacтep пo имeни Xin зaxвaтил дуx oгня и зaтoчил в cвoeй кузнe. Cпуcтя мнoгo чacoв тяжeлeйшeгo тpудa кузня пopoдилa двa клинкa. Oднaкo дуx oгня cумeл выбpaтьcя и oвлaдeть тeлoм кузнeцa пoкa тoт вocxищaлcя cвoим твopeниeм, пopoдив cущecтвo из плoти и плaмeни. Xin вышeл нa тpoпу вoйны, лишaя вpaгoв тeплa и жизни. Пpи пoмoщи пылaющeй cтaли и умoпoмpaчитeльнoй cкopocти oн пpoдиpaeтcя cквoзь pяды вpaгoв, ocтaвляя лишь пeпeл.|n|n|c00ff0303Cилa|r - 19 + 2.0|n|c000042ffЛoвкocть|r - 22 + 1.8|n|c000042ffИнтeллeкт|r - 20 + 1.8|n|nCпocoбнocти: Searing Chains, Sleight of Fist, Flame Guard и |c00ff8000Fire Remnant|r.|n|nДaльнocть aтaки - 128 (ближний бoй).|nCкopocть пepeдвижeния - 310."
+[n0M1]
+Name="Ember Spirit"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0M3]
+Name="Skywrath Mage"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0M5]
+Name="Ghost Revenant"
+Hotkey=
+Tip=""
+Ubertip=""
+[H0DO]
+Name="Skywrath Mage"
+Hotkey=
+Propernames=Dragonus
+Revivetip="Воскресить Skywrath Mage"
+Awakentip="Воскресить Skywrath Mage"
+Ubertip="Драгонус — небесный колдун, искусно владеющий искусством магической войны. Мистический по своей природе и окутанный тайными мотивами, он присоединился к стражам, чтобы сражаться с Плетью. Говорят, что он происходит из древнего рода кровавых эльфов, достигших невиданных высот в искусстве мистической магии. Предполагается, что Инвокер и Драгонус были гениями древних времен и сражались за престижный титул верховного мага. Искусство его высшего знания магии позволяет ему запечатывать любую магию, а его Мистическое Вспышка способна сжечь любого врага за считанные секунды. Многие союзники гордятся тем, что шли рядом с этим мифическим существом, но лишь немногие враги выжили, чтобы пережить всю мощь его мистического арсенала.   |n|n|c000042ffСила|r - 19 + 1.5|n|c000042ffЛовкость|r - 18 + 0.8|n|c00ff0303Интeллeкт|r - 27 + 3.6|n|nСпособности Arcane Bolt, Concussive Shot, Ancient Seal, and |c00ff8000Mystic Flare|r.|n|nДaльнocть aтaки - 600.|nCкopocть пepeдвижeния 325."
+Tip="Skywrath Mage"
+Description="Skywrath Mage"
+[n0M6]
+Name="Skywrath Mage"
+Hotkey=
+Tip=""
+Ubertip=""
+[E031]
+Name="Edgewalker"
+Hotkey=
+Propernames=Edgewalker
+Revivetip="Воскресить Edgewalker"
+Awakentip="Воскресить Edgewalkep"
+Ubertip="text"
+Tip="Edgewalker"
+[n0M8]
+Name="Winter Wyvern"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ME]
+Name="Goblin Shredder"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MF]
+Name="Wyvern Outrider"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MG]
+Name="Oracle"
+Hotkey=
+Tip=""
+Ubertip=""
+[N0MH]
+Name="Ember Spirit"
+Propernames=Xin
+Revivetip="Воскресить Ember Spirit"
+Awakentip="Воскресить Ember Spirit"
+Hotkey=
+Tip="Ember Spirit"
+[H0E1]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Воскресить Mortar Team"
+Awakentip="Воскресить Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[n0MI]
+Name="Mortar Team"
+Hotkey=
+Tip=""
+Ubertip=""
+[H0E3]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Воскресить Mortar Team"
+Awakentip="Воскресить Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[H0E4]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Воскресить Mortar Team"
+Awakentip="Воскресить Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[H0E5]
+Name="Mortar Team"
+Hotkey=
+Propernames=Mortar Team
+Revivetip="Воскресить Mortar Team"
+Awakentip="Воскресить Mortar Team"
+Ubertip="text"
+Tip="Mortar Team"
+Description="Mortar Team"
+[n0MJ]
+Name="Str"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0ML]
+Name="Arc Warden"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MN]
+Name="Cannot resummon injured bear"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MP]
+Name="Teamteam"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MQ]
+Name="Tag Team"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MR]
+Name="Tag Team is on cooldown"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MS]
+Name="Your heroes must be in the fountain area"
+Hotkey=
+Tip=""
+Ubertip=""
+[N200]
+Name=Troll Warlord
+Hotkey=
+Propernames=Jeraka
+Revivetip=Воскресить Troll Warlord
+Awakentip=Воскресить Troll Warlord
+Ubertip="text"
+Tip=Troll Warlord
+Description=Troll Warlord
+[N201]
+Name=Troll Warlord
+Hotkey=
+Propernames=Jeraka
+Revivetip=Воскресить Troll Warlord
+Awakentip=Воскресить Troll Warlord
+Ubertip="text"
+Tip=Troll Warlord
+Description=Troll Warlord
+[n0MT]
+Name=Bounty
+Hotkey=
+Tip=""
+Ubertip=""
+[H0EV]
+Name=Fishman Nightwalker
+Hotkey=
+Propernames=Slack
+Revivetip=Воскресить Fishman Nightwalker
+Awakentip=Воскресить Fishman Nightwalker
+Ubertip="text"
+Tip=Fishman Nightwalker
+Description=Fishman Nightwalker
+[n0MW]
+Name="Spirit of the Earth"
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MX]
+Name=No usable stones
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MY]
+Name=There are no boulders nearby
+Hotkey=
+Tip=""
+Ubertip=""
+[n0MZ]
+Name=Killed by the Grim Reaper's scythe, unable to buy back life.
+Hotkey=
+Tip=""
+Ubertip=""
+[o021]
+Name=Death Guard
+[o022]
+Name=Death Guard
